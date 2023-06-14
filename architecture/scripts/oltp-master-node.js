@@ -1,0 +1,1 @@
+rs.initiate({_id: 'oltp', version: 1, members:[{_id: 0, host: 'oltp-node-1:27017'}, {_id: 1, host: 'oltp-node-2:27017'}]})

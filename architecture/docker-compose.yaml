@@ -1,0 +1,127 @@
+# Document to configure the deployment of two secure mongoDB shards for a OLTP databse and a OLAP database
+
+version: '3.7'
+services:
+  # Router setup
+  oltp-router:
+    image: mongo:6.0.6
+    container_name: oltp-router
+    restart: always
+    ports:
+      - 50001:27017
+    volumes:
+      - ./scripts:/scripts
+      - ./data/oltp-router:/data/db
+    command: mongos --port 27017 --configdb oltp-config-server/oltp-config-1:27017 --bind_ip_all
+    networks:
+      - mongo-cluster
+
+  olap-router:
+    image: mongo:6.0.6
+    container_name: olap-router
+    restart: always
+    ports:
+      - 50002:27017
+    volumes:
+      - ./scripts:/scripts
+      - ./data/olap-router:/data/db
+    command: mongos --port 27017 --configdb olap-config-server/olap-config-1:27017 --bind_ip_all
+    networks:
+      - mongo-cluster
+
+  # Config server for replica sets
+  oltp-config-1:
+    image: mongo:6.0.6
+    container_name: oltp-config-1
+    restart: always
+    ports:
+      - 50003:27017
+    volumes:
+      - ./scripts:/scripts
+      - ./data/oltp-config-1:/data/db
+    command: mongod --port 27017 --configsvr --replSet oltp-config-server --bind_ip_all
+    networks:
+      - mongo-cluster
+    links:
+      - oltp-node-1
+      - oltp-node-2
+
+  olap-config-1:
+    image: mongo:6.0.6
+    container_name: olap-config-1
+    restart: always
+    ports:
+      - 50004:27017
+    volumes:
+      - ./scripts:/scripts
+      - ./data/olap-config-1:/data/db
+    command: mongod --port 27017 --configsvr --replSet olap-config-server --bind_ip_all
+    networks:
+      - mongo-cluster
+    links:
+      - olap-node-1
+      - olap-node-2
+
+  # OLTP replica sets nodes
+
+  oltp-node-1:
+    image: mongo:6.0.6
+    container_name: oltp-node-1
+    restart: always
+    ports:
+      - 50005:27017
+    volumes:
+      - ./scripts:/scripts
+      - ./data/oltp-node-1:/data/db
+    command: mongod --port 27017 --shardsvr --replSet oltp
+    networks:
+      - mongo-cluster
+    links:
+      - oltp-node-2
+
+  oltp-node-2:
+    image: mongo:6.0.6
+    container_name: oltp-node-2
+    restart: always
+    ports:
+      - 50006:27017
+    volumes:
+      - ./scripts:/scripts
+      - ./data/oltp-node-2:/data/db
+    command: mongod --port 27017 --shardsvr --replSet oltp
+    networks:
+      - mongo-cluster
+
+  # OLAP replica sets nodes
+
+  olap-node-1:
+    image: mongo:6.0.6
+    container_name: olap-node-1
+    restart: always
+    ports:
+      - 50007:27017
+    volumes:
+      - ./scripts:/scripts
+      - ./data/olap-node-1:/data/db
+    command: mongod --port 27017 --shardsvr --replSet olap
+    networks:
+      - mongo-cluster
+    links:
+      - olap-node-2
+
+  olap-node-2:
+    image: mongo:6.0.6
+    container_name: olap-node-2
+    restart: always
+    ports:
+      - 50008:27017
+    volumes:
+      - ./scripts:/scripts
+      - ./data/olap-node-2:/data/db
+    command: mongod --port 27017 --shardsvr --replSet olap
+    networks:
+      - mongo-cluster
+
+networks:
+  mongo-cluster:
+    driver: bridge

@@ -1,0 +1,1 @@
+rs.initiate({_id: 'oltp-config-server', configsvr: true, version: 1, members:[{_id: 0, host: 'oltp-config-1:27017'}]});

@@ -1,0 +1,1 @@
+rs.initiate({_id: 0, version: 1, members:[{_id: 0, host: 'olap-node-1:27017'}, {_id: 1, host: 'olap-node-2:27017'}]});

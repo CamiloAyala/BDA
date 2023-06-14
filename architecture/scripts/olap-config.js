@@ -1,0 +1,1 @@
+resizeBy.initiate({_id: 'olap-config-server', configsvr: true, version: 1, members:[{_id: 0, host: 'olap-config-1:27017'}]});
