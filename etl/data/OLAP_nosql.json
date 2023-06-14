@@ -1,0 +1,96 @@
+Student dimension
+{
+    "_id": ObjectId,
+    "name": String,
+    "email": String,
+    "password": String,
+    "programs": [
+        {
+            "_id": ObjectId,
+            "name": String,
+        }
+    ],
+}
+
+Teacher dimension
+{
+    "_id": ObjectId,
+    "name": String,
+    "email": String,
+    "password": String,
+    "salary": Number,
+    "faculty": ObjectId
+}
+
+Subject dimension
+{
+    "_id": ObjectId,
+    "name": String,
+    "code": String,
+    "credits": Number,
+    "type": String,
+    "program": {
+        "_id": ObjectId,
+        "name": String
+    }
+}
+
+Classroom dimension
+{
+    "_id": ObjectId,
+    "name": String,
+    "capacity": Number,
+    "type": String,
+    "building": {
+        "_id": ObjectId,
+        "name": String,
+        "latitude": Number,
+        "longitude": Number
+    },
+    "campus": {
+        "_id": ObjectId,
+        "name": String,
+    },
+    "faculty": {
+        "_id": ObjectId,
+        "name": String,
+    }
+}
+
+Time dimension
+{
+    "_id": ObjectId,
+    "full": Date,
+    "year": Number,
+    "semester": Number
+}
+
+Enrollment fact
+{
+    "_id": ObjectId,
+    "student": bjectId,
+    "subject": ObjectId,
+    "time": ObjectId,
+    "tearchers": [
+        {
+            "_id": ObjectId
+        }
+    ],
+    "classrooms": [
+        {
+            "_id": ObjectId,
+            "days": Binary(6),
+            "shour": Number,
+            "fhour": Number,
+        }
+    ]
+}
+̣̣
+Grade fact
+{
+    "_id": ObjectId,
+    "student": ObjectId,
+    "subject": ObjectId,
+    "grade": Number,
+    "time": ObjectId
+}

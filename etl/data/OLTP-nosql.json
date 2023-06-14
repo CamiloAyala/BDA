@@ -1,0 +1,111 @@
+Campus collection
+{
+    "_id": ObjectId,
+    "name": String,
+    "faculties":[
+        {
+            "_id": ObjectId,
+            "name": String,
+            "programs":[
+                {
+                    "_id": ObjectId
+                }
+            ],
+            "classrooms":[
+                {
+                    "_id": ObjectId
+                }
+            ]
+        }
+    ]
+}
+
+Subject collection
+{
+    "_id": ObjectId,
+    "code": String,
+    "name": String,
+    "credits": Number,
+    "type": String
+}
+
+Program collection
+{
+    "_id": ObjectId,
+    "name": String,
+    "subjects": [
+        {
+            "_id": ObjectId
+        }
+    ]
+}
+
+Student collection
+{
+    "_id": ObjectId,
+    "name": String,
+    "email": String,
+    "password": String,
+    "programs": [
+        {
+            "_id": ObjectId,
+            "semesters": [
+                {
+                    "year": Number,
+                    "semester": Number,
+                    "enrollments": [
+                        {
+                            "_id": ObjectId,
+                            "grade": Number
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+}
+
+Teacher collection
+{
+    "_id": ObjectId,
+    "name": String,
+    "email": String,
+    "password": String,
+    "salary": Number,
+    "faculty": ObjectId
+}
+
+Classroom collection
+{
+    "_id": ObjectId,
+    "name": String,
+    "capacity": Number,
+    "type": String,
+    "has_pc": Boolean,
+    "building": {
+        "_id": ObjectId,
+        "name": String,
+        "latitude": Number,
+        "longitude": Number
+    }
+}
+
+Enrollment collection
+{
+    "_id": ObjectId,
+    "subject": ObjectId,
+    "date": Date,
+    "tearchers": [
+        {
+            "_id": ObjectId
+        }
+    ],
+    "classrooms": [
+        {
+            "_id": ObjectId,
+            "days": Binary(6),
+            "shour": Number,
+            "fhour": Number
+        }
+    ]
+}
