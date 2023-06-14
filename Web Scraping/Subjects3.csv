@@ -1,0 +1,833 @@
+sb_code,sb_name,sb_credits,sb_type,sb_program_code,sb_program_name,sb_faculty_code,sb_faculty_name,sb_created_at,sb_is_active
+37,Teoría de series de tiempo univariadas,4,T,3,Estadistica,2,Ciencias naturales,2019-02-11T19:09:17Z,1
+38,Teoría de respuesta al ítem,3,T,3,Estadistica,2,Ciencias naturales,2021-10-26T01:29:51Z,1
+39,Teoria de muestreo,4,T,3,Estadistica,2,Ciencias naturales,2018-07-04T23:07:30Z,1
+41,Teoria de estadistica no parametrica,4,T,3,Estadistica,2,Ciencias naturales,2018-07-04T18:48:58Z,1
+42,Teoria de diseño de experimentos,4,T,3,Estadistica,2,Ciencias naturales,2018-05-26T22:14:58Z,1
+87,Sistemas numéricos,4,B,3,Estadistica,2,Ciencias naturales,2019-05-14T12:00:45Z,1
+99,Series de tiempo univariadas,4,T,3,Estadistica,2,Ciencias naturales,2021-04-07T21:11:20Z,1
+100,Series de tiempo multivariadas,4,T,3,Estadistica,2,Ciencias naturales,2018-05-14T00:36:33Z,1
+112,Seminario de estadística,2,C,3,Estadistica,2,Ciencias naturales,2018-08-02T22:29:00Z,1
+149,Programación y métodos numéricos,4,O,3,Estadistica,2,Ciencias naturales,2019-12-19T22:55:35Z,1
+150,Programación orientada a objetos,3,O,3,Estadistica,2,Ciencias naturales,2019-08-06T11:44:16Z,1
+158,Programación en lenguajes estadísticos,4,O,3,Estadistica,2,Ciencias naturales,2018-05-13T10:16:21Z,1
+159,Programación de computadores,3,O,3,Estadistica,2,Ciencias naturales,2021-07-05T06:27:10Z,1
+174,Procesos estocásticos,4,T,3,Estadistica,2,Ciencias naturales,2019-03-12T08:07:20Z,1
+180,Probabilidad y estadística fundamental,3,O,3,Estadistica,2,Ciencias naturales,2019-01-22T21:42:58Z,1
+192,Probabilidad,4,B,3,Estadistica,2,Ciencias naturales,2020-10-18T02:03:35Z,1
+196,Principios de química,3,O,3,Estadistica,2,Ciencias naturales,2020-05-22T05:24:08Z,1
+265,Muestreo estadístico,4,T,3,Estadistica,2,Ciencias naturales,2021-02-18T20:32:46Z,1
+266,Muestreo en poblaciones biológicas,3,T,3,Estadistica,2,Ciencias naturales,2019-05-30T15:55:12Z,1
+275,Modelos matemáticos,4,O,3,Estadistica,2,Ciencias naturales,2021-08-19T01:23:53Z,1
+276,Modelos lineales generalizados,4,T,3,Estadistica,2,Ciencias naturales,2019-07-06T03:08:44Z,1
+279,Modelos de sobrevivencia univariados,3,T,3,Estadistica,2,Ciencias naturales,2021-06-27T20:05:30Z,1
+280,Modelos de sobrevivencia multivariados,3,T,3,Estadistica,2,Ciencias naturales,2020-12-19T05:30:37Z,1
+283,Modelamiento y simulación,3,T,3,Estadistica,2,Ciencias naturales,2018-03-15T03:31:27Z,1
+291,Minería de datos,3,T,3,Estadistica,2,Ciencias naturales,2021-08-19T19:09:44Z,1
+301,Métodos numéricos,3,O,3,Estadistica,2,Ciencias naturales,2021-04-29T03:48:23Z,1
+309,Métodos no paramétricos,4,T,3,Estadistica,2,Ciencias naturales,2021-06-10T19:35:55Z,1
+310,Métodos de clasificación,4,T,3,Estadistica,2,Ciencias naturales,2021-09-23T17:40:09Z,1
+329,Mecanica newtoniana,4,O,3,Estadistica,2,Ciencias naturales,2021-12-17T14:59:36Z,1
+342,Matemáticas Discretas,4,O,3,Estadistica,2,Ciencias naturales,2018-05-02T00:25:07Z,1
+368,Investigación de operaciones I,3,T,3,Estadistica,2,Ciencias naturales,2021-09-06T05:31:47Z,1
+373,Introducción al análisis real,4,O,3,Estadistica,2,Ciencias naturales,2021-10-28T15:34:34Z,1
+408,Inteligencia Artificial,3,T,3,Estadistica,2,Ciencias naturales,2020-01-23T10:38:13Z,1
+437,Ingeniería económica,3,T,3,Estadistica,2,Ciencias naturales,2021-02-23T12:45:57Z,1
+456,Inferencia estadística,4,B,3,Estadistica,2,Ciencias naturales,2020-08-31T04:24:33Z,1
+458,Indicadores sociales,3,T,3,Estadistica,2,Ciencias naturales,2020-06-12T13:52:10Z,1
+470,Grupos y anillos,4,O,3,Estadistica,2,Ciencias naturales,2020-03-07T18:01:49Z,1
+490,Geometria vectorial y analítica,4,O,3,Estadistica,2,Ciencias naturales,2021-05-12T21:40:28Z,1
+491,Geometría Elemental,4,O,3,Estadistica,2,Ciencias naturales,2020-08-25T02:06:39Z,1
+524,Fundamentos de matemáticas,4,B,3,Estadistica,2,Ciencias naturales,2020-08-28T00:21:59Z,1
+531,Fundamentos de física moderna,3,O,3,Estadistica,2,Ciencias naturales,2019-03-03T17:39:01Z,1
+543,Fundamentos de ecología,3,O,3,Estadistica,2,Ciencias naturales,2018-08-15T20:45:34Z,1
+557,Formulación y gerencia de proyectos,4,T,3,Estadistica,2,Ciencias naturales,2019-04-03T23:43:59Z,1
+572,Finanzas y modelos de inversión,3,T,3,Estadistica,2,Ciencias naturales,2019-05-11T14:34:59Z,1
+574,Finanzas,3,T,3,Estadistica,2,Ciencias naturales,2019-10-23T15:52:12Z,1
+588,Estrategia de mercados,3,T,3,Estadistica,2,Ciencias naturales,2020-12-30T00:01:50Z,1
+591,Estadística y sociedad,3,T,3,Estadistica,2,Ciencias naturales,2018-12-02T22:37:08Z,1
+592,Estadística social fundamental,3,O,3,Estadistica,2,Ciencias naturales,2021-10-01T23:11:28Z,1
+594,Estadística espacial,4,T,3,Estadistica,2,Ciencias naturales,2021-09-23T09:19:44Z,1
+595,Estadística descriptiva y exploratoria,4,C,3,Estadistica,2,Ciencias naturales,2018-09-19T03:02:30Z,1
+597,Estadística descriptiva multivariada,4,T,3,Estadistica,2,Ciencias naturales,2020-08-14T01:09:20Z,1
+598,Estadística bayesiana,4,T,3,Estadistica,2,Ciencias naturales,2018-03-16T08:34:02Z,1
+600,Español funcional,3,O,3,Estadistica,2,Ciencias naturales,2019-01-16T14:49:31Z,1
+602,Epidemiología,3,T,3,Estadistica,2,Ciencias naturales,2018-04-17T18:15:02Z,1
+636,"Diseño, gestión y evaluación de proyectos",4,T,3,Estadistica,2,Ciencias naturales,2018-02-26T19:37:08Z,1
+643,Diseño y desarrollo de encuestas,4,T,3,Estadistica,2,Ciencias naturales,2021-04-30T05:59:30Z,1
+650,Diseño de experimentos,4,T,3,Estadistica,2,Ciencias naturales,2018-05-07T23:01:20Z,1
+662,Demografía,3,T,3,Estadistica,2,Ciencias naturales,2018-02-10T21:53:04Z,1
+663,Demografia,3,T,3,Estadistica,2,Ciencias naturales,2018-12-18T21:00:07Z,1
+667,Control estadístico de calidad,3,T,3,Estadistica,2,Ciencias naturales,2020-02-20T01:41:34Z,1
+674,Consultoría estadística,2,C,3,Estadistica,2,Ciencias naturales,2021-01-30T08:14:14Z,1
+688,Comunicación oral y escrita,3,O,3,Estadistica,2,Ciencias naturales,2021-10-17T04:45:32Z,1
+696,Computación estadística,4,T,3,Estadistica,2,Ciencias naturales,2020-01-11T11:32:13Z,1
+697,Comprensión de textos en idioma extranjero,12,E,3,Estadistica,2,Ciencias naturales,2019-10-17T22:57:10Z,1
+718,Calculo vectorial,4,B,3,Estadistica,2,Ciencias naturales,2021-05-01T07:28:38Z,1
+720,Cálculo integral en una variable,4,B,3,Estadistica,2,Ciencias naturales,2018-09-16T09:07:51Z,1
+738,Cálculo diferencial en una variable,4,B,3,Estadistica,2,Ciencias naturales,2021-03-23T10:00:56Z,1
+748,Cálculo de ecuaciones diferenciales ordinarias,4,O,3,Estadistica,2,Ciencias naturales,2020-12-23T19:47:58Z,1
+749,Cálculo actuarial,3,T,3,Estadistica,2,Ciencias naturales,2018-03-27T05:32:53Z,1
+758,Biología molecular y celular,3,O,3,Estadistica,2,Ciencias naturales,2018-12-17T04:01:37Z,1
+765,Biología general,3,O,3,Estadistica,2,Ciencias naturales,2018-10-02T10:11:34Z,1
+773,Bioestadística fundamental,3,O,3,Estadistica,2,Ciencias naturales,2019-01-21T08:25:12Z,1
+779,Bases de datos,3,O,3,Estadistica,2,Ciencias naturales,2018-09-24T09:21:27Z,1
+799,Análisis multivariado,4,T,3,Estadistica,2,Ciencias naturales,2020-02-03T11:45:35Z,1
+802,Análisis estocástico,4,O,3,Estadistica,2,Ciencias naturales,2018-05-18T17:33:13Z,1
+805,Análisis de regresión,4,C,3,Estadistica,2,Ciencias naturales,2018-10-15T04:20:15Z,1
+807,Análisis de datos longitudinales,4,T,3,Estadistica,2,Ciencias naturales,2020-06-23T13:04:56Z,1
+808,Análisis de datos categóricos,4,T,3,Estadistica,2,Ciencias naturales,2020-08-29T14:55:11Z,1
+809,Análisis de correspondencias,4,T,3,Estadistica,2,Ciencias naturales,2021-10-17T05:33:19Z,1
+811,Álgebra matricial,4,B,3,Estadistica,2,Ciencias naturales,2019-09-23T19:55:51Z,1
+812,Álgebra lineal básica,4,B,3,Estadistica,2,Ciencias naturales,2019-07-25T15:26:52Z,1
+8,Trabajo de Grado - Asignaturas de Posgrado,6,P,18,Fisioterapia,3,Medicina,2019-06-30T04:00:12Z,1
+19,Trabajo de Grado,6,P,18,Fisioterapia,3,Medicina,2019-05-28T08:27:08Z,1
+72,Taller de cuerpo y movimiento,2,B,18,Fisioterapia,3,Medicina,2018-09-18T16:11:46Z,1
+108,Seminario de trabajo de grado,1,C,18,Fisioterapia,3,Medicina,2021-03-27T13:09:26Z,1
+120,Salud y sociedad,2,O,18,Fisioterapia,3,Medicina,2019-11-24T21:03:06Z,1
+123,Salud pública,2,B,18,Fisioterapia,3,Medicina,2021-08-29T09:42:25Z,1
+134,Química básica,3,O,18,Fisioterapia,3,Medicina,2020-08-20T17:04:21Z,1
+138,Psicopatología,2,B,18,Fisioterapia,3,Medicina,2019-11-02T01:36:48Z,1
+139,Psicología y salud ocupacional,3,O,18,Fisioterapia,3,Medicina,2019-05-04T18:10:57Z,1
+140,Psicología del desarrollo,3,O,18,Fisioterapia,3,Medicina,2018-06-17T23:53:20Z,1
+144,Psicología comunitaria,3,O,18,Fisioterapia,3,Medicina,2020-09-25T01:34:45Z,1
+173,Procesos evaluativos II,2,C,18,Fisioterapia,3,Medicina,2021-09-03T15:38:01Z,1
+204,Principios de facilitación del movimiento,2,C,18,Fisioterapia,3,Medicina,2021-09-26T01:57:12Z,1
+209,Principios de bioquímica,3,O,18,Fisioterapia,3,Medicina,2018-07-12T19:14:02Z,1
+211,Primeros auxilios,2,T,18,Fisioterapia,3,Medicina,2018-11-29T11:34:49Z,1
+226,Practica académica en salud trabajo y comunidad,7,C,18,Fisioterapia,3,Medicina,2019-05-28T10:03:17Z,1
+227,Practica académica en actividad física y deporte,7,C,18,Fisioterapia,3,Medicina,2018-02-07T19:54:33Z,1
+228,Practica académica clinica niños,7,C,18,Fisioterapia,3,Medicina,2019-12-24T08:14:24Z,1
+229,Practica académica clinica adultos,7,C,18,Fisioterapia,3,Medicina,2020-05-26T06:58:49Z,1
+258,Neuroanatomia estructural y funcional,2,B,18,Fisioterapia,3,Medicina,2021-12-24T11:42:36Z,1
+262,Música y bienestar ocupacional,2,T,18,Fisioterapia,3,Medicina,2018-02-26T07:13:23Z,1
+267,Movimiento corporal humano salud y trabajo III,2,T,18,Fisioterapia,3,Medicina,2021-08-31T09:42:15Z,1
+268,Movimiento corporal humano salud y trabajo I,2,T,18,Fisioterapia,3,Medicina,2019-03-01T01:57:47Z,1
+288,Modalidades físicas y neumáticas,3,C,18,Fisioterapia,3,Medicina,2019-01-22T01:22:19Z,1
+289,Modalidades cinéticas: principios fundamentales,2,C,18,Fisioterapia,3,Medicina,2019-06-23T02:48:26Z,1
+290,Modalidades cinéticas: Masoterapia,1,C,18,Fisioterapia,3,Medicina,2020-10-01T02:33:53Z,1
+297,"Mi cuerpo, sus cuerpos, nuestros cuerpos",2,T,18,Fisioterapia,3,Medicina,2021-10-19T01:01:52Z,1
+318,Medicina Social y Salud Colectiva: fundamentos conceptuales,3,O,18,Fisioterapia,3,Medicina,2021-01-26T02:49:39Z,1
+324,Mecánica y ondas para biociencias,4,B,18,Fisioterapia,3,Medicina,2021-01-04T04:37:42Z,1
+327,Mecánica y neuromecánica del movimiento III,2,T,18,Fisioterapia,3,Medicina,2020-03-10T18:19:28Z,1
+365,Kinesioterapia III,2,T,18,Fisioterapia,3,Medicina,2020-12-13T01:28:29Z,1
+366,Kinesioterapia I,2,T,18,Fisioterapia,3,Medicina,2019-07-03T20:55:21Z,1
+414,Iniciacion a estudios feministas y de género,3,T,18,Fisioterapia,3,Medicina,2018-05-06T23:11:58Z,1
+434,Ingenieria tisular,2,T,18,Fisioterapia,3,Medicina,2020-08-14T06:09:34Z,1
+461,Hominización,3,T,18,Fisioterapia,3,Medicina,2021-01-15T17:37:03Z,1
+503,Fundamentos de psicología,4,O,18,Fisioterapia,3,Medicina,2020-09-14T13:45:22Z,1
+527,Fundamentos de investigacion cualitativa y cuantitativa,2,B,18,Fisioterapia,3,Medicina,2019-04-20T21:09:26Z,1
+552,Fundamentos de administración en salud,1,B,18,Fisioterapia,3,Medicina,2020-07-18T12:40:29Z,1
+556,Fundamentación y practica en salud de los trabajadores,4,T,18,Fisioterapia,3,Medicina,2019-01-04T07:48:42Z,1
+560,Fluidos y electromagnetismo para biociencias,4,B,18,Fisioterapia,3,Medicina,2018-06-08T14:11:33Z,1
+566,Fisiología general,4,B,18,Fisioterapia,3,Medicina,2021-07-03T20:40:04Z,1
+583,Farmacologia,2,B,18,Fisioterapia,3,Medicina,2021-04-17T09:25:33Z,1
+664,Cuerpo e imagen,3,T,18,Fisioterapia,3,Medicina,2019-03-25T19:46:40Z,1
+679,Comunidad y desarrollo humano III,2,T,18,Fisioterapia,3,Medicina,2019-02-11T07:22:02Z,1
+680,Comunidad y desarrollo humano I,2,T,18,Fisioterapia,3,Medicina,2020-01-04T18:59:48Z,1
+684,Comunicación oral y escrita I,3,T,18,Fisioterapia,3,Medicina,2019-01-17T23:41:56Z,1
+698,Comprensión de textos en idioma extranjero,12,E,18,Fisioterapia,3,Medicina,2018-09-18T17:28:03Z,1
+753,Bioquímica básica,3,O,18,Fisioterapia,3,Medicina,2019-10-31T08:41:58Z,1
+757,Biomecánica articular y de movimiento complejo,2,B,18,Fisioterapia,3,Medicina,2020-11-28T16:30:11Z,1
+759,Biología molecular y celular,3,O,18,Fisioterapia,3,Medicina,2020-08-08T21:08:33Z,1
+766,Biología general,3,O,18,Fisioterapia,3,Medicina,2018-11-19T01:40:58Z,1
+774,Bioestadística fundamental,3,B,18,Fisioterapia,3,Medicina,2019-11-18T12:23:25Z,1
+793,Anatomia osteomuscular,2,B,18,Fisioterapia,3,Medicina,2021-09-21T00:03:09Z,1
+797,Anatomía e histología funcional,3,B,18,Fisioterapia,3,Medicina,2019-03-30T01:06:03Z,1
+831,Actividad física y deporte III,2,T,18,Fisioterapia,3,Medicina,2019-08-15T11:24:19Z,1
+832,Actividad física y deporte I,2,T,18,Fisioterapia,3,Medicina,2018-05-12T17:01:26Z,1
+9,Trabajo de Grado - Asignaturas de Posgrado,8,P,19,Fonoaudiologia,3,Medicina,2021-03-11T03:24:14Z,1
+20,Trabajo de Grado,8,P,19,Fonoaudiologia,3,Medicina,2019-03-24T13:00:47Z,1
+46,Técnicas de investigación en antropología I,3,O,19,Fonoaudiologia,3,Medicina,2019-08-31T03:45:42Z,1
+73,Taller de cuerpo y movimiento,2,O,19,Fonoaudiologia,3,Medicina,2021-09-17T08:51:48Z,1
+78,Suficiencia por Acogimiento al Acuerdo 032,12,E,19,Fonoaudiologia,3,Medicina,2021-01-22T13:55:24Z,1
+85,Sociolinguística,3,O,19,Fonoaudiologia,3,Medicina,2018-09-07T09:00:00Z,1
+101,Seres humanos y saberes comunicativos,3,O,19,Fonoaudiologia,3,Medicina,2018-03-03T00:59:52Z,1
+141,Psicología del desarrollo,3,O,19,Fonoaudiologia,3,Medicina,2021-09-06T12:46:36Z,1
+143,Psicología de lo Anormal,3,O,19,Fonoaudiologia,3,Medicina,2018-11-18T11:37:46Z,1
+169,Profundización I en Lenguaje,3,T,19,Fonoaudiologia,3,Medicina,2020-01-04T11:13:01Z,1
+170,Profundización I en Habla,3,T,19,Fonoaudiologia,3,Medicina,2021-01-10T01:29:08Z,1
+171,Profundización I en Audiología,3,T,19,Fonoaudiologia,3,Medicina,2021-01-20T04:19:55Z,1
+179,Procesos básicos en psicología social,3,O,19,Fonoaudiologia,3,Medicina,2018-12-31T06:24:35Z,1
+212,Primeros auxilios,2,O,19,Fonoaudiologia,3,Medicina,2019-10-13T16:08:18Z,1
+216,Práctica optativa en salud,5,T,19,Fonoaudiologia,3,Medicina,2019-07-10T19:40:25Z,1
+217,Práctica optativa en educación,5,T,19,Fonoaudiologia,3,Medicina,2019-10-20T13:10:00Z,1
+218,Práctica optativa en audiología,5,T,19,Fonoaudiologia,3,Medicina,2020-09-23T18:27:21Z,1
+219,Práctica en salud,5,C,19,Fonoaudiologia,3,Medicina,2018-06-19T03:17:08Z,1
+220,Práctica en educación,5,C,19,Fonoaudiologia,3,Medicina,2018-05-28T18:20:49Z,1
+221,Práctica en audiología,5,C,19,Fonoaudiologia,3,Medicina,2020-08-15T07:08:55Z,1
+247,Ocupación y bienestar,2,O,19,Fonoaudiologia,3,Medicina,2018-12-31T20:41:30Z,1
+259,Neuroanatomia estructural y funcional,2,B,19,Fonoaudiologia,3,Medicina,2018-08-06T07:48:57Z,1
+263,Música y bienestar ocupacional,2,O,19,Fonoaudiologia,3,Medicina,2021-08-11T19:11:39Z,1
+298,"Mi cuerpo, sus cuerpos, nuestros cuerpos",2,O,19,Fonoaudiologia,3,Medicina,2019-12-18T14:13:44Z,1
+325,Mecánica y ondas para biociencias,4,B,19,Fonoaudiologia,3,Medicina,2019-01-17T06:42:10Z,1
+347,Lingüística general,3,O,19,Fonoaudiologia,3,Medicina,2020-09-05T20:23:15Z,1
+350,Lenguaje y pensamiento,3,O,19,Fonoaudiologia,3,Medicina,2019-02-20T02:18:52Z,1
+351,Lenguaje en la educación y el aprendizaje,3,C,19,Fonoaudiologia,3,Medicina,2019-01-23T21:16:40Z,1
+367,Juicio clínico en fonoaudiología,3,C,19,Fonoaudiologia,3,Medicina,2018-01-08T21:05:08Z,1
+389,Introducción a la fisiología,3,O,19,Fonoaudiologia,3,Medicina,2019-08-28T11:30:01Z,1
+397,Introducción a Fonoaudiología,2,C,19,Fonoaudiologia,3,Medicina,2019-12-13T18:49:16Z,1
+398,Intervención de la función oral faríngea,3,C,19,Fonoaudiologia,3,Medicina,2021-11-27T11:46:01Z,1
+399,Intervención audiológica,3,C,19,Fonoaudiologia,3,Medicina,2018-04-29T18:25:08Z,1
+498,Fundamentos del Lenguaje,4,C,19,Fonoaudiologia,3,Medicina,2021-10-27T15:11:23Z,1
+499,Fundamentos del habla,2,C,19,Fonoaudiologia,3,Medicina,2021-04-13T00:36:31Z,1
+504,Fundamentos de psicología,4,O,19,Fonoaudiologia,3,Medicina,2019-01-01T02:12:59Z,1
+526,Fundamentos de la Educación,2,O,19,Fonoaudiologia,3,Medicina,2019-05-08T19:32:45Z,1
+528,Fundamentos de investigación,4,C,19,Fonoaudiologia,3,Medicina,2019-03-16T17:23:39Z,1
+549,Fundamentos de audición,2,C,19,Fonoaudiologia,3,Medicina,2020-12-06T20:36:14Z,1
+553,Fundamentos de administración,1,O,19,Fonoaudiologia,3,Medicina,2020-11-03T22:20:16Z,1
+558,Fonología,3,O,19,Fonoaudiologia,3,Medicina,2018-12-07T10:49:00Z,1
+559,Fonética,3,O,19,Fonoaudiologia,3,Medicina,2018-12-21T17:39:02Z,1
+637,"Diseño, gestión y evaluación de proyectos",3,O,19,Fonoaudiologia,3,Medicina,2020-03-12T03:45:37Z,1
+653,Discapacidad e inclusión social,2,O,19,Fonoaudiologia,3,Medicina,2019-01-02T07:19:26Z,1
+678,Consejeria para el bienestar comunicativo,1,O,19,Fonoaudiologia,3,Medicina,2018-05-16T07:23:34Z,1
+685,Comunicación oral y escrita I,3,B,19,Fonoaudiologia,3,Medicina,2018-04-17T05:40:00Z,1
+756,Biomecánica de tejidos,2,O,19,Fonoaudiologia,3,Medicina,2019-02-19T22:02:02Z,1
+767,Biología general,3,O,19,Fonoaudiologia,3,Medicina,2019-01-26T20:43:02Z,1
+775,Bioestadística fundamental,3,B,19,Fonoaudiologia,3,Medicina,2019-11-06T04:20:40Z,1
+789,Aprendizaje,3,O,19,Fonoaudiologia,3,Medicina,2019-12-11T13:26:45Z,1
+798,Anatomía e histología funcional,3,B,19,Fonoaudiologia,3,Medicina,2020-03-15T02:09:08Z,1
+2,Variable compleja,4,B,12,Ingeniera electrica,1,Ingeniería,2019-05-24T03:58:04Z,1
+6,Transmisión y Distribución,3,C,12,Ingeniera electrica,1,Ingeniería,2021-02-06T07:41:00Z,1
+10,Trabajo de Grado - Asignaturas de Posgrado,6,P,12,Ingeniera electrica,1,Ingeniería,2018-11-26T06:21:23Z,1
+21,Trabajo de Grado,6,P,12,Ingeniera electrica,1,Ingeniería,2019-06-01T13:06:08Z,1
+29,Tópicos de sistemas de potencia,3,T,12,Ingeniera electrica,1,Ingeniería,2018-08-27T10:38:53Z,1
+51,Taller de proyectos interdisciplinarios,3,C,12,Ingeniera electrica,1,Ingeniería,2020-04-22T07:34:05Z,1
+67,Taller de ingeniería,3,C,12,Ingeniera electrica,1,Ingeniería,2021-08-20T04:51:30Z,1
+79,Suficiencia por Acogimiento al Acuerdo 032,12,E,12,Ingeniera electrica,1,Ingeniería,2018-02-10T07:08:21Z,1
+83,Subestaciones eléctricas,3,T,12,Ingeniera electrica,1,Ingeniería,2018-10-26T12:20:26Z,1
+113,Seguridad industrial,3,O,12,Ingeniera electrica,1,Ingeniería,2021-05-11T13:59:55Z,1
+147,Protección de sistemas de potencia,3,T,12,Ingeniera electrica,1,Ingeniería,2018-06-22T20:26:58Z,1
+151,Programación orientada a objetos,3,O,12,Ingeniera electrica,1,Ingeniería,2021-02-15T23:14:51Z,1
+160,Programación de computadores,3,B,12,Ingeniera electrica,1,Ingeniería,2018-05-17T04:52:35Z,1
+181,Probabilidad y estadística fundamental,3,O,12,Ingeniera electrica,1,Ingeniería,2018-09-26T21:23:47Z,1
+189,Probabilidad fundamental,3,O,12,Ingeniera electrica,1,Ingeniería,2021-11-11T02:30:20Z,1
+302,Métodos numéricos,3,O,12,Ingeniera electrica,1,Ingeniería,2021-07-26T17:49:39Z,1
+328,Mecánica para Ingeniería,3,B,12,Ingeniera electrica,1,Ingeniería,2020-02-03T05:55:05Z,1
+339,Matematicas iv,4,B,12,Ingeniera electrica,1,Ingeniería,2018-05-04T18:02:01Z,1
+361,Laboratorio de conversión electromagnética,2,T,12,Ingeniera electrica,1,Ingeniería,2019-07-03T19:32:27Z,1
+369,Investigación de operaciones I,3,O,12,Ingeniera electrica,1,Ingeniería,2020-03-20T04:06:40Z,1
+392,Introducción a la ciencia de materiales,3,B,12,Ingeniera electrica,1,Ingeniería,2018-04-08T07:43:25Z,1
+396,Introducción a ingeniería eléctrica,5,C,12,Ingeniera electrica,1,Ingeniería,2021-06-25T21:01:09Z,1
+412,Instalaciones eléctricas,3,C,12,Ingeniera electrica,1,Ingeniería,2019-09-30T19:43:50Z,1
+438,Ingeniería económica,3,B,12,Ingeniera electrica,1,Ingeniería,2021-12-24T11:23:12Z,1
+475,Gerencia y gestión de proyectos,3,O,12,Ingeniera electrica,1,Ingeniería,2021-01-20T01:41:45Z,1
+485,Gerencia de recursos humanos,3,O,12,Ingeniera electrica,1,Ingeniería,2020-11-17T20:12:01Z,1
+507,"Fundamentos de oscilaciones, ondas y óptica",4,B,12,Ingeniera electrica,1,Ingeniería,2018-06-02T09:40:11Z,1
+512,Fundamentos de Mecánica de Fluidos,3,B,12,Ingeniera electrica,1,Ingeniería,2019-09-11T04:33:25Z,1
+515,Fundamentos de mecánica,4,B,12,Ingeniera electrica,1,Ingeniería,2020-07-01T16:52:42Z,1
+532,Fundamentos de física moderna,3,O,12,Ingeniera electrica,1,Ingeniería,2021-04-29T01:14:17Z,1
+535,Fundamentos de electricidad y magnetismo,4,B,12,Ingeniera electrica,1,Ingeniería,2018-09-24T06:46:15Z,1
+569,Física de Semiconductores,3,O,12,Ingeniera electrica,1,Ingeniería,2021-04-29T09:43:40Z,1
+575,Finanzas,3,O,12,Ingeniera electrica,1,Ingeniería,2021-04-07T06:11:39Z,1
+599,Estabilidad de sistemas de potencia,3,T,12,Ingeniera electrica,1,Ingeniería,2021-11-16T21:07:22Z,1
+609,Electrónica digital I,4,C,12,Ingeniera electrica,1,Ingeniería,2019-11-20T15:30:58Z,1
+615,Electrónica análoga I,4,C,12,Ingeniera electrica,1,Ingeniería,2018-02-02T18:53:41Z,1
+620,Ecuaciones Diferenciales,4,B,12,Ingeniera electrica,1,Ingeniería,2018-10-07T19:07:30Z,1
+629,Economía general,3,O,12,Ingeniera electrica,1,Ingeniería,2021-08-07T19:13:25Z,1
+670,Control,4,C,12,Ingeniera electrica,1,Ingeniería,2018-04-11T04:19:09Z,1
+699,Comprensión de textos en idioma extranjero,12,E,12,Ingeniera electrica,1,Ingeniería,2021-08-04T15:34:46Z,1
+705,Circuitos Eléctricos II,4,C,12,Ingeniera electrica,1,Ingeniería,2021-11-19T05:17:12Z,1
+707,Circuitos Eléctricos I,3,C,12,Ingeniera electrica,1,Ingeniería,2019-09-17T17:01:47Z,1
+716,Campos electromagnéticos,4,C,12,Ingeniera electrica,1,Ingeniería,2018-02-04T19:27:23Z,1
+722,Cálculo Integral,4,B,12,Ingeniera electrica,1,Ingeniería,2020-09-02T13:59:34Z,1
+730,Cálculo en varias variables,4,B,12,Ingeniera electrica,1,Ingeniería,2020-10-11T13:33:04Z,1
+740,Cálculo diferencial,4,B,12,Ingeniera electrica,1,Ingeniería,2019-09-23T20:39:31Z,1
+804,Análisis de Sistemas de Potencia,3,C,12,Ingeniera electrica,1,Ingeniería,2020-05-16T01:06:59Z,1
+814,Álgebra Lineal,4,B,12,Ingeniera electrica,1,Ingeniería,2021-05-05T06:08:29Z,1
+823,Aislamiento eléctrico,3,T,12,Ingeniera electrica,1,Ingeniería,2020-12-28T01:30:19Z,1
+7,Transferencia de calor y masa,3,C,9,Ingenieria agricola,1,Ingeniería,2021-05-01T04:18:54Z,1
+11,Trabajo de Grado - Asignaturas de Posgrado,6,P,9,Ingenieria agricola,1,Ingeniería,2021-03-07T19:32:37Z,1
+22,Trabajo de Grado,6,P,9,Ingenieria agricola,1,Ingeniería,2018-04-06T11:05:25Z,1
+32,Termodinámica,3,C,9,Ingenieria agricola,1,Ingeniería,2020-03-27T21:28:57Z,1
+52,Taller de proyectos interdisciplinarios,3,C,9,Ingenieria agricola,1,Ingeniería,2019-04-28T18:43:17Z,1
+80,Suficiencia por Acogimiento al Acuerdo 032,12,E,9,Ingenieria agricola,1,Ingeniería,2018-07-19T21:22:46Z,1
+82,Suelos agrícolas,3,C,9,Ingenieria agricola,1,Ingeniería,2020-04-29T23:53:47Z,1
+93,Sistemas de costos,4,O,9,Ingenieria agricola,1,Ingeniería,2021-05-10T02:46:50Z,1
+114,Seguridad industrial,3,O,9,Ingenieria agricola,1,Ingeniería,2021-01-01T04:36:55Z,1
+152,Programación orientada a objetos,3,O,9,Ingenieria agricola,1,Ingeniería,2018-09-22T15:44:47Z,1
+161,Programación de computadores,3,B,9,Ingenieria agricola,1,Ingeniería,2019-04-14T11:02:07Z,1
+182,Probabilidad y estadística fundamental,3,B,9,Ingenieria agricola,1,Ingeniería,2018-02-21T01:36:32Z,1
+197,Principios de química,3,B,9,Ingenieria agricola,1,Ingeniería,2021-10-29T01:36:35Z,1
+230,Poscosecha de granos y semillas,3,C,9,Ingenieria agricola,1,Ingeniería,2018-05-25T10:54:43Z,1
+231,Poscosecha de frutas y hortalizas,3,C,9,Ingenieria agricola,1,Ingeniería,2018-11-09T00:37:30Z,1
+271,Modelos y simulación,3,O,9,Ingenieria agricola,1,Ingeniería,2020-11-18T10:51:55Z,1
+284,Modelación matemática,3,O,9,Ingenieria agricola,1,Ingeniería,2021-09-22T00:56:09Z,1
+303,Métodos numéricos,3,O,9,Ingenieria agricola,1,Ingeniería,2019-06-26T13:46:38Z,1
+313,Mercados I,4,O,9,Ingenieria agricola,1,Ingeniería,2021-04-04T15:23:48Z,1
+330,Mecánica de suelos,3,C,9,Ingenieria agricola,1,Ingeniería,2019-01-30T11:28:26Z,1
+332,Mecánica de sólidos,4,C,9,Ingenieria agricola,1,Ingeniería,2020-02-21T08:39:20Z,1
+335,Mecánica de fluidos,4,C,9,Ingenieria agricola,1,Ingeniería,2020-01-28T15:08:56Z,1
+344,Máquinas agrícolas,3,C,9,Ingenieria agricola,1,Ingeniería,2019-09-21T11:20:30Z,1
+370,Investigación de mercados,3,O,9,Ingenieria agricola,1,Ingeniería,2021-12-19T01:11:03Z,1
+388,Introducción a la ingeniería agrícola,3,C,9,Ingenieria agricola,1,Ingeniería,2021-01-28T12:08:06Z,1
+439,Ingeniería económica,3,B,9,Ingenieria agricola,1,Ingeniería,2019-02-03T10:37:50Z,1
+450,Ingeniería de riegos,3,C,9,Ingenieria agricola,1,Ingeniería,2018-06-20T21:42:12Z,1
+465,Hidrología,3,C,9,Ingenieria agricola,1,Ingeniería,2018-06-22T06:27:07Z,1
+467,Hidráulica básica,4,C,9,Ingenieria agricola,1,Ingeniería,2020-12-07T15:30:48Z,1
+474,Gerencia y planeación estratégica,3,O,9,Ingenieria agricola,1,Ingeniería,2018-03-07T04:10:54Z,1
+476,Gerencia y gestión de proyectos,3,B,9,Ingenieria agricola,1,Ingeniería,2018-08-29T18:18:23Z,1
+486,Gerencia de recursos humanos,3,O,9,Ingenieria agricola,1,Ingeniería,2018-03-16T09:34:59Z,1
+492,Geomática básica,4,C,9,Ingenieria agricola,1,Ingeniería,2018-10-10T11:37:47Z,1
+508,"Fundamentos de oscilaciones, ondas y óptica",4,O,9,Ingenieria agricola,1,Ingeniería,2021-01-02T16:00:19Z,1
+516,Fundamentos de mecánica,4,B,9,Ingenieria agricola,1,Ingeniería,2021-05-18T22:19:25Z,1
+536,Fundamentos de electricidad y magnetismo,4,O,9,Ingenieria agricola,1,Ingeniería,2020-07-29T05:41:17Z,1
+563,Fisiología vegetal,4,B,9,Ingenieria agricola,1,Ingeniería,2020-06-28T10:58:16Z,1
+576,Finanzas,3,O,9,Ingenieria agricola,1,Ingeniería,2018-09-19T22:03:45Z,1
+589,Estática,3,C,9,Ingenieria agricola,1,Ingeniería,2021-10-22T19:44:37Z,1
+605,Elementos de máquinas agrícolas,3,C,9,Ingenieria agricola,1,Ingeniería,2018-04-14T14:58:27Z,1
+607,Electrotecnia,3,C,9,Ingenieria agricola,1,Ingeniería,2020-08-17T00:32:07Z,1
+621,Ecuaciones Diferenciales,4,B,9,Ingenieria agricola,1,Ingeniería,2020-03-26T09:37:43Z,1
+630,Economía general,3,O,9,Ingenieria agricola,1,Ingeniería,2021-01-31T05:34:03Z,1
+635,Drenaje de tierras agricolas,3,C,9,Ingenieria agricola,1,Ingeniería,2019-12-19T15:14:43Z,1
+5,Transporte Sostenible,3,T,10,Ingenieria civil,1,Ingeniería,2020-02-10T05:14:36Z,1
+12,Trabajo de Grado - Asignaturas de Posgrado,6,P,10,Ingenieria civil,1,Ingeniería,2021-09-29T15:23:18Z,1
+23,Trabajo de Grado,6,P,10,Ingenieria civil,1,Ingeniería,2021-08-27T00:25:50Z,1
+53,Taller de proyectos interdisciplinarios,3,T,10,Ingenieria civil,1,Ingeniería,2019-04-04T11:57:34Z,1
+69,Taller de Experimentación y Modelación,3,T,10,Ingenieria civil,1,Ingeniería,2018-11-01T21:22:41Z,1
+97,SIG para Ingeniería Civil,3,O,10,Ingenieria civil,1,Ingeniería,2020-09-17T04:57:46Z,1
+119,Saneamiento ambiental,3,C,10,Ingenieria civil,1,Ingeniería,2018-01-24T05:10:26Z,1
+153,Programación orientada a objetos,3,O,10,Ingenieria civil,1,Ingeniería,2018-12-23T20:21:23Z,1
+162,Programación de computadores,3,O,10,Ingenieria civil,1,Ingeniería,2021-11-22T20:24:38Z,1
+183,Probabilidad y estadística fundamental,3,B,10,Ingenieria civil,1,Ingeniería,2019-09-04T11:48:45Z,1
+198,Principios de química,3,B,10,Ingenieria civil,1,Ingeniería,2021-07-23T02:15:53Z,1
+213,Preparación y evaluación de proyectos de infraestructura,3,B,10,Ingenieria civil,1,Ingeniería,2018-06-30T11:11:15Z,1
+237,Pavimentos,3,C,10,Ingenieria civil,1,Ingeniería,2018-02-28T08:01:41Z,1
+242,Optimización,3,O,10,Ingenieria civil,1,Ingeniería,2021-03-10T19:36:30Z,1
+272,Modelos y simulación,3,O,10,Ingenieria civil,1,Ingeniería,2019-06-21T00:56:39Z,1
+285,Modelación matemática,3,O,10,Ingenieria civil,1,Ingeniería,2018-01-02T13:14:23Z,1
+300,Métodos numéricos para ingeniería civil,3,T,10,Ingenieria civil,1,Ingeniería,2018-10-27T10:36:51Z,1
+304,Métodos numéricos,3,O,10,Ingenieria civil,1,Ingeniería,2020-11-08T04:54:52Z,1
+331,Mecánica de suelos,3,C,10,Ingenieria civil,1,Ingeniería,2020-03-22T05:10:07Z,1
+333,Mecánica de sólidos,4,C,10,Ingenieria civil,1,Ingeniería,2020-09-27T08:55:07Z,1
+334,Mecánica de Rocas,3,T,10,Ingenieria civil,1,Ingeniería,2021-11-09T15:55:17Z,1
+336,Mecánica de fluidos,4,C,10,Ingenieria civil,1,Ingeniería,2019-09-20T06:37:56Z,1
+337,Materiales para construcción,4,C,10,Ingenieria civil,1,Ingeniería,2018-10-27T03:27:13Z,1
+387,Introducción a la ingeniería civil,3,C,10,Ingenieria civil,1,Ingeniería,2020-03-17T01:08:44Z,1
+440,Ingeniería económica,3,B,10,Ingenieria civil,1,Ingeniería,2018-07-19T20:00:54Z,1
+446,Ingenieria de transporte,3,C,10,Ingenieria civil,1,Ingeniería,2019-08-12T06:46:19Z,1
+447,Ingeniería de Tránsito,3,C,10,Ingenieria civil,1,Ingeniería,2021-03-30T04:54:28Z,1
+454,Ingeniería civil sostenible,3,C,10,Ingenieria civil,1,Ingeniería,2019-12-31T04:15:58Z,1
+466,Hidrología,3,C,10,Ingenieria civil,1,Ingeniería,2019-03-31T00:54:54Z,1
+468,Hidráulica básica,4,C,10,Ingenieria civil,1,Ingeniería,2019-07-14T18:10:09Z,1
+473,Gestión en construcción,3,T,10,Ingenieria civil,1,Ingeniería,2018-10-07T23:02:35Z,1
+489,Geotecnia,3,C,10,Ingenieria civil,1,Ingeniería,2018-12-01T06:49:56Z,1
+493,Geomática básica,4,C,10,Ingenieria civil,1,Ingeniería,2018-01-20T17:29:06Z,1
+494,Geomática Aplicada,4,C,10,Ingenieria civil,1,Ingeniería,2020-10-24T15:59:23Z,1
+495,Geología,3,C,10,Ingenieria civil,1,Ingeniería,2018-05-22T20:31:54Z,1
+517,Fundamentos de mecánica,4,B,10,Ingenieria civil,1,Ingeniería,2021-10-17T22:36:53Z,1
+544,Fundamentos de ecología,3,B,10,Ingenieria civil,1,Ingeniería,2021-01-03T01:47:54Z,1
+548,Fundamentos de construcción,3,C,10,Ingenieria civil,1,Ingeniería,2018-11-14T19:05:33Z,1
+585,Estructuras hidráulicas,3,C,10,Ingenieria civil,1,Ingeniería,2020-04-28T14:16:40Z,1
+590,Estática,3,C,10,Ingenieria civil,1,Ingeniería,2020-08-31T03:30:47Z,1
+622,Ecuaciones Diferenciales,4,B,10,Ingenieria civil,1,Ingeniería,2020-03-11T00:00:23Z,1
+645,Diseño geométrico de Vías,3,C,10,Ingenieria civil,1,Ingeniería,2021-11-18T16:18:44Z,1
+646,Diseño estructural,3,C,10,Ingenieria civil,1,Ingeniería,2021-07-02T22:36:33Z,1
+655,Dinámica,3,C,10,Ingenieria civil,1,Ingeniería,2018-06-05T10:16:54Z,1
+657,Dibujo básico,3,B,10,Ingenieria civil,1,Ingeniería,2021-10-17T22:27:54Z,1
+675,Construcción de Obras Fluviales y Litorales,3,T,10,Ingenieria civil,1,Ingeniería,2020-04-14T10:55:38Z,1
+676,Construcción de Infraestructura Vial,3,T,10,Ingenieria civil,1,Ingeniería,2019-02-02T14:18:20Z,1
+677,Construcción de edificaciones,3,T,10,Ingenieria civil,1,Ingeniería,2018-10-26T00:09:10Z,1
+703,Colombia Contemporánea,3,T,10,Ingenieria civil,1,Ingeniería,2020-12-13T06:42:48Z,1
+723,Cálculo Integral,4,B,10,Ingenieria civil,1,Ingeniería,2021-09-24T16:09:46Z,1
+731,Cálculo en varias variables,4,B,10,Ingenieria civil,1,Ingeniería,2020-03-19T21:58:02Z,1
+741,Cálculo diferencial,4,B,10,Ingenieria civil,1,Ingeniería,2019-11-15T12:33:51Z,1
+800,Análisis estructural básico,3,C,10,Ingenieria civil,1,Ingeniería,2019-02-05T17:05:26Z,1
+801,Análisis estructural aplicado,3,C,10,Ingenieria civil,1,Ingeniería,2019-03-30T07:16:33Z,1
+806,Análisis de incertidumbre en ingeniería civil,3,T,10,Ingenieria civil,1,Ingeniería,2019-09-15T17:03:43Z,1
+815,Álgebra Lineal,4,B,10,Ingenieria civil,1,Ingeniería,2019-02-02T10:11:44Z,1
+822,Alcantarillados,3,C,10,Ingenieria civil,1,Ingeniería,2021-08-25T07:32:23Z,1
+829,Acueductos,3,C,10,Ingenieria civil,1,Ingeniería,2021-07-28T06:55:48Z,1
+54,Taller de proyectos interdisciplinarios,3,C,11,Ingenieria de sistemas,1,Ingeniería,2020-07-18T01:29:55Z,1
+86,Sistemas operativos,3,C,11,Ingenieria de sistemas,1,Ingeniería,2021-02-03T04:58:01Z,1
+89,Sistemas de Información Gerencial,4,T,11,Ingenieria de sistemas,1,Ingeniería,2018-01-18T04:34:18Z,1
+91,Sistemas de información,3,T,11,Ingenieria de sistemas,1,Ingeniería,2018-01-23T15:26:08Z,1
+130,Redes de computadores,3,C,11,Ingenieria de sistemas,1,Ingeniería,2018-07-19T13:32:53Z,1
+154,Programación orientada a objetos,3,C,11,Ingenieria de sistemas,1,Ingeniería,2019-12-03T18:19:31Z,1
+163,Programación de computadores,3,T,11,Ingenieria de sistemas,1,Ingeniería,2021-09-04T00:15:35Z,1
+184,Probabilidad y estadística fundamental,3,O,11,Ingenieria de sistemas,1,Ingeniería,2021-01-11T17:25:45Z,1
+193,Probabilidad,4,O,11,Ingenieria de sistemas,1,Ingeniería,2021-07-19T19:15:07Z,1
+235,Pensamiento sistémico,3,C,11,Ingenieria de sistemas,1,Ingeniería,2020-07-04T13:00:54Z,1
+243,Optimización,3,T,11,Ingenieria de sistemas,1,Ingeniería,2021-01-21T15:31:03Z,1
+273,Modelos y simulación,3,T,11,Ingenieria de sistemas,1,Ingeniería,2021-06-05T08:21:08Z,1
+277,Modelos estocásticos y simulación en computación y comunicaciones,3,C,11,Ingenieria de sistemas,1,Ingeniería,2020-06-10T02:31:30Z,1
+305,Métodos numéricos,3,O,11,Ingenieria de sistemas,1,Ingeniería,2021-09-12T00:05:42Z,1
+340,Matemáticas discretas II,4,O,11,Ingenieria de sistemas,1,Ingeniería,2020-10-02T21:16:06Z,1
+341,Matemáticas discretas I,4,O,11,Ingenieria de sistemas,1,Ingeniería,2019-08-24T04:40:09Z,1
+349,Lenguajes de programación,3,C,11,Ingenieria de sistemas,1,Ingeniería,2020-03-22T05:28:41Z,1
+374,Introducción a los sistemas inteligentes,3,C,11,Ingenieria de sistemas,1,Ingeniería,2021-06-07T20:29:20Z,1
+376,Introducción a las ciencias de la computación y a la programación,3,T,11,Ingenieria de sistemas,1,Ingeniería,2019-12-15T21:08:50Z,1
+377,Introducción a la teoría de la computación,4,B,11,Ingenieria de sistemas,1,Ingeniería,2018-04-18T20:33:36Z,1
+384,Introducción a la ingeniería de sistemas y computación,3,C,11,Ingenieria de sistemas,1,Ingeniería,2019-02-17T22:36:56Z,1
+391,Introducción a la criptografía y a la seguridad de la Información,3,T,11,Ingenieria de sistemas,1,Ingeniería,2020-08-21T03:13:10Z,1
+409,Inteligencia Artificial,3,C,11,Ingenieria de sistemas,1,Ingeniería,2021-05-11T17:11:18Z,1
+435,Ingeniería económica y análisis de riesgo,3,O,11,Ingenieria de sistemas,1,Ingeniería,2021-05-16T18:27:37Z,1
+441,Ingeniería económica,3,O,11,Ingenieria de sistemas,1,Ingeniería,2018-03-09T22:33:03Z,1
+448,Ingeniería de software II,3,C,11,Ingenieria de sistemas,1,Ingeniería,2019-05-27T11:59:28Z,1
+449,Ingeniería de software I,3,C,11,Ingenieria de sistemas,1,Ingeniería,2019-03-27T15:07:53Z,1
+477,Gerencia y gestión de proyectos,3,O,11,Ingenieria de sistemas,1,Ingeniería,2021-03-04T17:59:45Z,1
+518,Fundamentos de mecánica,4,B,11,Ingenieria de sistemas,1,Ingeniería,2018-12-25T11:10:45Z,1
+537,Fundamentos de electricidad y magnetismo,4,B,11,Ingenieria de sistemas,1,Ingeniería,2020-04-30T16:23:28Z,1
+586,Estructuras de datos,3,C,11,Ingenieria de sistemas,1,Ingeniería,2018-02-08T19:46:44Z,1
+606,Elementos de computadores,3,T,11,Ingenieria de sistemas,1,Ingeniería,2019-09-07T22:23:56Z,1
+623,Ecuaciones Diferenciales,4,O,11,Ingenieria de sistemas,1,Ingeniería,2021-09-07T18:27:00Z,1
+638,"Diseño, gestión y evaluación de proyectos",4,O,11,Ingenieria de sistemas,1,Ingeniería,2021-05-18T11:55:29Z,1
+682,Comunicaciones,3,T,11,Ingenieria de sistemas,1,Ingeniería,2021-11-17T05:30:42Z,1
+694,Computación visual,3,C,11,Ingenieria de sistemas,1,Ingeniería,2021-01-25T04:16:22Z,1
+695,Computación paralela y distribuida,3,C,11,Ingenieria de sistemas,1,Ingeniería,2019-10-15T17:01:14Z,1
+702,Complemento a teoría de la computación,1,B,11,Ingenieria de sistemas,1,Ingeniería,2021-07-28T08:27:16Z,1
+719,Calculo vectorial,4,O,11,Ingenieria de sistemas,1,Ingeniería,2021-10-21T10:29:41Z,1
+721,Cálculo integral en una variable,4,O,11,Ingenieria de sistemas,1,Ingeniería,2018-04-10T13:54:32Z,1
+724,Cálculo Integral,4,O,11,Ingenieria de sistemas,1,Ingeniería,2021-06-15T14:18:04Z,1
+732,Cálculo en varias variables,4,O,11,Ingenieria de sistemas,1,Ingeniería,2021-03-10T09:58:16Z,1
+742,Cálculo diferencial,4,O,11,Ingenieria de sistemas,1,Ingeniería,2018-02-20T19:38:05Z,1
+780,Bases de datos,3,C,11,Ingenieria de sistemas,1,Ingeniería,2018-06-12T01:05:09Z,1
+786,Arquitectura de Software,3,C,11,Ingenieria de sistemas,1,Ingeniería,2018-09-27T11:33:50Z,1
+787,Arquitectura de infraestructura y gobierno de tics,3,C,11,Ingenieria de sistemas,1,Ingeniería,2019-10-17T03:37:01Z,1
+788,Arquitectura de computadores,3,C,11,Ingenieria de sistemas,1,Ingeniería,2021-08-09T11:08:24Z,1
+810,Algoritmos,3,B,11,Ingenieria de sistemas,1,Ingeniería,2021-09-17T14:53:05Z,1
+813,Álgebra lineal básica,4,O,11,Ingenieria de sistemas,1,Ingeniería,2020-07-09T01:18:30Z,1
+816,Álgebra Lineal,4,O,11,Ingenieria de sistemas,1,Ingeniería,2020-12-26T07:33:14Z,1
+1,Verificación de sistemas digitales,3,T,13,Ingenieria electronica,1,Ingeniería,2018-10-09T01:26:04Z,1
+3,Variable compleja,4,B,13,Ingenieria electronica,1,Ingeniería,2021-12-16T14:42:59Z,1
+13,Trabajo de Grado - Asignaturas de Posgrado,6,P,13,Ingenieria electronica,1,Ingeniería,2018-06-03T01:16:20Z,1
+24,Trabajo de Grado,6,P,13,Ingenieria electronica,1,Ingeniería,2020-01-31T23:55:55Z,1
+55,Taller de proyectos interdisciplinarios,3,C,13,Ingenieria electronica,1,Ingeniería,2018-12-24T12:15:33Z,1
+64,Taller de ingeniería electrónica,2,C,13,Ingenieria electronica,1,Ingeniería,2021-01-17T09:44:49Z,1
+81,Suficiencia por Acogimiento al Acuerdo 032,12,E,13,Ingenieria electronica,1,Ingeniería,2019-05-22T12:01:56Z,1
+88,Sistemas embebidos,3,T,13,Ingenieria electronica,1,Ingeniería,2020-03-23T10:28:59Z,1
+102,Señales y Sistemas II,3,C,13,Ingenieria electronica,1,Ingeniería,2021-09-27T17:55:25Z,1
+104,Señales y sistemas I,3,C,13,Ingenieria electronica,1,Ingeniería,2019-11-01T09:01:33Z,1
+115,Seguridad industrial,3,O,13,Ingenieria electronica,1,Ingeniería,2021-12-12T15:07:30Z,1
+129,Redes de telecomunicaciones,3,T,13,Ingenieria electronica,1,Ingeniería,2018-04-24T17:00:37Z,1
+155,Programación orientada a objetos,3,B,13,Ingenieria electronica,1,Ingeniería,2018-08-05T07:13:10Z,1
+164,Programación de computadores,3,B,13,Ingenieria electronica,1,Ingeniería,2020-12-12T10:17:29Z,1
+185,Probabilidad y estadística fundamental,3,O,13,Ingenieria electronica,1,Ingeniería,2018-01-13T21:12:25Z,1
+190,Probabilidad fundamental,3,O,13,Ingenieria electronica,1,Ingeniería,2020-01-21T00:10:33Z,1
+348,Líneas y antenas,3,C,13,Ingenieria electronica,1,Ingeniería,2020-04-09T07:45:23Z,1
+393,Introducción a la ciencia de materiales,3,B,13,Ingenieria electronica,1,Ingeniería,2020-11-05T15:30:40Z,1
+395,Introducción a ingeniería electrónica,5,C,13,Ingenieria electronica,1,Ingeniería,2019-02-25T20:44:50Z,1
+410,Instrumentación y medidas,3,C,13,Ingenieria electronica,1,Ingeniería,2020-08-09T22:42:14Z,1
+442,Ingeniería económica,3,B,13,Ingenieria electronica,1,Ingeniería,2018-10-15T14:15:41Z,1
+478,Gerencia y gestión de proyectos,3,O,13,Ingenieria electronica,1,Ingeniería,2021-10-07T06:36:24Z,1
+487,Gerencia de recursos humanos,3,O,13,Ingenieria electronica,1,Ingeniería,2021-02-08T10:58:15Z,1
+509,"Fundamentos de oscilaciones, ondas y óptica",4,B,13,Ingenieria electronica,1,Ingeniería,2018-07-19T05:08:37Z,1
+519,Fundamentos de mecánica,4,B,13,Ingenieria electronica,1,Ingeniería,2021-06-28T23:46:45Z,1
+538,Fundamentos de electricidad y magnetismo,4,B,13,Ingenieria electronica,1,Ingeniería,2019-03-08T21:06:42Z,1
+570,Física de Semiconductores,3,B,13,Ingenieria electronica,1,Ingeniería,2020-09-12T06:55:53Z,1
+577,Finanzas,3,O,13,Ingenieria electronica,1,Ingeniería,2020-11-08T01:37:20Z,1
+608,Electrónica digital II,4,C,13,Ingenieria electronica,1,Ingeniería,2019-10-11T08:47:49Z,1
+610,Electrónica digital I,4,C,13,Ingenieria electronica,1,Ingeniería,2019-08-23T00:55:02Z,1
+612,Electrónica de potencia,4,C,13,Ingenieria electronica,1,Ingeniería,2019-07-03T07:46:55Z,1
+614,Electrónica análoga II,4,C,13,Ingenieria electronica,1,Ingeniería,2020-09-23T04:43:56Z,1
+616,Electrónica análoga I,4,C,13,Ingenieria electronica,1,Ingeniería,2021-10-29T03:50:47Z,1
+624,Ecuaciones Diferenciales,4,B,13,Ingenieria electronica,1,Ingeniería,2021-03-29T11:29:40Z,1
+631,Economía general,3,O,13,Ingenieria electronica,1,Ingeniería,2021-09-07T13:18:09Z,1
+647,Diseño de sistemas electrónicos,3,C,13,Ingenieria electronica,1,Ingeniería,2021-10-07T17:38:32Z,1
+671,Control,4,C,13,Ingenieria electronica,1,Ingeniería,2018-02-28T15:05:11Z,1
+681,Comunicaciones Ópticas,3,T,13,Ingenieria electronica,1,Ingeniería,2021-02-18T16:02:17Z,1
+683,Comunicaciones,3,C,13,Ingenieria electronica,1,Ingeniería,2021-12-11T16:47:30Z,1
+700,Comprensión de textos en idioma extranjero,12,E,13,Ingenieria electronica,1,Ingeniería,2021-09-14T04:45:09Z,1
+706,Circuitos Eléctricos II,4,C,13,Ingenieria electronica,1,Ingeniería,2019-07-09T01:38:54Z,1
+708,Circuitos Eléctricos I,3,C,13,Ingenieria electronica,1,Ingeniería,2020-10-21T06:20:33Z,1
+710,Circuitos de RF,3,T,13,Ingenieria electronica,1,Ingeniería,2018-08-30T20:56:52Z,1
+717,Campos electromagnéticos,4,C,13,Ingenieria electronica,1,Ingeniería,2019-04-10T00:13:04Z,1
+725,Cálculo Integral,4,B,13,Ingenieria electronica,1,Ingeniería,2020-08-20T16:16:03Z,1
+733,Cálculo en varias variables,4,B,13,Ingenieria electronica,1,Ingeniería,2020-11-09T23:28:09Z,1
+743,Cálculo diferencial,4,B,13,Ingenieria electronica,1,Ingeniería,2018-02-09T11:44:43Z,1
+817,Álgebra Lineal,4,B,13,Ingenieria electronica,1,Ingeniería,2020-04-17T11:50:42Z,1
+827,Administración de empresas,3,O,13,Ingenieria electronica,1,Ingeniería,2018-11-02T09:20:43Z,1
+14,Trabajo de Grado - Asignaturas de Posgrado,6,P,14,Ingenieria industrial,1,Ingeniería,2021-06-19T05:05:10Z,1
+43,Teoría Contemporánea de la Organización,4,C,14,Ingenieria industrial,1,Ingeniería,2018-05-16T19:06:48Z,1
+50,Taller de simulación procesos de manufactura y sistemas de servicios,3,C,14,Ingenieria industrial,1,Ingeniería,2020-04-04T05:01:42Z,1
+59,Taller de Procesos Químicos y Biotecnológicos,3,C,14,Ingenieria industrial,1,Ingeniería,2018-10-24T18:17:00Z,1
+60,Taller de Procesos Metalmecánicos,3,C,14,Ingenieria industrial,1,Ingeniería,2018-05-16T12:02:17Z,1
+61,Taller de metodología de la investigación,3,C,14,Ingenieria industrial,1,Ingeniería,2018-06-07T00:29:45Z,1
+62,Taller de invención y creatividad,3,C,14,Ingenieria industrial,1,Ingeniería,2019-03-26T20:49:37Z,1
+66,Taller de ingeniería de la producción,4,C,14,Ingenieria industrial,1,Ingeniería,2021-11-16T15:20:46Z,1
+68,Taller de herramientas y problemas en ingeniería industrial,3,C,14,Ingenieria industrial,1,Ingeniería,2020-09-28T18:46:56Z,1
+70,Taller de ergonomía e ingeniería de métodos,4,C,14,Ingenieria industrial,1,Ingeniería,2018-01-05T05:39:39Z,1
+71,Taller de diseño de plantas,4,C,14,Ingenieria industrial,1,Ingeniería,2021-01-07T17:38:32Z,1
+75,Taller de ciencia y tecnología de materiales,4,C,14,Ingenieria industrial,1,Ingeniería,2020-07-20T13:51:15Z,1
+84,Sociología especial: Industrial y del trabajo,3,C,14,Ingenieria industrial,1,Ingeniería,2020-12-31T10:16:21Z,1
+90,Sistemas de Información Gerencial,4,T,14,Ingenieria industrial,1,Ingeniería,2018-04-17T17:40:01Z,1
+92,Sistemas de información,3,T,14,Ingenieria industrial,1,Ingeniería,2018-03-27T12:29:11Z,1
+94,Sistemas de costos,4,T,14,Ingenieria industrial,1,Ingeniería,2021-07-12T08:25:41Z,1
+116,Seguridad industrial,3,C,14,Ingenieria industrial,1,Ingeniería,2019-08-03T02:55:09Z,1
+156,Programación orientada a objetos,3,B,14,Ingenieria industrial,1,Ingeniería,2019-09-25T14:51:16Z,1
+165,Programación de computadores,3,B,14,Ingenieria industrial,1,Ingeniería,2021-07-19T19:09:49Z,1
+191,Probabilidad fundamental,4,B,14,Ingenieria industrial,1,Ingeniería,2018-08-27T03:31:16Z,1
+199,Principios de química,3,B,14,Ingenieria industrial,1,Ingeniería,2021-05-19T19:27:48Z,1
+234,Planeación estratégica,3,C,14,Ingenieria industrial,1,Ingeniería,2018-11-04T07:13:22Z,1
+244,Optimización,3,T,14,Ingenieria industrial,1,Ingeniería,2018-08-14T05:12:15Z,1
+274,Modelos y simulación,3,T,14,Ingenieria industrial,1,Ingeniería,2019-09-02T04:51:52Z,1
+278,Modelos estocásticos para procesos de manufactura y sistemas de servicios,3,C,14,Ingenieria industrial,1,Ingeniería,2021-05-29T03:53:33Z,1
+292,Microeconomía I,4,T,14,Ingenieria industrial,1,Ingeniería,2020-03-01T21:55:57Z,1
+314,Mercados I,4,C,14,Ingenieria industrial,1,Ingeniería,2020-08-09T04:06:17Z,1
+346,Logística,3,C,14,Ingenieria industrial,1,Ingeniería,2019-07-12T20:28:53Z,1
+371,Investigación de mercados,3,C,14,Ingenieria industrial,1,Ingeniería,2019-04-19T00:07:20Z,1
+383,Introducción a la ingeniería industrial,3,C,14,Ingenieria industrial,1,Ingeniería,2020-09-20T18:36:45Z,1
+436,Ingeniería económica y análisis de riesgo,3,C,14,Ingenieria industrial,1,Ingeniería,2018-07-04T06:09:10Z,1
+455,Inferencia estadística fundamental,4,B,14,Ingenieria industrial,1,Ingeniería,2021-08-14T05:22:16Z,1
+457,Inferencia estadística,4,B,14,Ingenieria industrial,1,Ingeniería,2019-12-21T03:02:00Z,1
+472,Gestión tecnológica,3,T,14,Ingenieria industrial,1,Ingeniería,2021-01-24T01:41:27Z,1
+479,Gerencia y gestión de proyectos,3,T,14,Ingenieria industrial,1,Ingeniería,2019-10-05T14:44:44Z,1
+488,Gerencia de recursos humanos,3,T,14,Ingenieria industrial,1,Ingeniería,2020-04-17T21:03:55Z,1
+520,Fundamentos de mecánica,4,B,14,Ingenieria industrial,1,Ingeniería,2018-03-16T14:28:45Z,1
+539,Fundamentos de electricidad y magnetismo,4,B,14,Ingenieria industrial,1,Ingeniería,2021-12-14T13:38:32Z,1
+545,Fundamentos de ecología,3,B,14,Ingenieria industrial,1,Ingeniería,2020-04-26T16:05:47Z,1
+554,Fundamentos de administración,4,T,14,Ingenieria industrial,1,Ingeniería,2020-10-14T06:43:55Z,1
+573,Finanzas avanzadas,4,T,14,Ingenieria industrial,1,Ingeniería,2020-04-14T20:08:26Z,1
+578,Finanzas,3,T,14,Ingenieria industrial,1,Ingeniería,2020-05-06T20:08:30Z,1
+596,Estadística descriptiva y exploratoria,4,B,14,Ingenieria industrial,1,Ingeniería,2018-08-04T00:54:57Z,1
+625,Ecuaciones Diferenciales,4,O,14,Ingenieria industrial,1,Ingeniería,2019-09-29T19:46:49Z,1
+632,Economía general,3,T,14,Ingenieria industrial,1,Ingeniería,2019-06-03T06:26:49Z,1
+639,"Diseño, gestión y evaluación de proyectos",4,T,14,Ingenieria industrial,1,Ingeniería,2018-09-21T15:05:27Z,1
+665,Creación y gestión de empresas,3,T,14,Ingenieria industrial,1,Ingeniería,2019-07-22T20:19:29Z,1
+666,Control y gestión de calidad,3,T,14,Ingenieria industrial,1,Ingeniería,2018-02-15T12:40:27Z,1
+668,Control estadístico de calidad,3,T,14,Ingenieria industrial,1,Ingeniería,2020-05-14T02:55:58Z,1
+673,Contabilidad de Gestión Avanzada,4,C,14,Ingenieria industrial,1,Ingeniería,2018-12-20T02:28:10Z,1
+701,Complemento probabilidad fundamental,1,B,14,Ingenieria industrial,1,Ingeniería,2020-10-31T12:53:26Z,1
+726,Cálculo Integral,4,O,14,Ingenieria industrial,1,Ingeniería,2019-06-12T19:16:49Z,1
+734,Cálculo en varias variables,4,O,14,Ingenieria industrial,1,Ingeniería,2020-09-01T19:49:46Z,1
+739,Cálculo diferencial en una variable,4,O,14,Ingenieria industrial,1,Ingeniería,2020-11-30T04:21:38Z,1
+744,Cálculo diferencial,4,O,14,Ingenieria industrial,1,Ingeniería,2020-12-17T20:15:48Z,1
+760,Biología molecular y celular,3,B,14,Ingenieria industrial,1,Ingeniería,2020-01-12T00:34:25Z,1
+768,Biología general,3,B,14,Ingenieria industrial,1,Ingeniería,2019-03-21T16:31:43Z,1
+818,Álgebra Lineal,4,O,14,Ingenieria industrial,1,Ingeniería,2018-01-28T01:30:46Z,1
+825,Administración de personal I,4,T,14,Ingenieria industrial,1,Ingeniería,2020-11-12T07:20:27Z,1
+15,Trabajo de Grado - Asignaturas de Posgrado,6,P,15,Ingenieria mecanica,1,Ingeniería,2019-03-30T03:57:22Z,1
+25,Trabajo de Grado,6,P,15,Ingenieria mecanica,1,Ingeniería,2018-11-20T15:13:41Z,1
+30,Termodinámica técnica,3,C,15,Ingenieria mecanica,1,Ingeniería,2021-02-27T01:13:55Z,1
+31,Termodinámica de sistemas energéticos,3,T,15,Ingenieria mecanica,1,Ingeniería,2018-02-24T06:46:02Z,1
+44,Tecnología mecánica básica,3,C,15,Ingenieria mecanica,1,Ingeniería,2019-02-12T14:22:49Z,1
+56,Taller de proyectos interdisciplinarios,3,C,15,Ingenieria mecanica,1,Ingeniería,2020-03-08T02:16:02Z,1
+105,Señales y sistemas I,3,C,15,Ingenieria mecanica,1,Ingeniería,2019-09-03T22:23:20Z,1
+126,Resistencia de Materiales,3,C,15,Ingenieria mecanica,1,Ingeniería,2020-05-15T08:44:43Z,1
+145,Proyecto aplicado de ingeniería,4,C,15,Ingenieria mecanica,1,Ingeniería,2018-10-11T23:52:30Z,1
+166,Programación de computadores,3,B,15,Ingenieria mecanica,1,Ingeniería,2019-05-05T16:17:04Z,1
+175,Procesos de Manufactura II,3,C,15,Ingenieria mecanica,1,Ingeniería,2018-12-20T08:18:35Z,1
+177,Procesos de Manufactura I,3,C,15,Ingenieria mecanica,1,Ingeniería,2019-04-22T16:36:12Z,1
+186,Probabilidad y estadística fundamental,3,B,15,Ingenieria mecanica,1,Ingeniería,2019-04-07T11:49:43Z,1
+200,Principios de química,3,B,15,Ingenieria mecanica,1,Ingeniería,2018-12-02T17:34:42Z,1
+203,Principios de mecánica de fluidos,3,C,15,Ingenieria mecanica,1,Ingeniería,2021-02-16T11:46:25Z,1
+205,Principios de Estática,3,C,15,Ingenieria mecanica,1,Ingeniería,2020-06-25T03:49:33Z,1
+207,Principios de dinámica,3,C,15,Ingenieria mecanica,1,Ingeniería,2021-08-28T00:54:35Z,1
+233,Plantas Térmicas,3,T,15,Ingenieria mecanica,1,Ingeniería,2019-07-17T15:52:55Z,1
+269,Motores de Combustión Interna,3,T,15,Ingenieria mecanica,1,Ingeniería,2018-08-29T01:26:49Z,1
+286,Modelación matemática,3,B,15,Ingenieria mecanica,1,Ingeniería,2019-06-27T10:43:22Z,1
+306,Métodos numéricos,3,B,15,Ingenieria mecanica,1,Ingeniería,2021-05-05T03:20:06Z,1
+323,Mecanismos,3,C,15,Ingenieria mecanica,1,Ingeniería,2019-09-02T10:54:16Z,1
+338,Materiales de Ingeniería,3,C,15,Ingenieria mecanica,1,Ingeniería,2019-03-19T19:36:42Z,1
+411,Instalaciones y máquinas eléctricas,3,C,15,Ingenieria mecanica,1,Ingeniería,2020-01-23T08:03:16Z,1
+432,Ingeniería y Desarrollo Sostenible,3,C,15,Ingenieria mecanica,1,Ingeniería,2019-03-25T07:17:05Z,1
+443,Ingeniería económica,3,B,15,Ingenieria mecanica,1,Ingeniería,2018-03-09T16:36:33Z,1
+453,Ingeniería de Manufactura,3,C,15,Ingenieria mecanica,1,Ingeniería,2019-02-08T17:07:06Z,1
+480,Gerencia y gestión de proyectos,3,B,15,Ingenieria mecanica,1,Ingeniería,2019-04-10T15:03:33Z,1
+500,Fundamentos de turbomaquinaria,3,T,15,Ingenieria mecanica,1,Ingeniería,2019-06-11T06:16:18Z,1
+501,Fundamentos de transferencia de calor,3,C,15,Ingenieria mecanica,1,Ingeniería,2021-01-28T11:18:51Z,1
+510,"Fundamentos de oscilaciones, ondas y óptica",4,O,15,Ingenieria mecanica,1,Ingeniería,2020-07-18T03:06:52Z,1
+513,Fundamentos de Mecánica de Fluidos,3,O,15,Ingenieria mecanica,1,Ingeniería,2021-03-03T20:11:01Z,1
+521,Fundamentos de mecánica,4,B,15,Ingenieria mecanica,1,Ingeniería,2021-11-06T09:48:02Z,1
+533,Fundamentos de física moderna,3,O,15,Ingenieria mecanica,1,Ingeniería,2020-09-01T15:24:39Z,1
+540,Fundamentos de electricidad y magnetismo,4,O,15,Ingenieria mecanica,1,Ingeniería,2019-04-21T01:32:11Z,1
+546,Fundamentos de control,3,C,15,Ingenieria mecanica,1,Ingeniería,2019-02-05T15:04:47Z,1
+613,Electrónica básica,3,C,15,Ingenieria mecanica,1,Ingeniería,2019-09-17T20:05:54Z,1
+626,Ecuaciones Diferenciales,4,B,15,Ingenieria mecanica,1,Ingeniería,2018-06-26T15:41:57Z,1
+651,Diseño de elementos de máquinas II,3,C,15,Ingenieria mecanica,1,Ingeniería,2020-03-23T02:24:12Z,1
+652,Diseño de elementos de máquinas I,3,C,15,Ingenieria mecanica,1,Ingeniería,2021-09-27T10:47:53Z,1
+656,Dibujo de Máquinas,4,C,15,Ingenieria mecanica,1,Ingeniería,2020-07-07T23:23:26Z,1
+658,Dibujo básico,3,B,15,Ingenieria mecanica,1,Ingeniería,2021-03-13T12:00:04Z,1
+711,Ciencia e ingeniería de materiales,3,C,15,Ingenieria mecanica,1,Ingeniería,2018-09-01T23:51:46Z,1
+727,Cálculo Integral,4,B,15,Ingenieria mecanica,1,Ingeniería,2018-09-06T09:24:29Z,1
+735,Cálculo en varias variables,4,B,15,Ingenieria mecanica,1,Ingeniería,2019-05-01T06:24:49Z,1
+745,Cálculo diferencial,4,B,15,Ingenieria mecanica,1,Ingeniería,2021-05-18T19:35:42Z,1
+790,Aplicaciones de elementos finitos,3,B,15,Ingenieria mecanica,1,Ingeniería,2019-04-06T14:47:13Z,1
+803,Análisis de sistemas dinámicos,3,C,15,Ingenieria mecanica,1,Ingeniería,2020-05-10T17:57:26Z,1
+819,Álgebra Lineal,4,B,15,Ingenieria mecanica,1,Ingeniería,2021-04-18T17:08:15Z,1
+4,Variable compleja,4,B,16,Ingenieria mecatronica,1,Ingeniería,2021-04-02T21:00:26Z,1
+16,Trabajo de Grado - Asignaturas de Posgrado,6,P,16,Ingenieria mecatronica,1,Ingeniería,2019-12-05T12:53:16Z,1
+26,Trabajo de Grado,6,P,16,Ingenieria mecatronica,1,Ingeniería,2020-02-28T09:22:50Z,1
+45,Tecnología mecánica básica,3,C,16,Ingenieria mecatronica,1,Ingeniería,2019-09-24T16:34:41Z,1
+47,Técnicas de Inteligencia Artificial,3,T,16,Ingenieria mecatronica,1,Ingeniería,2018-01-11T03:35:54Z,1
+48,Técnicas de control,3,T,16,Ingenieria mecatronica,1,Ingeniería,2020-10-19T15:26:44Z,1
+57,Taller de proyectos interdisciplinarios,3,C,16,Ingenieria mecatronica,1,Ingeniería,2018-02-07T18:59:11Z,1
+65,Taller de ingeniería electrónica,2,C,16,Ingenieria mecatronica,1,Ingeniería,2020-12-21T16:51:03Z,1
+98,Servomecanismos,3,C,16,Ingenieria mecatronica,1,Ingeniería,2021-01-26T04:21:20Z,1
+103,Señales y Sistemas II,3,C,16,Ingenieria mecatronica,1,Ingeniería,2019-02-09T23:02:00Z,1
+106,Señales y sistemas I,3,C,16,Ingenieria mecatronica,1,Ingeniería,2021-10-12T11:55:54Z,1
+107,Sensores y actuadores,3,C,16,Ingenieria mecatronica,1,Ingeniería,2018-12-13T20:18:16Z,1
+117,Seguridad industrial,3,O,16,Ingenieria mecatronica,1,Ingeniería,2020-12-24T23:54:17Z,1
+125,Robótica,3,C,16,Ingenieria mecatronica,1,Ingeniería,2021-03-28T10:20:25Z,1
+127,Resistencia de Materiales,3,C,16,Ingenieria mecatronica,1,Ingeniería,2019-01-11T22:27:43Z,1
+131,Redes de computadores,3,C,16,Ingenieria mecatronica,1,Ingeniería,2018-07-05T12:20:13Z,1
+146,Proyecto aplicado de ingeniería,4,C,16,Ingenieria mecatronica,1,Ingeniería,2021-03-15T11:51:27Z,1
+157,Programación orientada a objetos,3,C,16,Ingenieria mecatronica,1,Ingeniería,2019-11-06T00:57:10Z,1
+167,Programación de computadores,3,B,16,Ingenieria mecatronica,1,Ingeniería,2020-06-09T16:17:38Z,1
+176,Procesos de Manufactura II,3,T,16,Ingenieria mecatronica,1,Ingeniería,2021-09-09T22:42:03Z,1
+178,Procesos de Manufactura I,3,T,16,Ingenieria mecatronica,1,Ingeniería,2020-04-03T20:10:29Z,1
+187,Probabilidad y estadística fundamental,3,B,16,Ingenieria mecatronica,1,Ingeniería,2018-08-23T08:26:18Z,1
+201,Principios de química,3,B,16,Ingenieria mecatronica,1,Ingeniería,2018-08-16T14:30:44Z,1
+206,Principios de Estática,3,C,16,Ingenieria mecatronica,1,Ingeniería,2020-08-05T08:51:09Z,1
+208,Principios de dinámica,3,C,16,Ingenieria mecatronica,1,Ingeniería,2019-11-10T01:08:17Z,1
+287,Modelación matemática,3,O,16,Ingenieria mecatronica,1,Ingeniería,2018-09-28T04:40:58Z,1
+293,Microcontroladores,3,C,16,Ingenieria mecatronica,1,Ingeniería,2020-07-23T18:12:19Z,1
+307,Métodos numéricos,3,O,16,Ingenieria mecatronica,1,Ingeniería,2018-06-23T08:20:23Z,1
+433,Ingeniería y Desarrollo Sostenible,3,C,16,Ingenieria mecatronica,1,Ingeniería,2018-04-07T10:22:26Z,1
+444,Ingeniería económica,3,B,16,Ingenieria mecatronica,1,Ingeniería,2020-11-09T03:56:37Z,1
+481,Gerencia y gestión de proyectos,3,O,16,Ingenieria mecatronica,1,Ingeniería,2018-07-10T07:47:04Z,1
+511,"Fundamentos de oscilaciones, ondas y óptica",4,O,16,Ingenieria mecatronica,1,Ingeniería,2020-05-09T16:05:42Z,1
+514,Fundamentos de Mecánica de Fluidos,3,O,16,Ingenieria mecatronica,1,Ingeniería,2019-01-17T17:42:12Z,1
+522,Fundamentos de mecánica,4,B,16,Ingenieria mecatronica,1,Ingeniería,2020-10-06T16:05:01Z,1
+534,Fundamentos de física moderna,3,O,16,Ingenieria mecatronica,1,Ingeniería,2020-10-14T08:32:29Z,1
+541,Fundamentos de electricidad y magnetismo,4,B,16,Ingenieria mecatronica,1,Ingeniería,2021-09-28T12:30:43Z,1
+571,Física de Semiconductores,3,O,16,Ingenieria mecatronica,1,Ingeniería,2020-10-05T14:36:18Z,1
+579,Finanzas,3,O,16,Ingenieria mecatronica,1,Ingeniería,2018-08-14T01:17:38Z,1
+587,Estructuras de datos,3,C,16,Ingenieria mecatronica,1,Ingeniería,2020-12-09T08:49:07Z,1
+611,Electrónica digital I,4,C,16,Ingenieria mecatronica,1,Ingeniería,2021-04-01T10:17:13Z,1
+617,Electrónica análoga I,4,C,16,Ingenieria mecatronica,1,Ingeniería,2020-08-28T01:13:30Z,1
+627,Ecuaciones Diferenciales,4,B,16,Ingenieria mecatronica,1,Ingeniería,2020-10-10T18:17:06Z,1
+644,Diseño Mecatrónico,3,C,16,Ingenieria mecatronica,1,Ingeniería,2021-07-27T06:33:08Z,1
+659,Dibujo básico,3,B,16,Ingenieria mecatronica,1,Ingeniería,2021-06-22T04:07:52Z,1
+672,Control,4,C,16,Ingenieria mecatronica,1,Ingeniería,2020-01-20T09:13:00Z,1
+709,Circuitos Eléctricos I,3,C,16,Ingenieria mecatronica,1,Ingeniería,2020-04-25T02:06:51Z,1
+712,Ciencia e ingeniería de materiales,3,C,16,Ingenieria mecatronica,1,Ingeniería,2020-06-17T16:34:12Z,1
+728,Cálculo Integral,4,B,16,Ingenieria mecatronica,1,Ingeniería,2020-05-04T03:27:48Z,1
+736,Cálculo en varias variables,4,B,16,Ingenieria mecatronica,1,Ingeniería,2018-06-05T22:51:55Z,1
+746,Cálculo diferencial,4,B,16,Ingenieria mecatronica,1,Ingeniería,2019-01-15T13:21:01Z,1
+784,Automatización de Procesos de Manufactura,3,C,16,Ingenieria mecatronica,1,Ingeniería,2018-10-19T23:25:40Z,1
+791,Aplicaciones de elementos finitos,3,O,16,Ingenieria mecatronica,1,Ingeniería,2018-07-02T00:36:32Z,1
+820,Álgebra Lineal,4,B,16,Ingenieria mecatronica,1,Ingeniería,2019-06-18T01:25:56Z,1
+33,Termodinámica,3,C,17,Ingenieria quimica,1,Ingeniería,2020-05-08T13:11:33Z,1
+40,Teoría de la decisión,4,O,17,Ingenieria quimica,1,Ingeniería,2020-09-06T15:38:09Z,1
+58,Taller de proyectos interdisciplinarios,3,C,17,Ingenieria quimica,1,Ingeniería,2020-02-22T01:03:47Z,1
+76,Taller 2,1,C,17,Ingenieria quimica,1,Ingeniería,2018-04-21T14:22:40Z,1
+77,Taller 1,1,C,17,Ingenieria quimica,1,Ingeniería,2020-08-19T10:34:09Z,1
+95,Sistemas de costos,4,O,17,Ingenieria quimica,1,Ingeniería,2018-05-08T23:56:54Z,1
+118,Seguridad industrial,3,O,17,Ingenieria quimica,1,Ingeniería,2020-01-17T00:08:24Z,1
+132,Química de Sólidos,3,T,17,Ingenieria quimica,1,Ingeniería,2018-10-06T13:49:01Z,1
+168,Programación de computadores,3,O,17,Ingenieria quimica,1,Ingeniería,2019-09-29T07:54:43Z,1
+188,Probabilidad y estadística fundamental,3,B,17,Ingenieria quimica,1,Ingeniería,2021-01-27T08:53:01Z,1
+194,Principios de química orgánica,3,B,17,Ingenieria quimica,1,Ingeniería,2020-02-03T04:34:58Z,1
+195,Principios de química inorgánica,3,B,17,Ingenieria quimica,1,Ingeniería,2018-04-06T00:05:57Z,1
+202,Principios de química,3,B,17,Ingenieria quimica,1,Ingeniería,2019-11-08T13:20:07Z,1
+210,Principios de análisis químico,3,B,17,Ingenieria quimica,1,Ingeniería,2021-05-26T14:33:58Z,1
+245,Operaciones de Separación,3,C,17,Ingenieria quimica,1,Ingeniería,2020-09-23T18:52:04Z,1
+281,Modelamiento y simulación de procesos químicos,3,T,17,Ingenieria quimica,1,Ingeniería,2020-05-31T21:51:52Z,1
+282,Modelamiento y Simulación de Procesos Bioquímicos,3,T,17,Ingenieria quimica,1,Ingeniería,2020-10-05T10:02:50Z,1
+308,Métodos numéricos,3,B,17,Ingenieria quimica,1,Ingeniería,2019-07-11T20:32:01Z,1
+315,Mercados I,4,O,17,Ingenieria quimica,1,Ingeniería,2021-02-16T11:12:02Z,1
+316,Mercadeo internacional,3,O,17,Ingenieria quimica,1,Ingeniería,2021-09-06T10:07:50Z,1
+345,Manejo de sólidos,3,C,17,Ingenieria quimica,1,Ingeniería,2020-11-18T23:57:51Z,1
+353,Laboratorio tecnicas básicas en química,3,B,17,Ingenieria quimica,1,Ingeniería,2020-09-04T20:42:32Z,1
+354,Laboratorio principios de química orgánica,2,B,17,Ingenieria quimica,1,Ingeniería,2019-10-29T10:17:08Z,1
+355,Laboratorio principios de análisis químico,3,B,17,Ingenieria quimica,1,Ingeniería,2018-06-15T10:04:36Z,1
+358,Laboratorio de propiedades termodinámicas y de transporte,3,C,17,Ingenieria quimica,1,Ingeniería,2021-04-12T16:46:30Z,1
+359,"Laboratorio de operaciones de separación, reaccion y control",3,C,17,Ingenieria quimica,1,Ingeniería,2018-02-24T05:22:12Z,1
+360,"Laboratorio de fluidos, sólidos y transferencia de calor",3,C,17,Ingenieria quimica,1,Ingeniería,2020-04-18T15:13:36Z,1
+382,Introducción a la Ingeniería Química,3,C,17,Ingenieria quimica,1,Ingeniería,2019-10-22T23:46:27Z,1
+385,Introducción a la Ingeniería de Materiales Poliméricos,3,T,17,Ingenieria quimica,1,Ingeniería,2021-08-17T10:35:21Z,1
+386,Introducción a la Ingeniería de Materiales,3,T,17,Ingenieria quimica,1,Ingeniería,2018-04-23T00:54:58Z,1
+394,Introducción a la ciencia de materiales,3,T,17,Ingenieria quimica,1,Ingeniería,2021-10-21T23:18:30Z,1
+445,Ingeniería económica,3,B,17,Ingenieria quimica,1,Ingeniería,2019-06-12T11:47:42Z,1
+451,Ingeniería de Reacciones Químicas,3,C,17,Ingenieria quimica,1,Ingeniería,2019-01-30T09:34:40Z,1
+452,Ingeniería de Procesos,3,C,17,Ingenieria quimica,1,Ingeniería,2019-02-06T08:20:03Z,1
+482,Gerencia y gestión de proyectos,3,B,17,Ingenieria quimica,1,Ingeniería,2020-07-27T08:28:24Z,1
+523,Fundamentos de mecánica,4,B,17,Ingenieria quimica,1,Ingeniería,2019-03-26T03:58:31Z,1
+542,Fundamentos de electricidad y magnetismo,4,B,17,Ingenieria quimica,1,Ingeniería,2021-10-03T17:37:32Z,1
+547,Fundamentos de contabilidad financiera,3,O,17,Ingenieria quimica,1,Ingeniería,2018-05-03T14:46:46Z,1
+561,Fluidos,3,C,17,Ingenieria quimica,1,Ingeniería,2020-03-17T13:59:25Z,1
+568,Fisicoquímica II,3,T,17,Ingenieria quimica,1,Ingeniería,2018-09-30T08:57:23Z,1
+580,Finanzas,3,O,17,Ingenieria quimica,1,Ingeniería,2021-06-12T19:06:17Z,1
+628,Ecuaciones Diferenciales,4,B,17,Ingenieria quimica,1,Ingeniería,2020-03-31T00:43:18Z,1
+633,Economía general,3,O,17,Ingenieria quimica,1,Ingeniería,2021-08-22T03:09:45Z,1
+640,"Diseño, gestión y evaluación de proyectos",3,O,17,Ingenieria quimica,1,Ingeniería,2018-07-21T21:08:03Z,1
+648,Diseño de procesos químicos y bioquímicos,3,C,17,Ingenieria quimica,1,Ingeniería,2021-05-30T11:08:37Z,1
+649,Diseño de plantas y equipos,3,C,17,Ingenieria quimica,1,Ingeniería,2018-01-20T16:21:05Z,1
+660,Dibujo básico,3,O,17,Ingenieria quimica,1,Ingeniería,2019-10-24T11:42:42Z,1
+669,Control de procesos,3,C,17,Ingenieria quimica,1,Ingeniería,2020-11-18T11:54:29Z,1
+689,Comunicación oral y escrita,3,O,17,Ingenieria quimica,1,Ingeniería,2021-01-30T20:56:42Z,1
+713,Ciencia e ingeniería de materiales,3,T,17,Ingenieria quimica,1,Ingeniería,2018-04-03T04:58:20Z,1
+729,Cálculo Integral,4,B,17,Ingenieria quimica,1,Ingeniería,2019-10-07T10:23:14Z,1
+737,Cálculo en varias variables,4,B,17,Ingenieria quimica,1,Ingeniería,2018-07-07T02:08:59Z,1
+747,Cálculo diferencial,4,B,17,Ingenieria quimica,1,Ingeniería,2020-12-27T00:19:05Z,1
+761,Biología molecular y celular,3,B,17,Ingenieria quimica,1,Ingeniería,2018-02-16T17:48:44Z,1
+781,Balance de materia,3,C,17,Ingenieria quimica,1,Ingeniería,2019-07-21T05:48:44Z,1
+782,Balance de energía y equilibrio químico,3,C,17,Ingenieria quimica,1,Ingeniería,2020-08-12T20:22:01Z,1
+821,Álgebra Lineal,4,B,17,Ingenieria quimica,1,Ingeniería,2019-08-07T16:51:31Z,1
+826,Administración de mercados,3,O,17,Ingenieria quimica,1,Ingeniería,2019-10-07T07:24:08Z,1
+828,Administración de empresas,3,O,17,Ingenieria quimica,1,Ingeniería,2019-03-22T16:59:42Z,1
+128,Rehabilitación,3,C,20,Medicina,3,Medicina,2021-07-11T13:21:07Z,1
+133,Química básica para ciencias de la salud,3,B,20,Medicina,3,Medicina,2019-02-15T10:26:27Z,1
+136,Psiquiatría II,3,C,20,Medicina,3,Medicina,2019-03-03T20:19:05Z,1
+137,Psiquiatría I,2,C,20,Medicina,3,Medicina,2021-11-26T04:09:09Z,1
+236,Pediatría,13,C,20,Medicina,3,Medicina,2020-09-17T13:52:28Z,1
+238,Patología general,2,C,20,Medicina,3,Medicina,2019-08-04T00:36:46Z,1
+239,Patología especial,7,C,20,Medicina,3,Medicina,2019-07-07T01:16:21Z,1
+240,Paro cardiaco en el adulto ¿qué hacer?,2,T,20,Medicina,3,Medicina,2018-01-08T11:07:06Z,1
+241,Parasitología,3,B,20,Medicina,3,Medicina,2019-08-08T07:14:37Z,1
+261,Narrativas en medicina,2,T,20,Medicina,3,Medicina,2019-03-26T01:03:14Z,1
+294,Microbiología,5,B,20,Medicina,3,Medicina,2019-09-03T01:50:44Z,1
+296,Micobacterias y salud,2,T,20,Medicina,3,Medicina,2019-07-17T14:38:30Z,1
+311,Metodología de la Investigación,3,O,20,Medicina,3,Medicina,2019-07-13T22:25:53Z,1
+317,Medicina y sociedad,2,B,20,Medicina,3,Medicina,2019-09-12T23:30:31Z,1
+319,Medicina legal I,2,C,20,Medicina,3,Medicina,2018-03-02T18:16:20Z,1
+320,Medicina interna II,9,C,20,Medicina,3,Medicina,2021-07-18T03:44:13Z,1
+321,Medicina interna I,9,C,20,Medicina,3,Medicina,2019-06-07T07:52:07Z,1
+322,Medicina familiar,2,T,20,Medicina,3,Medicina,2019-05-23T00:10:52Z,1
+326,Mecánica y ondas para biociencias,4,B,20,Medicina,3,Medicina,2018-06-21T12:22:36Z,1
+372,Investigación cualitativa en salud,3,O,20,Medicina,3,Medicina,2018-10-25T01:55:06Z,1
+375,Introducción a las imágenes diagnósticas,3,C,20,Medicina,3,Medicina,2018-12-09T00:48:34Z,1
+380,Introducción a la medicina interna,3,C,20,Medicina,3,Medicina,2020-02-01T21:18:02Z,1
+381,Introducción a la medicina alternativa y terapias complementarias,2,T,20,Medicina,3,Medicina,2020-03-25T16:16:05Z,1
+390,Introducción a la fisiología,3,B,20,Medicina,3,Medicina,2021-05-28T23:46:49Z,1
+400,Internado: Urgencias I,5,T,20,Medicina,3,Medicina,2021-02-08T15:21:24Z,1
+401,Internado: Pediatría I,5,T,20,Medicina,3,Medicina,2020-04-09T16:55:41Z,1
+402,Internado: Medicina interna I,5,T,20,Medicina,3,Medicina,2021-03-27T09:53:06Z,1
+403,Internado: Investigación I,30,T,20,Medicina,3,Medicina,2019-07-04T10:26:14Z,1
+404,Internado: Ginecología y obstetricia I,5,T,20,Medicina,3,Medicina,2021-03-03T00:27:41Z,1
+405,Internado: Clínica optativa I,5,T,20,Medicina,3,Medicina,2021-05-12T08:27:11Z,1
+406,Internado: Cirugía I,5,T,20,Medicina,3,Medicina,2021-10-22T07:10:16Z,1
+407,Internado: Atencion primaria I,5,T,20,Medicina,3,Medicina,2021-04-27T03:12:34Z,1
+413,Inmunología,2,B,20,Medicina,3,Medicina,2021-12-24T03:32:50Z,1
+459,Imágenes diagnósticas,2,C,20,Medicina,3,Medicina,2021-04-25T07:54:04Z,1
+460,Hormonas,2,T,20,Medicina,3,Medicina,2018-04-07T08:38:16Z,1
+462,Histología III,5,B,20,Medicina,3,Medicina,2019-03-21T21:14:08Z,1
+463,Histología II,4,B,20,Medicina,3,Medicina,2021-12-01T19:01:18Z,1
+464,Histología I,2,B,20,Medicina,3,Medicina,2019-10-20T09:48:47Z,1
+469,Habilitación pediátrica,2,C,20,Medicina,3,Medicina,2021-01-20T12:24:49Z,1
+471,Ginecología y obstetricia,12,C,20,Medicina,3,Medicina,2019-10-17T00:14:21Z,1
+496,Genética,2,B,20,Medicina,3,Medicina,2020-12-10T06:05:49Z,1
+564,Fisiología II,8,B,20,Medicina,3,Medicina,2019-09-22T12:17:36Z,1
+565,Fisiología I,3,B,20,Medicina,3,Medicina,2021-08-11T16:05:58Z,1
+581,Farmacología clínica,2,T,20,Medicina,3,Medicina,2021-05-04T02:12:57Z,1
+582,Farmacología,7,B,20,Medicina,3,Medicina,2020-07-27T13:19:26Z,1
+603,Epidemiología,3,C,20,Medicina,3,Medicina,2021-09-23T07:28:50Z,1
+604,Embriología,3,B,20,Medicina,3,Medicina,2018-02-15T16:13:55Z,1
+634,Ecologia medica,2,T,20,Medicina,3,Medicina,2021-05-06T22:58:56Z,1
+661,Demografía y bioestadística,2,O,20,Medicina,3,Medicina,2021-10-02T13:33:43Z,1
+691,Comunicación científica,3,O,20,Medicina,3,Medicina,2019-08-22T20:59:52Z,1
+704,Cirugía I,12,C,20,Medicina,3,Medicina,2021-03-21T15:28:00Z,1
+750,Bioquímica II,2,T,20,Medicina,3,Medicina,2019-09-12T16:20:41Z,1
+751,Bioquímica I,4,B,20,Medicina,3,Medicina,2019-12-23T23:37:19Z,1
+763,Biología molecular avanzada,2,T,20,Medicina,3,Medicina,2018-05-13T00:56:26Z,1
+764,Biología molecular,2,B,20,Medicina,3,Medicina,2021-11-22T14:48:01Z,1
+770,Bioética en epidemiología,2,T,20,Medicina,3,Medicina,2018-11-05T14:57:11Z,1
+771,Bioética,2,T,20,Medicina,3,Medicina,2018-09-07T17:12:10Z,1
+785,Atención primaria en salud,4,T,20,Medicina,3,Medicina,2020-10-19T20:01:46Z,1
+795,Anatomía II,5,B,20,Medicina,3,Medicina,2021-02-04T16:37:13Z,1
+796,Anatomía I,2,B,20,Medicina,3,Medicina,2020-10-05T18:16:14Z,1
+824,Administracion en salud I,2,C,20,Medicina,3,Medicina,2019-05-21T12:10:28Z,1
+343,Matemáticas Básicas,4,E,0,No especificado,0,No especificado,2021-04-08T04:14:03Z,1
+352,Lecto-Escritura,4,E,0,No especificado,0,No especificado,2020-04-08T13:33:08Z,1
+415,Inglés IV- Virtual,3,E,0,No especificado,0,No especificado,2020-05-08T08:14:29Z,1
+416,Inglés IV- Semestral,3,E,0,No especificado,0,No especificado,2021-01-21T03:56:01Z,1
+417,Inglés IV- intensivo,3,E,0,No especificado,0,No especificado,2018-05-12T00:01:13Z,1
+418,Inglés Intensivo IV,3,E,0,No especificado,0,No especificado,2020-10-02T22:25:09Z,1
+419,Inglés Intensivo III y IV,6,E,0,No especificado,0,No especificado,2020-04-28T01:23:05Z,1
+420,Inglés Intensivo II y III,6,E,0,No especificado,0,No especificado,2021-11-14T19:49:00Z,1
+421,Inglés intensivo II,3,E,0,No especificado,0,No especificado,2021-05-18T03:29:02Z,1
+422,Inglés Intensivo I y II,6,E,0,No especificado,0,No especificado,2019-04-20T05:51:40Z,1
+423,Inglés intensivo I,3,E,0,No especificado,0,No especificado,2019-06-13T05:09:16Z,1
+424,Inglés III-Intensivo,3,E,0,No especificado,0,No especificado,2018-05-17T23:16:08Z,1
+425,Inglés III- Virtual,3,E,0,No especificado,0,No especificado,2019-04-22T11:56:33Z,1
+426,Inglés III - Semestral,3,E,0,No especificado,0,No especificado,2018-12-22T13:50:25Z,1
+427,Inglés II- Intensivo,3,E,0,No especificado,0,No especificado,2019-02-27T07:53:11Z,1
+428,Inglés II - Virtual,3,E,0,No especificado,0,No especificado,2019-07-11T00:39:18Z,1
+429,Inglés II - Semestral,3,E,0,No especificado,0,No especificado,2020-07-23T05:05:50Z,1
+430,Inglés I- Virtual,3,E,0,No especificado,0,No especificado,2019-02-12T22:46:49Z,1
+431,Inglés I- Semestral,3,E,0,No especificado,0,No especificado,2018-09-25T03:30:38Z,1
+17,Trabajo de Grado - Asignaturas de Posgrado,8,P,21,Nutricion y dietetica,3,Medicina,2019-07-27T00:08:17Z,1
+27,Trabajo de Grado,8,P,21,Nutricion y dietetica,3,Medicina,2021-09-21T14:51:52Z,1
+96,Sistema agroalimentario,3,C,21,Nutricion y dietetica,3,Medicina,2018-08-25T22:04:46Z,1
+121,Salud y sociedad,2,O,21,Nutricion y dietetica,3,Medicina,2021-03-17T03:02:59Z,1
+135,Química básica,3,B,21,Nutricion y dietetica,3,Medicina,2019-01-23T23:38:55Z,1
+148,Promoción de la salud,5,T,21,Nutricion y dietetica,3,Medicina,2020-03-27T20:19:07Z,1
+222,Práctica de servicios de alimentación y nutrición,6,C,21,Nutricion y dietetica,3,Medicina,2021-10-21T05:53:03Z,1
+223,Practica de nutricion pública,6,C,21,Nutricion y dietetica,3,Medicina,2019-11-19T21:38:53Z,1
+224,Practica de nutricion clinica materno infantil,3,C,21,Nutricion y dietetica,3,Medicina,2018-06-27T11:09:47Z,1
+225,Práctica de nutrición clínica adultos,3,C,21,Nutricion y dietetica,3,Medicina,2019-08-07T06:09:02Z,1
+232,Política pública en seguridad alimentaria y nutricional,5,T,21,Nutricion y dietetica,3,Medicina,2020-05-19T09:26:17Z,1
+250,Nutrición y actividad física,5,T,21,Nutricion y dietetica,3,Medicina,2021-07-01T01:29:25Z,1
+251,Nutrición pública,4,C,21,Nutricion y dietetica,3,Medicina,2019-02-22T16:49:44Z,1
+252,Nutrición materno infantil,4,C,21,Nutricion y dietetica,3,Medicina,2019-08-20T19:55:34Z,1
+253,Nutrición del adulto,3,C,21,Nutricion y dietetica,3,Medicina,2019-07-21T16:59:07Z,1
+254,Nutrición clínica materno infantil,3,C,21,Nutricion y dietetica,3,Medicina,2018-05-02T11:59:04Z,1
+255,Nutrición clínica aplicada materno infantil,5,T,21,Nutricion y dietetica,3,Medicina,2020-05-31T09:29:13Z,1
+256,Nutrición clínica adulto,3,C,21,Nutricion y dietetica,3,Medicina,2019-10-06T00:39:33Z,1
+270,Morfologia,4,B,21,Nutricion y dietetica,3,Medicina,2021-04-20T00:31:42Z,1
+295,Microbiología,2,B,21,Nutricion y dietetica,3,Medicina,2018-08-04T06:36:00Z,1
+312,Metodología de la Investigación,3,O,21,Nutricion y dietetica,3,Medicina,2019-04-29T13:12:11Z,1
+356,Laboratorio Microbiología,2,B,21,Nutricion y dietetica,3,Medicina,2020-05-08T17:13:58Z,1
+357,Laboratorio de química básica,2,B,21,Nutricion y dietetica,3,Medicina,2021-01-05T15:48:54Z,1
+362,Laboratorio de ciencia de alimentos II,2,C,21,Nutricion y dietetica,3,Medicina,2020-07-08T08:28:01Z,1
+363,Laboratorio de ciencia de alimentos I,2,C,21,Nutricion y dietetica,3,Medicina,2020-06-23T00:38:34Z,1
+364,Laboratorio bioquímica básica,2,O,21,Nutricion y dietetica,3,Medicina,2018-01-24T04:20:57Z,1
+378,Introducción a la Sociología,3,O,21,Nutricion y dietetica,3,Medicina,2020-04-03T19:54:33Z,1
+379,Introduccion a la nutricion y dietetica,3,C,21,Nutricion y dietetica,3,Medicina,2021-11-25T19:05:03Z,1
+483,Gerencia integral de servicios de alimentación y nutrición,5,T,21,Nutricion y dietetica,3,Medicina,2018-03-05T10:31:01Z,1
+484,Gerencia de servicios de alimentación y nutrición,6,C,21,Nutricion y dietetica,3,Medicina,2018-02-12T19:33:50Z,1
+505,Fundamentos de psicología,4,O,21,Nutricion y dietetica,3,Medicina,2021-11-25T08:35:47Z,1
+529,Fundamentos de investigación,3,O,21,Nutricion y dietetica,3,Medicina,2018-05-13T07:16:18Z,1
+550,Fundamentos de antropología,3,O,21,Nutricion y dietetica,3,Medicina,2021-05-16T23:28:07Z,1
+555,Fundamentos de administración,4,B,21,Nutricion y dietetica,3,Medicina,2020-08-16T21:34:39Z,1
+562,Fisiopatología,5,B,21,Nutricion y dietetica,3,Medicina,2021-07-05T17:33:10Z,1
+567,Fisiología general,4,O,21,Nutricion y dietetica,3,Medicina,2019-09-18T04:12:35Z,1
+584,Evaluación del estado nutricional,3,C,21,Nutricion y dietetica,3,Medicina,2018-04-10T23:57:29Z,1
+601,Epidemiología nutricional I,3,C,21,Nutricion y dietetica,3,Medicina,2021-06-03T05:58:32Z,1
+619,Educación alimentaria y nutricional I,3,C,21,Nutricion y dietetica,3,Medicina,2019-05-23T19:46:02Z,1
+686,Comunicación oral y escrita I,3,O,21,Nutricion y dietetica,3,Medicina,2020-04-09T15:19:15Z,1
+690,Comunicación oral y escrita,3,O,21,Nutricion y dietetica,3,Medicina,2018-01-14T08:21:41Z,1
+692,Comunicación científica,3,O,21,Nutricion y dietetica,3,Medicina,2020-01-30T06:43:34Z,1
+714,Ciencia de alimentos II,4,C,21,Nutricion y dietetica,3,Medicina,2021-12-01T12:11:32Z,1
+715,Ciencia de alimentos I,4,C,21,Nutricion y dietetica,3,Medicina,2020-11-09T12:55:02Z,1
+752,Bioquímica I,4,O,21,Nutricion y dietetica,3,Medicina,2019-07-01T08:25:36Z,1
+754,Bioquímica básica,3,O,21,Nutricion y dietetica,3,Medicina,2021-01-19T10:24:55Z,1
+762,Biología molecular y celular,3,O,21,Nutricion y dietetica,3,Medicina,2020-07-27T02:17:19Z,1
+769,Biología general,3,O,21,Nutricion y dietetica,3,Medicina,2021-12-11T05:10:45Z,1
+776,Bioestadística fundamental,3,B,21,Nutricion y dietetica,3,Medicina,2020-10-21T01:09:22Z,1
+778,Bases fisiológicas de la nutrición,4,C,21,Nutricion y dietetica,3,Medicina,2018-08-07T04:32:47Z,1
+783,Avances en nutrición básica,5,T,21,Nutricion y dietetica,3,Medicina,2020-11-23T04:51:52Z,1
+792,Antropología alimentaria,3,C,21,Nutricion y dietetica,3,Medicina,2019-10-01T12:54:45Z,1
+18,Trabajo de Grado - Asignaturas de Posgrado,6,P,22,Terapia ocupacional,3,Medicina,2020-02-27T17:21:07Z,1
+28,Trabajo de Grado,6,P,22,Terapia ocupacional,3,Medicina,2019-07-27T00:08:17Z,1
+34,Terapia ocupacional y discapacidad,2,T,22,Terapia ocupacional,3,Medicina,2021-09-21T14:51:52Z,1
+35,Terapia ocupacional y aplicaciones tecnológicas,3,C,22,Terapia ocupacional,3,Medicina,2018-08-25T22:04:46Z,1
+36,Teorías aplicadas en terapia ocupacional,3,C,22,Terapia ocupacional,3,Medicina,2021-03-17T03:02:59Z,1
+49,Taller trabajo de grado,2,C,22,Terapia ocupacional,3,Medicina,2019-01-23T23:38:55Z,1
+63,Taller de invención y creatividad,3,T,22,Terapia ocupacional,3,Medicina,2020-03-27T20:19:07Z,1
+74,Taller de cuerpo y movimiento,2,O,22,Terapia ocupacional,3,Medicina,2018-03-04T03:05:38Z,1
+109,Seminario de profundización estudios en ocupación humana,2,T,22,Terapia ocupacional,3,Medicina,2018-06-24T02:00:43Z,1
+110,Seminario de profundización estudios en discapacidad,2,T,22,Terapia ocupacional,3,Medicina,2020-10-17T14:55:28Z,1
+111,Seminario de investigación,2,O,22,Terapia ocupacional,3,Medicina,2020-02-27T17:21:07Z,1
+122,Salud y sociedad,2,O,22,Terapia ocupacional,3,Medicina,2019-07-27T00:08:17Z,1
+124,Salud pública,2,O,22,Terapia ocupacional,3,Medicina,2021-09-21T14:51:52Z,1
+142,Psicología del desarrollo,3,O,22,Terapia ocupacional,3,Medicina,2018-08-25T22:04:46Z,1
+172,Profundización en estudios en terapia ocupacional,3,T,22,Terapia ocupacional,3,Medicina,2021-03-17T03:02:59Z,1
+214,Práctica profesional avanzada en sociolaboral,3,T,22,Terapia ocupacional,3,Medicina,2019-01-23T23:38:55Z,1
+215,Práctica profesional avanzada en psicosocial,3,T,22,Terapia ocupacional,3,Medicina,2020-03-27T20:19:07Z,1
+246,Ocupación y desarrollo tecnólogico,2,T,22,Terapia ocupacional,3,Medicina,2019-04-28T14:37:03Z,1
+248,Ocupación y bienestar,2,O,22,Terapia ocupacional,3,Medicina,2018-08-17T17:44:46Z,1
+249,"Observatorio: Ocupación, sociedad y cultura",3,C,22,Terapia ocupacional,3,Medicina,2020-07-15T11:27:47Z,1
+257,Neuromorfofisiología,4,B,22,Terapia ocupacional,3,Medicina,2021-04-17T10:57:15Z,1
+260,Neuroanatomia estructural y funcional,2,B,22,Terapia ocupacional,3,Medicina,2018-11-25T20:15:04Z,1
+264,Música y bienestar ocupacional,2,O,22,Terapia ocupacional,3,Medicina,2018-05-10T13:02:44Z,1
+299,"Mi cuerpo, sus cuerpos, nuestros cuerpos",2,O,22,Terapia ocupacional,3,Medicina,2019-04-01T02:52:57Z,1
+497,Fundamentos en Psiquiatría,2,O,22,Terapia ocupacional,3,Medicina,2020-06-20T01:47:58Z,1
+502,Fundamentos de terapia ocupacional,4,C,22,Terapia ocupacional,3,Medicina,2021-07-15T15:09:13Z,1
+506,Fundamentos de psicología,4,O,22,Terapia ocupacional,3,Medicina,2021-09-06T13:20:33Z,1
+525,Fundamentos de las ciencias sociales,3,O,22,Terapia ocupacional,3,Medicina,2021-09-27T15:03:45Z,1
+530,Fundamentos de investigación,3,O,22,Terapia ocupacional,3,Medicina,2019-04-27T13:22:02Z,1
+551,Fundamentos de antropología,3,O,22,Terapia ocupacional,3,Medicina,2020-02-20T06:24:17Z,1
+593,Estadística social fundamental,3,O,22,Terapia ocupacional,3,Medicina,2018-10-06T11:44:39Z,1
+618,Educación y terapia ocupacional,2,C,22,Terapia ocupacional,3,Medicina,2019-12-04T13:34:17Z,1
+641,"Diseño, gestión y evaluación de proyectos",4,O,22,Terapia ocupacional,3,Medicina,2018-09-06T11:43:59Z,1
+642,"Diseño, cultura y sociedad",2,T,22,Terapia ocupacional,3,Medicina,2020-02-08T20:04:30Z,1
+654,Discapacidad e inclusión social,2,T,22,Terapia ocupacional,3,Medicina,2018-06-14T02:57:32Z,1
+687,Comunicación oral y escrita I,3,O,22,Terapia ocupacional,3,Medicina,2019-02-26T12:48:07Z,1
+693,Comunicación científica,3,O,22,Terapia ocupacional,3,Medicina,2021-02-04T11:30:34Z,1
+755,Biomecánica ocupacional,4,C,22,Terapia ocupacional,3,Medicina,2020-02-17T13:23:15Z,1
+772,Bioética,2,B,22,Terapia ocupacional,3,Medicina,2018-03-04T03:05:38Z,1
+777,Bioestadística fundamental,3,O,22,Terapia ocupacional,3,Medicina,2018-06-24T02:00:43Z,1
+794,Anatomia osteomuscular,2,B,22,Terapia ocupacional,3,Medicina,2020-10-17T14:55:28Z,1
+830,Actividad terapéutica,3,C,22,Terapia ocupacional,3,Medicina,2020-02-27T17:21:07Z,1

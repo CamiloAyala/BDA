@@ -1,0 +1,1301 @@
+[{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359b0"
+  },
+  "name": 106,
+  "capacity": 60,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359b1"
+  },
+  "name": 213,
+  "capacity": 20,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359b2"
+  },
+  "name": 211,
+  "capacity": 40,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359b3"
+  },
+  "name": 409,
+  "capacity": 40,
+  "type": "Laboratorio",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359b4"
+  },
+  "name": 113,
+  "capacity": 20,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359b5"
+  },
+  "name": 315,
+  "capacity": 80,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359b6"
+  },
+  "name": 204,
+  "capacity": 40,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359b7"
+  },
+  "name": 113,
+  "capacity": 80,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359b8"
+  },
+  "name": 213,
+  "capacity": 80,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Insignia",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359b9"
+  },
+  "name": "AUD D",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Insignia",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359ba"
+  },
+  "name": 209,
+  "capacity": 30,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359bb"
+  },
+  "name": "AUD D",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Posgrados de matemáticas y física",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359bc"
+  },
+  "name": 405,
+  "capacity": 40,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359bd"
+  },
+  "name": "AUD B",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "CyT",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359be"
+  },
+  "name": 415,
+  "capacity": 30,
+  "type": "Laboratorio",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359bf"
+  },
+  "name": 207,
+  "capacity": 20,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359c0"
+  },
+  "name": 209,
+  "capacity": 30,
+  "type": "Laboratorio",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359c1"
+  },
+  "name": 213,
+  "capacity": 20,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Posgrados de matemáticas y física",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359c2"
+  },
+  "name": "AUD C",
+  "capacity": 120,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359c3"
+  },
+  "name": 111,
+  "capacity": 40,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359c4"
+  },
+  "name": "AUD C",
+  "capacity": 120,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359c5"
+  },
+  "name": 402,
+  "capacity": 60,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Posgrados de matemáticas y física",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359c6"
+  },
+  "name": 204,
+  "capacity": 60,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359c7"
+  },
+  "name": 103,
+  "capacity": 60,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Insignia",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359c8"
+  },
+  "name": "AUD D",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359c9"
+  },
+  "name": "AUD D",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Insignia",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359ca"
+  },
+  "name": "AUD D",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359cb"
+  },
+  "name": 414,
+  "capacity": 30,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359cc"
+  },
+  "name": 110,
+  "capacity": 40,
+  "type": "Laboratorio",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359cd"
+  },
+  "name": 211,
+  "capacity": 20,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359ce"
+  },
+  "name": 108,
+  "capacity": 60,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359cf"
+  },
+  "name": "AUD D",
+  "capacity": 120,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359d0"
+  },
+  "name": 111,
+  "capacity": 60,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359d1"
+  },
+  "name": 105,
+  "capacity": 80,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359d2"
+  },
+  "name": "AUD C",
+  "capacity": 120,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359d3"
+  },
+  "name": 411,
+  "capacity": 20,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359d4"
+  },
+  "name": 211,
+  "capacity": 20,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359d5"
+  },
+  "name": 305,
+  "capacity": 60,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "CyT",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359d6"
+  },
+  "name": 410,
+  "capacity": 40,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359d7"
+  },
+  "name": 114,
+  "capacity": 40,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359d8"
+  },
+  "name": 410,
+  "capacity": 40,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359d9"
+  },
+  "name": 311,
+  "capacity": 80,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359da"
+  },
+  "name": 108,
+  "capacity": 20,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Insignia",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359db"
+  },
+  "name": 408,
+  "capacity": 20,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Posgrados de matemáticas y física",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359dc"
+  },
+  "name": 115,
+  "capacity": 40,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359dd"
+  },
+  "name": 205,
+  "capacity": 30,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359de"
+  },
+  "name": 112,
+  "capacity": 30,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359df"
+  },
+  "name": "AUD C",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "CyT",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359e0"
+  },
+  "name": 108,
+  "capacity": 60,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359e1"
+  },
+  "name": 203,
+  "capacity": 60,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359e2"
+  },
+  "name": "AUD C",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359e3"
+  },
+  "name": 110,
+  "capacity": 60,
+  "type": "Laboratorio",
+  "has_pc": 1,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359e4"
+  },
+  "name": "AUD B",
+  "capacity": 120,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "CyT",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359e5"
+  },
+  "name": "AUD A",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359e6"
+  },
+  "name": 115,
+  "capacity": 80,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359e7"
+  },
+  "name": "AUD D",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359e8"
+  },
+  "name": 413,
+  "capacity": 30,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Posgrados de matemáticas y física",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359e9"
+  },
+  "name": 404,
+  "capacity": 80,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359ea"
+  },
+  "name": 113,
+  "capacity": 30,
+  "type": "Salón",
+  "has_pc": 1,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359eb"
+  },
+  "name": 304,
+  "capacity": 40,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359ec"
+  },
+  "name": 310,
+  "capacity": 60,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Posgrados de matemáticas y física",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359ed"
+  },
+  "name": 214,
+  "capacity": 60,
+  "type": "Salón",
+  "has_pc": 1,
+  "building": {
+    "name": "Insignia",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359ee"
+  },
+  "name": "AUD C",
+  "capacity": 120,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359ef"
+  },
+  "name": 104,
+  "capacity": 60,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359f0"
+  },
+  "name": 301,
+  "capacity": 40,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359f1"
+  },
+  "name": 406,
+  "capacity": 20,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359f2"
+  },
+  "name": 403,
+  "capacity": 40,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Insignia",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359f3"
+  },
+  "name": 410,
+  "capacity": 30,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "CyT",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359f4"
+  },
+  "name": 312,
+  "capacity": 80,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359f5"
+  },
+  "name": "AUD B",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359f6"
+  },
+  "name": 304,
+  "capacity": 30,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Posgrados de matemáticas y física",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359f7"
+  },
+  "name": 207,
+  "capacity": 20,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359f8"
+  },
+  "name": 107,
+  "capacity": 30,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359f9"
+  },
+  "name": "AUD A",
+  "capacity": 120,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359fa"
+  },
+  "name": 401,
+  "capacity": 30,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359fb"
+  },
+  "name": 414,
+  "capacity": 60,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359fc"
+  },
+  "name": "AUD D",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359fd"
+  },
+  "name": 112,
+  "capacity": 30,
+  "type": "Laboratorio",
+  "has_pc": 1,
+  "building": {
+    "name": "Insignia",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359fe"
+  },
+  "name": "AUD C",
+  "capacity": 120,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d5359ff"
+  },
+  "name": 204,
+  "capacity": 30,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a00"
+  },
+  "name": 301,
+  "capacity": 30,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a01"
+  },
+  "name": 102,
+  "capacity": 20,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a02"
+  },
+  "name": 310,
+  "capacity": 40,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "CyT",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a03"
+  },
+  "name": 309,
+  "capacity": 80,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a04"
+  },
+  "name": "AUD B",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a05"
+  },
+  "name": 206,
+  "capacity": 20,
+  "type": "Laboratorio",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a06"
+  },
+  "name": 309,
+  "capacity": 20,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a07"
+  },
+  "name": 309,
+  "capacity": 20,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a08"
+  },
+  "name": 307,
+  "capacity": 20,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a09"
+  },
+  "name": 104,
+  "capacity": 60,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Conservatorio de música",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a0a"
+  },
+  "name": 208,
+  "capacity": 60,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Insignia",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a0b"
+  },
+  "name": 205,
+  "capacity": 20,
+  "type": "Laboratorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a0c"
+  },
+  "name": "AUD A",
+  "capacity": 120,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Yu Takeuchi",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a0d"
+  },
+  "name": 401,
+  "capacity": 40,
+  "type": "Salón",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a0e"
+  },
+  "name": 105,
+  "capacity": 80,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a0f"
+  },
+  "name": 406,
+  "capacity": 20,
+  "type": "Salón",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ciencias",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a10"
+  },
+  "name": 404,
+  "capacity": 20,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a11"
+  },
+  "name": "AUD B",
+  "capacity": 200,
+  "type": "Auditorio",
+  "has_pc": 0,
+  "building": {
+    "name": "Aulas de artes",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a12"
+  },
+  "name": 303,
+  "capacity": 60,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de ingeniería",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+},{
+  "_id": {
+    "$oid": "6461853cd5da6a343d535a13"
+  },
+  "name": 205,
+  "capacity": 60,
+  "type": "Sala de computación",
+  "has_pc": 1,
+  "building": {
+    "name": "Aulas de arquitectura",
+    "latitude": 4.59899,
+    "longitude": -74.072774
+  }
+}]
