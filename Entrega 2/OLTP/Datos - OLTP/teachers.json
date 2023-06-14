@@ -1,0 +1,2701 @@
+[{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01dfe"
+  },
+  "name": "Edna Prada",
+  "email": "irodriguez@example.com",
+  "password": "7283e7a4fba0c2d443d11c3ab606e357a3b5eef707a46da719c16adb549b833f",
+  "salary": 8806688,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01dff"
+  },
+  "name": "Derly Karen Peña",
+  "email": "lfernandez@example.org",
+  "password": "83d091d3ae4dfc1024f33c23367612086da74e5eeb3e415ccbf2e3d3b3ded850",
+  "salary": 6122550,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e00"
+  },
+  "name": "Rafael Cristian López Olaya",
+  "email": "nburbano@example.com",
+  "password": "e447bb8ae5cbd659d2cb47a8dd7fe1e94dca275cf989740cd68dbe15195c8ec6",
+  "salary": 9947406,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e01"
+  },
+  "name": "Gustavo Jader González Páez",
+  "email": "rociohernandez@example.com",
+  "password": "7de01294d3a3ca384bfd77cd39891d5f5dc5b17b4d24d316b97a1c4de4879a8d",
+  "salary": 8778531,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e02"
+  },
+  "name": "Robinson Marín Roa",
+  "email": "mcastano@example.org",
+  "password": "c667e386bef969ba47e687ae785b73b525fc0cd54231fa9b38a77f577524ce9e",
+  "salary": 8254193,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e03"
+  },
+  "name": "Alexander René Velasco",
+  "email": "yenny28@example.org",
+  "password": "007af25375f85d844260b64d8c5fa64bccde6988a11f0fe891ae83fb039950e9",
+  "salary": 9102802,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e04"
+  },
+  "name": "Cecilia Luz Ramírez Cortés",
+  "email": "gustavo70@example.com",
+  "password": "a4489bd73b3b92892294e3e4c1105dba2b0f8a3a9cbb97120ea46f7d003f1b82",
+  "salary": 8373697,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e05"
+  },
+  "name": "Fernanda Andrea Gómez Vallejo",
+  "email": "rgiraldo@example.net",
+  "password": "6ae9548e89b53ef558ec74e99790b02b3673ebd5630c6a28b8c96071f1997e5c",
+  "salary": 6761401,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e06"
+  },
+  "name": "Gabriel Rodríguez",
+  "email": "alejandrosalazar@example.net",
+  "password": "dfa5998f7ac412a07d8f7c7d1e41e3ba633b349aca35f23ad7df5a9c46144966",
+  "salary": 8116470,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e07"
+  },
+  "name": "María Polo Páez",
+  "email": "jackeline80@example.org",
+  "password": "1fb16fc1b872fab33a3562e6fa8b0120ecc3802ce24e67694dd178da80633b09",
+  "salary": 9023913,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e08"
+  },
+  "name": "Samuel Castillo Ocampo",
+  "email": "armandorivera@example.org",
+  "password": "d8aa826fec462d335e92243e7009ab1177d7b1b50e2d83bbb7e2bfb33265ee8f",
+  "salary": 6724429,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e09"
+  },
+  "name": "Ana Paola Quintero",
+  "email": "gustavomoreno@example.net",
+  "password": "5f14cb4023bade7a2febb666c636e9690ce42e01a832c5b581ffe94ddb8657c1",
+  "salary": 7077484,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e0a"
+  },
+  "name": "Juan Henao Gómez",
+  "email": "diegogallego@example.org",
+  "password": "570fb80eb5de888c65b0ce3170659bf7d7f5b69bf3b974514c08bf69af245a28",
+  "salary": 8760340,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e0b"
+  },
+  "name": "Gloria Luz López",
+  "email": "gomezwilliam@example.net",
+  "password": "7a7595f29932f3efe76706ff2af1b9785f31aea3318e7909e95d85eebf07b461",
+  "salary": 8834008,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e0c"
+  },
+  "name": "Luz Elizabeth Quintero Pinto",
+  "email": "icarvajal@example.net",
+  "password": "2eeee6737ae2dd5f66780bcdd01afc0ee8ff43fdc57de50d45912843959de581",
+  "salary": 9321296,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e0d"
+  },
+  "name": "Dary Silvia Triana",
+  "email": "luz19@example.com",
+  "password": "581db2a9f44bb52a1612b039948e8bf0a0c2ee5c07c83a7fcce36c2db4555a24",
+  "salary": 7283789,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e0e"
+  },
+  "name": "Laura Caicedo Pinzón",
+  "email": "consuelo72@example.org",
+  "password": "8c9dfbfa0377e01ad2f8188e72f9b35a221f63334c802baf059780f6304f742c",
+  "salary": 8144706,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e0f"
+  },
+  "name": "William Arnulfo Sánchez",
+  "email": "ospinoangelica@example.org",
+  "password": "1a12599c69d581be4a2434e0e0dc4fabc635200e9164862aee848d285d5c51e6",
+  "salary": 9790427,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e10"
+  },
+  "name": "Isidro Walter Rodríguez",
+  "email": "mario62@example.net",
+  "password": "2c458128e877760ff887b0616be3fae0ec16cb17ac8accfaf7d3cbbef581b8ee",
+  "salary": 7089582,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e11"
+  },
+  "name": "Nicolás Bustamante",
+  "email": "dannyrenteria@example.org",
+  "password": "887df3e184f8c2bab0ca14cf16c6d26d33c5c55e9bc1815047323d4869263022",
+  "salary": 7889449,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e12"
+  },
+  "name": "Rosa Ortiz",
+  "email": "riascosana@example.com",
+  "password": "d7d0c949fe944d2efd707a8de06feec875a10e4c6907dff40ebb8164b2e3b405",
+  "salary": 7043449,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e13"
+  },
+  "name": "Jesús Eliecer García",
+  "email": "sanchezmaria@example.org",
+  "password": "03beac8cd41127d572e34dd05ad6212add3f250fb449cd58a753a5aeaa5dc70a",
+  "salary": 6277218,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e14"
+  },
+  "name": "Leandro Andrés Salas",
+  "email": "pablo22@example.net",
+  "password": "35a2e32b7eca3c697f7a5d769055232381a4d2c60c50d0e0a501f39915c8ed60",
+  "salary": 7915171,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e15"
+  },
+  "name": "Yeison Juan Monroy",
+  "email": "angie19@example.com",
+  "password": "50d3c0ecf62e9731a75fc97cb97087adfb7c8be4780f820c50cf75740e8e8de5",
+  "salary": 5812849,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e16"
+  },
+  "name": "Margoth Viviana Martínez",
+  "email": "ayalaanyi@example.net",
+  "password": "ec282d661e1328dc05b2920e3185a4e5ad19e2a76771c077381ed9e96808211a",
+  "salary": 8717235,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e17"
+  },
+  "name": "Arley Cruz Camacho",
+  "email": "trujilloramiro@example.org",
+  "password": "0f1c31af495ff7158cd19312ace13b4c9e0f85bdcd8a5e4a23b6d3a767ea6df1",
+  "salary": 7295255,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e18"
+  },
+  "name": "Daniel Ricardo Arboleda Gómez",
+  "email": "ibarraelisa@example.org",
+  "password": "dd8a0fc4f484b51c412fe55b184c2e9e898781b76d9378ca08ff097ca68d9340",
+  "salary": 9111273,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e19"
+  },
+  "name": "Gina Velasco",
+  "email": "estiven72@example.com",
+  "password": "aace58e4288bd20a6faf64e4d762d3d5b3d8ccaa176aebead375cdf640794cc2",
+  "salary": 5523452,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e1a"
+  },
+  "name": "Alexander Manuel Hoyos",
+  "email": "mmejia@example.net",
+  "password": "9b5a03143266f78b6601635862b0e9de0130cb3135e917aab977ecae763cc165",
+  "salary": 6406316,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e1b"
+  },
+  "name": "Aldemar Méndez",
+  "email": "gutierrezlucia@example.org",
+  "password": "b10be7b129091ed3aab246ce3bb94c0847bd601dff9610921d7cf4529d0c084f",
+  "salary": 5172130,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e1c"
+  },
+  "name": "Dayana Sandoval",
+  "email": "ramiropinto@example.org",
+  "password": "61a0bd9c02b029f8f57d0ee13b0521d55199fdb7a046b6c0c72bbf410c3d8a61",
+  "salary": 7847074,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e1d"
+  },
+  "name": "Liliana García",
+  "email": "menesesantonio@example.org",
+  "password": "1dea99233704100748a9a0446be5479fb7ebb38edc4b1106e745b028dd66b3ef",
+  "salary": 8376776,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e1e"
+  },
+  "name": "Amparo Adriana Herrera",
+  "email": "ariasyurany@example.org",
+  "password": "39fd216418a5a9a74e4c588e9442d2807596fad9b2c959c58ac9bcf2f056d747",
+  "salary": 8501179,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e1f"
+  },
+  "name": "José Ramírez Palacio",
+  "email": "garciacarlos@example.org",
+  "password": "4b57ee6e865ff7115a7cc33f0e35d87e5d988974d2af04377032a77561673616",
+  "salary": 8982772,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e20"
+  },
+  "name": "Vanesa Luna",
+  "email": "harold67@example.com",
+  "password": "34d3108e3e249785021926c6e181bdd1fea42614782a3dc5bc82ea74e4c55360",
+  "salary": 9566049,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e21"
+  },
+  "name": "Jhonny Cristian Camargo Pérez",
+  "email": "sbustamante@example.net",
+  "password": "90a825b813f9bc7a29a3d877026deab69b41892329fce886779511d1f5b052a2",
+  "salary": 6043886,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e22"
+  },
+  "name": "Mónica Rodríguez Bernal",
+  "email": "marthacontreras@example.org",
+  "password": "8edd4dc6708301fe1d36cd18bcbfcb9825888d6482e926ff81a43059611dc025",
+  "salary": 8221045,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e23"
+  },
+  "name": "Brian Guevara",
+  "email": "fcastillo@example.net",
+  "password": "23571481de91df58e0b9c704ce3e662fb99f1230644efd9284dc926a470d4f43",
+  "salary": 5176933,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e24"
+  },
+  "name": "Rolando Armando Granados Lozano",
+  "email": "zapataluis@example.com",
+  "password": "23c6a393de1cb60c4835972be4830936aa0b507a7154f83a5f74bfe8d5efa138",
+  "salary": 6976600,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e25"
+  },
+  "name": "Natalia Yuliana Acevedo Montes",
+  "email": "luzcardenas@example.net",
+  "password": "9cfb6e82f2b420e29175c7d3395e61167c2b28d11d0c89b446e0aa271f21a5ac",
+  "salary": 6355063,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e26"
+  },
+  "name": "Mario Segundo Rodríguez",
+  "email": "camilasalazar@example.net",
+  "password": "c5b46ccf9c55d57944e03dc23656dc544fc5c5672b65511418878aff82302b58",
+  "salary": 8427421,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e27"
+  },
+  "name": "Saúl Juan Quintero Sánchez",
+  "email": "buitragojose@example.net",
+  "password": "9b7d400c060345e2b4c425ae0944e302b5aa0fbe81df799d67cf1d9af0c00e1e",
+  "salary": 9635732,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e28"
+  },
+  "name": "Daniel Ariel Vergara",
+  "email": "lramos@example.org",
+  "password": "1f109467fcbde4726fc8afc3026b96accb47207c60e80da3a0ea1f2e8b2fa961",
+  "salary": 6924607,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e29"
+  },
+  "name": "Dolly Daniela Pardo",
+  "email": "mcastro@example.com",
+  "password": "984bc49e7e88d14748b651cb88256ef250be2c6a99ec6eb606ca344fa2c617cc",
+  "salary": 8578285,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e2a"
+  },
+  "name": "Pedro Barreto",
+  "email": "rodriguezhugo@example.org",
+  "password": "42bc44e8c985177a57a3663306e9c79325f3ba526480e43288aca1be9d123e81",
+  "salary": 6605850,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e2b"
+  },
+  "name": "Enrique Flórez Guerrero",
+  "email": "darwin53@example.net",
+  "password": "8813aa0894931548b9bb62fb3e6e338404b60dcf75b449eee3458215ad07316a",
+  "salary": 6529238,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e2c"
+  },
+  "name": "José Álvarez",
+  "email": "otovar@example.net",
+  "password": "70a597acf98d2b4fd87a8e45b628f92cbea84a6c6a16922ce0b752d83e9051ac",
+  "salary": 7124548,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e2d"
+  },
+  "name": "William Luis Contreras",
+  "email": "xospina@example.org",
+  "password": "fbf53513524c79a070227ced7248f650ac6bb36fcc270ed81201ed850d0c9590",
+  "salary": 9519364,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e2e"
+  },
+  "name": "Sneider Moreno",
+  "email": "ruizsteven@example.com",
+  "password": "e626816b4aaea7cd8e32143bea9a08742e40f0034f2ba42022cb0eb8135cd76c",
+  "salary": 9934771,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e2f"
+  },
+  "name": "Jesús Agudelo",
+  "email": "kavila@example.net",
+  "password": "83eb20c1bf75d1e1c491c681a8af7deb59443dac900c55cd7e292ad350a1f9e5",
+  "salary": 9671862,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e30"
+  },
+  "name": "Beatriz García",
+  "email": "javiercorrea@example.org",
+  "password": "deea20aa9c34622088753e67df2be0f77dac7d7bcd61dbec6318d5f7bf26e033",
+  "salary": 8903481,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e31"
+  },
+  "name": "Mercedes Nelsy García Rincón",
+  "email": "dsanabria@example.net",
+  "password": "438838703b363340aa9e71a0a72a0ed0a84cf8be5d682d8bb00234cf814e5820",
+  "salary": 8584918,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e32"
+  },
+  "name": "Beatriz Eugenia Torres Montenegro",
+  "email": "fernando06@example.org",
+  "password": "c935af624ef1339c75206058a0d551bed3748becd211530f86cfea9109c960b0",
+  "salary": 9762224,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e33"
+  },
+  "name": "Ricardo Rincón",
+  "email": "johan88@example.com",
+  "password": "5c187090e046adbe927148ecc87f1e11c8314641591aafff90557ab7675909b1",
+  "salary": 7860881,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e34"
+  },
+  "name": "Lorena Caicedo Ardila",
+  "email": "adrian88@example.org",
+  "password": "d93020abd3534df950aae0d35c8c97b0e8a8b52c8c71f2daedc4d56d3aa74aa5",
+  "salary": 7688256,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e35"
+  },
+  "name": "Ciro Jaramillo Pérez",
+  "email": "tbeltran@example.org",
+  "password": "eceaa0aca996ddf9db8c1863e1a457770225ee87f947c45d4756cf2d391f4ebc",
+  "salary": 5398483,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e36"
+  },
+  "name": "Andrés Franco",
+  "email": "calderonfarid@example.net",
+  "password": "1ef23032cc143b31be1b182237a7c224af0762e7cb6d451054a6616d40fe75a6",
+  "salary": 6822978,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e37"
+  },
+  "name": "Paulo López",
+  "email": "cristhianrestrepo@example.org",
+  "password": "c704268c4f79adae81b016d190d97e91210d0f793d816a03c1b6fa8881c79191",
+  "salary": 7888355,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e38"
+  },
+  "name": "Alexander Luis Carvajal",
+  "email": "mvalencia@example.com",
+  "password": "4b9a10c25964ae7a786c492aeb117ac05f270369eb8ae47736f112d9d3b76c68",
+  "salary": 9247285,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e39"
+  },
+  "name": "Manuel Barrera Monroy",
+  "email": "emartinez@example.com",
+  "password": "20d4051c4cf7a0dd795fa82ffd33a72147728544aad97e699cfedd0402c572fd",
+  "salary": 7195323,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e3a"
+  },
+  "name": "Alejandra Córdoba Silva",
+  "email": "uacosta@example.org",
+  "password": "0962faf1807581cf9a204be2aac219fbac9d94adc795f6ebbd794d1b66d1323e",
+  "salary": 6753715,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e3b"
+  },
+  "name": "Lady María Ospino",
+  "email": "marcelaacevedo@example.com",
+  "password": "917bda4001a5cd8622640cb8c17ac2713ecdc39340e283b5604b5706bd0aff00",
+  "salary": 5456612,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e3c"
+  },
+  "name": "Janeth Cardona",
+  "email": "ochoavalentina@example.org",
+  "password": "08d911258247a860cba8bbf33e0a83421c9d96eb11702e6c488380e1a4e974d5",
+  "salary": 6939799,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e3d"
+  },
+  "name": "Carlos Marco Orozco Burgos",
+  "email": "dazaandres@example.com",
+  "password": "ebfa5febeed518c65a78f5fc118ec82d4c71358471b4b25419bfad80f13b3208",
+  "salary": 6808584,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e3e"
+  },
+  "name": "Marco Leonardo Carvajal",
+  "email": "morenoenrique@example.net",
+  "password": "35aad85fbf5a371c8e7a29760b710f0fc671dc6a2abcec364f81c9e3516fda61",
+  "salary": 6955634,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e3f"
+  },
+  "name": "Edinson Benjamín Romero Gutiérrez",
+  "email": "carlos20@example.org",
+  "password": "acc15f92b23d8f3c34254484ea616b13c4f6b8d29140774814d6d16e28348c83",
+  "salary": 9853329,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e40"
+  },
+  "name": "Paula Gil Gonzáles",
+  "email": "munozfernando@example.net",
+  "password": "bc84d75b8379e3291756d30f13b1c60b98358a47d85c9baff11e7a17f240a2c3",
+  "salary": 6763754,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e41"
+  },
+  "name": "Katherin Diana Marín",
+  "email": "velasquezcecilia@example.com",
+  "password": "d5f662c4c8dce177f5927d1f9c5851fcfe31fcf69a52458d5de146d9ad598b45",
+  "salary": 8510540,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e42"
+  },
+  "name": "Manuel Daza",
+  "email": "wrivera@example.net",
+  "password": "c2c9d96ef48edbc803a0fa3beb06fad575ece0dfbd816bfdecff3981b690c548",
+  "salary": 9550309,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e43"
+  },
+  "name": "Nataly Denis Aguirre",
+  "email": "pacosta@example.org",
+  "password": "4747ea648111df73bfe457fa887dbdf8e5e87ed7098c75d08f1108631c2c7066",
+  "salary": 7185579,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e44"
+  },
+  "name": "Rodrigo Sergio Blanco",
+  "email": "andres44@example.org",
+  "password": "f8b2b0a40a74700d702b542b7991f06cafd875441be8015ab268ece5caad8a80",
+  "salary": 8628172,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e45"
+  },
+  "name": "Elena Reyes Giraldo",
+  "email": "xpena@example.net",
+  "password": "160a2c9273910834b0de605ed632b73365d5226effe8e998472f68e38980f721",
+  "salary": 7939024,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e46"
+  },
+  "name": "Lorena Ángela Rojas",
+  "email": "guerreroclaudia@example.com",
+  "password": "fe80fd94884997cb6a51b47e4ab882df2d7003dae0ccdd80f2943b1c52787907",
+  "salary": 9479280,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e47"
+  },
+  "name": "Bibiana Álvarez",
+  "email": "gutierrezadriana@example.org",
+  "password": "861517ce79678e6fdc33fd9a013f2473ac907411b3c723cd086ed2ac4b1ce0f1",
+  "salary": 6039574,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e48"
+  },
+  "name": "Jorge Rodríguez Murillo",
+  "email": "lgarcia@example.com",
+  "password": "f6da474560367a3bbaf214fc78f0d1956e29e061f51ffa4b84d73532f2d60cd7",
+  "salary": 8548522,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e49"
+  },
+  "name": "Julián Pablo Mantilla Martínez",
+  "email": "tatiana11@example.org",
+  "password": "79ea36f602684713c30fe7e04d4ad7505efe236c777696fe0ca865e75f339065",
+  "salary": 9364853,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e4a"
+  },
+  "name": "Edgar Jhon Valencia Barrios",
+  "email": "andreshernandez@example.net",
+  "password": "5aef1fc99677a5607e376f1302a1822efb091b67b2015ab4c46f44acf1be2b3a",
+  "salary": 8824515,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e4b"
+  },
+  "name": "María Marta Hoyos",
+  "email": "juannaranjo@example.org",
+  "password": "d7f183fc2a18af566202339bfada1a446b33f0176d3c1096d2405e25bf27eceb",
+  "salary": 6677226,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e4c"
+  },
+  "name": "Julio Cabrera",
+  "email": "ramirezconsuelo@example.net",
+  "password": "f4c20278afcd040e9afbb9045324b87896b59aee5d2229f951875da9620d498a",
+  "salary": 7468359,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e4d"
+  },
+  "name": "David Anderson Fuentes",
+  "email": "xroa@example.net",
+  "password": "8b878374cee7ee4d28a7f405138e33e9512679459a05a4dfb2616b68f400b610",
+  "salary": 6070131,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e4e"
+  },
+  "name": "Cristina Clara Castañeda Mena",
+  "email": "camiloherrera@example.net",
+  "password": "5200f82206c485314f594020728c3a395ac5525ae246c9ea590bb92a30865c0d",
+  "salary": 8299585,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e4f"
+  },
+  "name": "Claudia Andrea Niño",
+  "email": "andres85@example.net",
+  "password": "9adb2f7e89d4a2ac8913348825b9943231f80fdda2d324c76bc9b0677d60dc7a",
+  "salary": 9380255,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e50"
+  },
+  "name": "Luz Susana Romero",
+  "email": "hernandorios@example.com",
+  "password": "b8428e07d46cd5b2c206cc111f99638a1aebf2417cb69a4210a2f1c8648e5847",
+  "salary": 7030652,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e51"
+  },
+  "name": "Gustavo Alfonso Cruz Carrillo",
+  "email": "alexanderhurtado@example.org",
+  "password": "61b8721da354a166a080bb451de207f2c2a7cdafe7bb35ebb6fda979882c0915",
+  "salary": 6174667,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e52"
+  },
+  "name": "Margarita Esperanza Romero Guevara",
+  "email": "ernestoleon@example.net",
+  "password": "e6f31ad4d794cccc7f5858ddd38a53632cdb04628ff28eda8b96e46ac4cd7651",
+  "salary": 8930910,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e53"
+  },
+  "name": "Juan Orlando Sánchez Montoya",
+  "email": "caicedodavid@example.org",
+  "password": "358e35b16af84d7db34428e9145190dd77325c859c3f4ab9f7bd6fa5492773a7",
+  "salary": 6599511,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e54"
+  },
+  "name": "Ricardo Rojas Pulido",
+  "email": "vargaspatricia@example.org",
+  "password": "d19210502e95323e72ba3880ecd1dc207052dc5213cbd305f0b6a7c64d6e0b68",
+  "salary": 8873931,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e55"
+  },
+  "name": "Raúl Wilson Castro",
+  "email": "juan65@example.com",
+  "password": "7a7e6da5975d702aac3aba1de8c583cdc6f47d25c1fafcd6339a0981d16921db",
+  "salary": 7787605,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e56"
+  },
+  "name": "Edward Brandon Yepes",
+  "email": "ramiromartinez@example.com",
+  "password": "c87b0f805e9c6fa3de3c4cd61dacaff8595fbf71a009153463a7bfc6c810c2a1",
+  "salary": 6904118,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e57"
+  },
+  "name": "Miguel Sergio Hurtado",
+  "email": "gonzalezariel@example.org",
+  "password": "38ef39d212b59b625c9d724ee955dd7e25466a11db0a5118af0c365f0b9c1d35",
+  "salary": 5970083,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e58"
+  },
+  "name": "Andrés Gutiérrez",
+  "email": "clarabuitrago@example.net",
+  "password": "90d7f9237104466a082f6d0d45d854c926ae058111983cd75d1605e47824ea2f",
+  "salary": 8857217,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e59"
+  },
+  "name": "Jesús Jiménez",
+  "email": "marcelatorres@example.org",
+  "password": "87e91d42f4d6cb85a1bc38483021c4a36144299b28b24011cdc2535ce35f4b10",
+  "salary": 5767545,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e5a"
+  },
+  "name": "Fernanda Ramos Velasco",
+  "email": "yesidmartinez@example.com",
+  "password": "304796310e2e63398926336c4d246f0effa79644b077d8ea789c532fb77908e7",
+  "salary": 8904893,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e5b"
+  },
+  "name": "Óscar Figueroa Gómez",
+  "email": "segundo36@example.com",
+  "password": "020f2480044df1e95a3a9c02fba74a3c572bca3ac241ea10f5dbc76f2e0b0daf",
+  "salary": 9988557,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e5c"
+  },
+  "name": "Andrés José González",
+  "email": "danilolopez@example.org",
+  "password": "d39c9776fae7ce8142c76db6882b26ce1263ad5ec4a1b8040124fd103bb300a1",
+  "salary": 5118915,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e5d"
+  },
+  "name": "Adolfo Mateo Duque",
+  "email": "riveraguillermo@example.com",
+  "password": "625311a179f5d23477f5f94515d175ecd30ebaa70e899c8e72a5cb876b6ddfd2",
+  "salary": 5666647,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e5e"
+  },
+  "name": "Laura Gloria Muñoz",
+  "email": "serranomary@example.org",
+  "password": "1cd0807069a8ad168db4b47ed36533c214dd087be5edf435c1879af7297d7a93",
+  "salary": 8263691,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e5f"
+  },
+  "name": "Amalia Rodríguez González",
+  "email": "carlos94@example.org",
+  "password": "355193eec532a285b8fa93a8c0e374706656c926d863f783204bdcebc5a79e83",
+  "salary": 8901608,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e60"
+  },
+  "name": "Luz Gómez Gutiérrez",
+  "email": "andresbarbosa@example.org",
+  "password": "811e75bde89877bfc09c29272cdffe8d66313aa8c6f5428f97e4502a78795c98",
+  "salary": 8410344,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e61"
+  },
+  "name": "Fernanda Gil Calderón",
+  "email": "murillodiego@example.com",
+  "password": "53bbf1df4b0917387c64eed0bb21376a429d2323c3bfadf41edb47892f16f770",
+  "salary": 7162494,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e62"
+  },
+  "name": "Marcela Perea Burgos",
+  "email": "diegojimenez@example.com",
+  "password": "3e4c368015822706e1f7dc9102908b27f69cb9e39790143655a1fe24d4218162",
+  "salary": 9847590,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e63"
+  },
+  "name": "Mayerly Lorena Vélez",
+  "email": "patricia09@example.net",
+  "password": "ef6ee5c806a7ce8692f5b2481940022742a5afa9074fd721c6ab4cc25d022be7",
+  "salary": 7847494,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e64"
+  },
+  "name": "Daniela Torres Camargo",
+  "email": "marcos64@example.net",
+  "password": "837f715d751d5b04c14958dc087c95f9b83790282db6fc305f8878d754d6b812",
+  "salary": 8125484,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e65"
+  },
+  "name": "Segundo Farid Salas Alvarado",
+  "email": "liliana53@example.net",
+  "password": "66737f85a1936765bfebc14fb911f983e8c2d45e5520245cd575d9c476c9ec54",
+  "salary": 8302991,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e66"
+  },
+  "name": "Wilmar Alberto Vega",
+  "email": "jruiz@example.org",
+  "password": "85cf58f5287626f17a6261c84e1871cb8ca59b54c391f1d3bad64ce26d9840e9",
+  "salary": 5102361,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e67"
+  },
+  "name": "Nelsy Rodríguez",
+  "email": "maria43@example.net",
+  "password": "15285c22bdc304c961d1e00e3bb524bf44f3b8c3f260d5f2190d92b72ddc0b0c",
+  "salary": 8340638,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e68"
+  },
+  "name": "Tatiana Londoño",
+  "email": "pabonwilmer@example.org",
+  "password": "2c63d7674a45ac1ff1de41aea801708770b1601a4c05fc566c2ba856caeaf894",
+  "salary": 5891831,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e69"
+  },
+  "name": "María Obando Galvis",
+  "email": "alejandrajimenez@example.com",
+  "password": "582615b0ed9c0fcd9e876e1e59e34d7659084f0611fe227fd59745d565e146dd",
+  "salary": 8485930,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e6a"
+  },
+  "name": "Melba Miranda Cortés",
+  "email": "vsuarez@example.com",
+  "password": "ba06370570667a1c374cb6e523b41d0006012e77b0b1ab5822440203001bff3b",
+  "salary": 9390698,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e6b"
+  },
+  "name": "Sandra Acosta",
+  "email": "zambranoenrique@example.net",
+  "password": "d0f986a28aa971dca5174511e04b415136614475dc234ae7ddb829d7e1dc84c2",
+  "salary": 5461562,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e6c"
+  },
+  "name": "Andrés Omar Ortega",
+  "email": "idiaz@example.net",
+  "password": "f8639364dd7a5bd4a905477cbd78556c472c79a94b507c92af62d6020546abd0",
+  "salary": 5982310,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e6d"
+  },
+  "name": "Elisa María Arias Caballero",
+  "email": "marcoscardenas@example.net",
+  "password": "85e40692a8314f7c4929fbba216d1767684b5da1bf372728780351a27451f4b6",
+  "salary": 5162851,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e6e"
+  },
+  "name": "Catherine Marín",
+  "email": "lopezfrancisco@example.org",
+  "password": "7c3b319d184b43191c0d71dd9d118600871656a5114ebf73df7d99a66cd75630",
+  "salary": 9328012,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e6f"
+  },
+  "name": "Alexis Tamayo",
+  "email": "marincarlos@example.com",
+  "password": "f851ad302a45ad5d7d91d6f4af18f35b8ff72421cd929e45aa0a9562007a7156",
+  "salary": 8779314,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e70"
+  },
+  "name": "Andrea Hilda Reyes",
+  "email": "romeroalonso@example.org",
+  "password": "0cde845a1000272b05598f40d3aabca2194990d2f21ffdabed8df589c6f9ebf3",
+  "salary": 9109093,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e71"
+  },
+  "name": "Daniel Víctor López",
+  "email": "diazblanca@example.org",
+  "password": "6ec53a7673e8ecd803a1534fd8113e9342a4898b5f51b441603b052b43ab6a6b",
+  "salary": 9082921,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e72"
+  },
+  "name": "Fernando Luis Monsalve",
+  "email": "gomezjonathan@example.net",
+  "password": "4a1b1ec35285ed29e9b62e0a157e6dd67e0f7b230fe9a8950e868937e899b337",
+  "salary": 5704532,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e73"
+  },
+  "name": "Mateo Estiven Ortega",
+  "email": "andresfonseca@example.net",
+  "password": "d775fbce25c15e3c2b760f86ab5ebdedfd14b13dec1d55b30760f91877f0b03d",
+  "salary": 6139832,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e74"
+  },
+  "name": "Alexis Carlos Ávila",
+  "email": "fernandoangulo@example.org",
+  "password": "1f5802d2f52d8fd6a326aaec84c5fd0d31d9ede17d0dc872e98b57b6b3643d20",
+  "salary": 5761613,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e75"
+  },
+  "name": "María Lorena Henao León",
+  "email": "ogarcia@example.com",
+  "password": "cdd4486242e8288e55b7bb05bc87644ebc02a014ea391d603691801e46a17a10",
+  "salary": 5993490,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e76"
+  },
+  "name": "María Caicedo",
+  "email": "alejandroacosta@example.com",
+  "password": "9d047e77adb6accaf26a0dd648823a468d0f92a09121410929ae475b84b5852b",
+  "salary": 7715520,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e77"
+  },
+  "name": "Jhoan Suárez",
+  "email": "vmunoz@example.com",
+  "password": "da32c75522200a93bfb3dff99ef47149c5a9ecc1e3faa32f41ab7f2aa8411198",
+  "salary": 6262432,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e78"
+  },
+  "name": "Nelly Becerra",
+  "email": "zapataalberto@example.com",
+  "password": "2fafcf5f561a14b175b68f3333256478e51dd583691402c3450f53b28bafd4e7",
+  "salary": 6607623,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e79"
+  },
+  "name": "Jhon Luis Arango Mosquera",
+  "email": "amanda77@example.net",
+  "password": "4c9930ed8f842f279711a60a211b31c32c17e6e841a0630036ca5ddfd063b8f1",
+  "salary": 7920083,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e7a"
+  },
+  "name": "Iván Edwin Guerrero Salazar",
+  "email": "diazoswaldo@example.com",
+  "password": "7521bc32dc35eff489615be6a35f368ecfe6fb67777d8c9fc781c0c956b938dc",
+  "salary": 7787025,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e7b"
+  },
+  "name": "Sofía Rojas Vélez",
+  "email": "vladimir46@example.com",
+  "password": "6b2a8cbd9aab2030607ad531921c8121991dc04d63b946dd7d57bab5386eb40f",
+  "salary": 7805547,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e7c"
+  },
+  "name": "Paola Salamanca Bonilla",
+  "email": "angiealvarado@example.com",
+  "password": "0e1850ef16b3ab9782993bc9f2eb94e0312687f7da4efe5c11cb40349412182c",
+  "salary": 5722275,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e7d"
+  },
+  "name": "Fernanda Blanca Hurtado Vanegas",
+  "email": "fredy23@example.com",
+  "password": "6f3bde21a5d1090242e33cc0e740c71fcdb0ee8521de9ce83ae2cb1208a1bc73",
+  "salary": 7406315,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e7e"
+  },
+  "name": "Jhoan Gilberto Narváez",
+  "email": "gutierrezcristian@example.com",
+  "password": "39edf4ed958c028bb9719a6b213ca6726d9f168d47eaf07a22656b3b1f281f5a",
+  "salary": 7681873,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e7f"
+  },
+  "name": "Laura Orozco Chaparro",
+  "email": "ccifuentes@example.net",
+  "password": "6f276ebaba1539dfa1a1b7f07268ab8974e56cf0f8ad0628a2d3198db21041c3",
+  "salary": 5223266,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e80"
+  },
+  "name": "Alejandro Antonio Arango Roa",
+  "email": "luciacastro@example.com",
+  "password": "931530b67ff5724e8523d229fcb541b5c837004f152f1b6d6151876cb3c4070d",
+  "salary": 9790524,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e81"
+  },
+  "name": "José Arango Arias",
+  "email": "rojasisabel@example.org",
+  "password": "78e838b9b6855506c66e5f25f3d0bbc0cae5f5eee60bfd12eea72275e95c64ec",
+  "salary": 7670668,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e82"
+  },
+  "name": "María Alejandra Rincón",
+  "email": "cmartinez@example.com",
+  "password": "7add7c7135a4a2c2c1d9747dee855e367221a46abb61b2d3c8ef5e62b132c041",
+  "salary": 5172357,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e83"
+  },
+  "name": "Juan Torres Moreno",
+  "email": "gvalencia@example.net",
+  "password": "30ed14a1faa2a246cc2604dda1a7c840dc5a992d4c922d8ba316e68089a270e5",
+  "salary": 7466605,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e84"
+  },
+  "name": "Carlos Cantillo Ayala",
+  "email": "svelez@example.org",
+  "password": "e8c3b21ede29d80ff6d3e21222dfdb7c33b58737845a2fb1c73852b60139d63b",
+  "salary": 8363878,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e85"
+  },
+  "name": "Alberto Alberto Peña",
+  "email": "irmadiaz@example.net",
+  "password": "d6606f7a3f8951bea6c881aa1dbbd078230e3bfdc615277a9c8651dce95797e4",
+  "salary": 8557686,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e86"
+  },
+  "name": "Diego Alexis Londoño Guerrero",
+  "email": "miguel84@example.org",
+  "password": "3d779fab0cd5be8bc001bbc8fa37b977f269daefcb19e52adb1182ca632ab051",
+  "salary": 6114836,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e87"
+  },
+  "name": "Luz Murillo Mosquera",
+  "email": "jose02@example.net",
+  "password": "42cb3ebe6e3dfee904e1bc6ea4b89f7258cfa4656476406c7a49d2be8e9a1f2e",
+  "salary": 6656703,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e88"
+  },
+  "name": "Campo Martínez",
+  "email": "daniela51@example.org",
+  "password": "54c05b24cd457b94874d66e6a5412cd7aa9a81b3b2b3436497826758098be4fe",
+  "salary": 8543510,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e89"
+  },
+  "name": "Milena Mónica Arias",
+  "email": "omejia@example.net",
+  "password": "9fa72534ff01031b456731fa6c2887c963acbeec34e6697a0e33723b059090bd",
+  "salary": 5090584,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e8a"
+  },
+  "name": "Hugo Rafael Alvarado",
+  "email": "framos@example.com",
+  "password": "a633ec2c46087af31502543701e56fc2038ab6cb9a3812e951c929b788e7e567",
+  "salary": 9899299,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e8b"
+  },
+  "name": "Jesús Rojas",
+  "email": "angaritaalicia@example.org",
+  "password": "98f5ecc03013479b23ac7ef222a3bf88b2d6f20c235c5dc3b5dff6d7530a1f5e",
+  "salary": 8324832,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e8c"
+  },
+  "name": "Daniela Isabel Correa Sánchez",
+  "email": "abel96@example.org",
+  "password": "fab4917cddd687d98443d86b0c99e29bb09f7496f07c49a903986d86a34379a5",
+  "salary": 9189009,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e8d"
+  },
+  "name": "Alberto Misael Mosquera",
+  "email": "maria49@example.org",
+  "password": "d23bc32869f9a7a626d7e64d8d80b6ce32d7e9579a255a3a416286de190ba144",
+  "salary": 9872184,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e8e"
+  },
+  "name": "María Alejandra Moreno",
+  "email": "milenavargas@example.org",
+  "password": "ef0ff3fe0d2c8cbdedc12c2ef4d91df2a3e2a38061ce0fbdf24ec77cf3d50b79",
+  "salary": 9984411,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e8f"
+  },
+  "name": "Antonio Rodrigo Moreno Gutiérrez",
+  "email": "danielalopez@example.net",
+  "password": "d8dbaf60e6544b1bb347f4c6327c461424ae4172a33905b0f4149b4d5041ad7e",
+  "salary": 6234116,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e90"
+  },
+  "name": "Luis Ortega Miranda",
+  "email": "john18@example.com",
+  "password": "ced117c6ca5139be5582a9681b8c71fbf7381d685b562509fddbdfc9969daa1b",
+  "salary": 6932335,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e91"
+  },
+  "name": "Daniel Henry Granados Arias",
+  "email": "tlopez@example.net",
+  "password": "719efe35b0be45a3cbd5ca9f2ec1412bc46c2baeff2eb15c2e81508861b32967",
+  "salary": 9794106,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e92"
+  },
+  "name": "Laura Medina Gómez",
+  "email": "giraldoangela@example.org",
+  "password": "8b6da9a74c3d44df2954daeb3b27e4660c903d4a56ddcc228c4c739d3c95436e",
+  "salary": 9101444,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e93"
+  },
+  "name": "Carmen Gaitán Barrera",
+  "email": "moralesgustavo@example.net",
+  "password": "a9c6ba2248b7048bccf8d10719f4c654674a9def1b2a82eac4a862f9dc0119a5",
+  "salary": 6241442,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e94"
+  },
+  "name": "José Gabriel León Bernal",
+  "email": "osoriofernando@example.com",
+  "password": "0ad19cdede29db7911001dadeb9ee8d906883253b9cbe3b234848e2dfe07d967",
+  "salary": 5364867,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e95"
+  },
+  "name": "William Camilo Ibarra Rivas",
+  "email": "tperez@example.com",
+  "password": "7aa946d38f609c3e8d57a80d7b0d51f8f4cfdf636638fe8446d660a647f7d2f7",
+  "salary": 8774033,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e96"
+  },
+  "name": "Enrique González",
+  "email": "navarroalvaro@example.org",
+  "password": "dc53852be69ab27d03b35dafffc38fcfd4ead839c44f26f938bac2957fbd4348",
+  "salary": 5195648,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e97"
+  },
+  "name": "Carlos Carlos Cardona",
+  "email": "omarin@example.com",
+  "password": "b98f15bb1253b62336cf9baf5e7fdb9e8af43080c7c1c384563dcb347f132072",
+  "salary": 5341195,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e98"
+  },
+  "name": "Arley Torres Montoya",
+  "email": "paradaluz@example.net",
+  "password": "d69679486c60e0e0ac99dbe0ec5fa746dc1b826cc64fb984ef2939b2d02381c7",
+  "salary": 9329835,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e99"
+  },
+  "name": "María Ariza Burbano",
+  "email": "sergio60@example.com",
+  "password": "65cf7f1e135fffda955c8ddfb3909215af02e3fc4effe4dbd447636ef6cde17e",
+  "salary": 8288377,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e9a"
+  },
+  "name": "Carlos Andrés Gómez Villamizar",
+  "email": "martinvanegas@example.org",
+  "password": "0f57639a5fe965a143172f67f12db18144a32676d7dc9ecb573d0b42064dfd9d",
+  "salary": 5680503,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e9b"
+  },
+  "name": "Cecilia Martínez",
+  "email": "ligia61@example.org",
+  "password": "e9ad43c7108fa7c39a8e42123a39afb05e3dba9af5d096cad54ed916ee887dc1",
+  "salary": 8401255,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e9c"
+  },
+  "name": "Libia Pabón",
+  "email": "sofia44@example.net",
+  "password": "30eb8710c3a529433baf509a5c53898917db8422a68f2d023a2031502a97e877",
+  "salary": 9601536,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e9d"
+  },
+  "name": "Marleny Ramírez Muñoz",
+  "email": "santiago92@example.org",
+  "password": "b21fa4dd49a07291df6e2fd56bd83408e0fc55bb19d946d278e7a1c15ef2123d",
+  "salary": 8175480,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e9e"
+  },
+  "name": "Carmen Valentina Reyes",
+  "email": "mariagonzalez@example.org",
+  "password": "ec024e1b64bd0b442a3bdc1b603d7866ef57fd977ea340e2c5cd3536a82e3f8e",
+  "salary": 8836810,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01e9f"
+  },
+  "name": "Jesús Bryan Vargas",
+  "email": "tpena@example.org",
+  "password": "f19673fe988c576edb4fa2e0acf3cb21d6d31fc9bd15e3d6f4d5acef37a96121",
+  "salary": 7132079,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ea0"
+  },
+  "name": "Marcela María Torres Díaz",
+  "email": "herreramanuel@example.org",
+  "password": "c2c895be80282226b2dfd14d4bd2a7527e139f8fa2a9512fa5294ed4c64a459f",
+  "salary": 8364756,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ea1"
+  },
+  "name": "Enrique Perdomo",
+  "email": "leandrosalazar@example.com",
+  "password": "33b076dc0ea103b12090a27a95b0ce72dd049bf83a580f08cc2bc6370ccf5d7b",
+  "salary": 6255040,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ea2"
+  },
+  "name": "Alejandro Mercado",
+  "email": "dorisdiaz@example.net",
+  "password": "d65b10e495e43dceeb3b5f05c77081cbb8637607ab67cefdbdcbab80fb07b043",
+  "salary": 8689148,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ea3"
+  },
+  "name": "Jhonatan Granados",
+  "email": "sotoluz@example.net",
+  "password": "29954a1f26ba79d426e209c6b054d5049e395ef6f5aa88a1df3cded1eba27b04",
+  "salary": 6768319,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ea4"
+  },
+  "name": "Luis Caballero López",
+  "email": "marcelasanchez@example.org",
+  "password": "a036255ad5e09b7a53f9cbcef0b9e09861f361df41064fce54aa3ad8c4ee00c1",
+  "salary": 7033181,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ea5"
+  },
+  "name": "Jesús Alejandro Díaz Méndez",
+  "email": "alfonsoperez@example.com",
+  "password": "8cbcb76603ff7feba46ceb7ebf579db7b9646e5a8fa19d74321fc0e63a18048e",
+  "salary": 5859490,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ea6"
+  },
+  "name": "Luis Jonathan Hernández",
+  "email": "andres55@example.org",
+  "password": "57c30ef2898ca2fa751f949a1f1f1bef44be99b7765703815516e3f2e3d00904",
+  "salary": 6097008,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ea7"
+  },
+  "name": "Andrés Cantillo",
+  "email": "hildaquintero@example.com",
+  "password": "3a35ae23419e3a0c0c876d853ff7763823cd8ac7da02757a2c42a507cf2c1cdd",
+  "salary": 8542153,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ea8"
+  },
+  "name": "Andrés Torres Álvarez",
+  "email": "davidangulo@example.org",
+  "password": "f28285d349fdfda1998647c5149fc5c1e76af660263f167b024b8294ee67aa5f",
+  "salary": 9070074,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ea9"
+  },
+  "name": "Eugenia Suárez",
+  "email": "jose61@example.org",
+  "password": "e3e12b6aa063c7ed900ef45d44bd5b18b415d8fe744362c32ec61a685f52a201",
+  "salary": 6177548,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eaa"
+  },
+  "name": "Angélica Kelly López Blanco",
+  "email": "julianortiz@example.com",
+  "password": "aaa9132a676784d5329b434243fcae4eac4a64d2c5d2c75d7c71036bdbf84a58",
+  "salary": 9185899,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eab"
+  },
+  "name": "Néstor Vargas Mosquera",
+  "email": "diazjulian@example.net",
+  "password": "5e9e3a40d3e560c0d322623e8d80608d1b8fc40784394095a8d444f09bbf6c14",
+  "salary": 7916868,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eac"
+  },
+  "name": "Daniela Castillo",
+  "email": "luis75@example.com",
+  "password": "fcaa72cb1fe9aa8b9dfdfe28868f7daf0a2f262d396200986c9f66233ac5a668",
+  "salary": 9756029,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ead"
+  },
+  "name": "Adolfo Norberto Roa",
+  "email": "jairoduran@example.com",
+  "password": "21f8f6b9069227103370239c05ff1f41b343dc6a3c3d295dd5297cf62464e2e0",
+  "salary": 6477337,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eae"
+  },
+  "name": "Lucía Ávila",
+  "email": "luistorres@example.net",
+  "password": "c4850468e674a99dd9738417213b6a931874aa9cc131a6b3defce83cf875505a",
+  "salary": 7446113,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eaf"
+  },
+  "name": "Jorge Ocampo González",
+  "email": "luis47@example.net",
+  "password": "54c203c8a840b9614d305473f891bb84af37e959587df1dd8404bf18a82b53bc",
+  "salary": 7278115,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eb0"
+  },
+  "name": "Gladys María Toro",
+  "email": "cgarzon@example.com",
+  "password": "e2dafd9f765e029606d679d9e78f300d8aec3197ad0072099efbfe84b9b6a603",
+  "salary": 7015162,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eb1"
+  },
+  "name": "Andrey Prieto",
+  "email": "jesus80@example.com",
+  "password": "e865d9b6f7d5afc07b066a09205b9a0a17fb114048e43c71ca743e75e25e52c7",
+  "salary": 5560587,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eb2"
+  },
+  "name": "Elena Yaneth Castro Ordóñez",
+  "email": "velascocamilo@example.org",
+  "password": "1f0bac29b56614f72ec451338af07675fa83173c06d48728a5cab191aba24c28",
+  "salary": 6526687,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eb3"
+  },
+  "name": "Edison Felipe Moreno Cruz",
+  "email": "zortiz@example.com",
+  "password": "e9db20290e6221989c1b70f5a2cd379385f046d69945056e25edd5045f61ca78",
+  "salary": 6194514,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eb4"
+  },
+  "name": "Emma Pérez Villa",
+  "email": "estela29@example.net",
+  "password": "6ad494ef0b17aae92b638c2ce5f3a60e9912c367a1211287e90ed999600fe0ea",
+  "salary": 5994847,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eb5"
+  },
+  "name": "Ramiro John Pérez",
+  "email": "hector59@example.org",
+  "password": "56681041fc64eac0a6e4c27a703da60956b0a2270667b567acefb284fedb9ff3",
+  "salary": 9671069,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eb6"
+  },
+  "name": "Brayan Aguirre",
+  "email": "beatrizbarreto@example.net",
+  "password": "cd7697a4af283444b708ef492c506f37901619cf360133bf3c33930de462e9b4",
+  "salary": 8913921,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eb7"
+  },
+  "name": "Lina Marina Pardo",
+  "email": "xhoyos@example.net",
+  "password": "2a70e25a4416629c13540eed201dc4ea995d6cf8b4b5f5069dac3d23f87c2d08",
+  "salary": 9553940,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eb8"
+  },
+  "name": "Andrés Torres",
+  "email": "rubiela65@example.org",
+  "password": "aedc72f40402935d9ea333991073cbbdec315ab1f23708440458836fad112b12",
+  "salary": 8395544,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eb9"
+  },
+  "name": "César Jesús Mosquera Zapata",
+  "email": "dperez@example.org",
+  "password": "aabc7fc02064d6877cacb5ca6b23f15f3f80ba209e5d0ecbddb5724a692401cc",
+  "salary": 9495239,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eba"
+  },
+  "name": "Carlos Montoya Morales",
+  "email": "castilloclara@example.net",
+  "password": "2c3d28103be4a66f8e104bc1e2a2d52a3c7a2280c4431ee44651c4a11611d76b",
+  "salary": 8377248,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ebb"
+  },
+  "name": "Rodolfo Méndez Díaz",
+  "email": "lucia06@example.org",
+  "password": "42f5dca1dedbbe427eb941bbc146d9fe8ee69cdbc97c183b0f7f562fd296ef05",
+  "salary": 6968804,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ebc"
+  },
+  "name": "Sebastián Andrés Sánchez",
+  "email": "sara04@example.net",
+  "password": "dfe604c06d515795a22ef6af66238ef1a6cc3d278b8b0dae828e736abee9b364",
+  "salary": 9583462,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ebd"
+  },
+  "name": "Javier Ignacio Castillo Ordóñez",
+  "email": "carlosmolina@example.com",
+  "password": "b47f81b84c8957cbd529a741edfd57a6a61adb68a1f3c77baf87a8a37dc6e4ad",
+  "salary": 5392132,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ebe"
+  },
+  "name": "Felipe López",
+  "email": "teresacano@example.com",
+  "password": "203e35f4549903c2d3f086454170082830b96b905398d1d50226f6bd823d9774",
+  "salary": 8934868,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ebf"
+  },
+  "name": "Viviana Angulo",
+  "email": "nelson87@example.com",
+  "password": "efa2d15f49a97c402ffba90b6d43bf96ba3fb9814a7d2c4b26f2d67205f519d0",
+  "salary": 9941566,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ec0"
+  },
+  "name": "Marina Enith Montoya",
+  "email": "bejaranoantonio@example.com",
+  "password": "642429121c657c5ce4e43b2395f7ca7ad395088b1b6f5ff68f81ac04cd90c2b8",
+  "salary": 8993918,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ec1"
+  },
+  "name": "Alejandro Vera",
+  "email": "miriam91@example.org",
+  "password": "3cc425df5949b513103112d75b337549e21fabc9bfcad2b8992e0718d3d4d6d9",
+  "salary": 9454726,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ec2"
+  },
+  "name": "Sofía María Ospina",
+  "email": "ivan17@example.com",
+  "password": "792241c3d0176f50f8071538673af10355dc9c37ad397ecdb471ffbd0aae4d1b",
+  "salary": 5594469,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ec3"
+  },
+  "name": "Katherine Parra",
+  "email": "luis20@example.com",
+  "password": "72453d56f559d498a72cf6d74ac91ab8d5ff807c6aa58ae1014065378f9dbd06",
+  "salary": 9506446,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ec4"
+  },
+  "name": "Ana Hilda Galvis Rojas",
+  "email": "zalfonso@example.org",
+  "password": "9929b5c6c3dcce02189cdca52163465d27e2bc5b38cea659fbe2e5ff4193a306",
+  "salary": 5492583,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ec5"
+  },
+  "name": "Mauricio Carlos González",
+  "email": "pablorojas@example.org",
+  "password": "3553cf03b726ad9175e262695077a8ae6ce7b9dc5f730daa8c662c467eb993a8",
+  "salary": 8760451,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ec6"
+  },
+  "name": "Yolanda Patricia Reyes",
+  "email": "lozanodoris@example.com",
+  "password": "34d96066d628a2d4dbecf4867ed61f8c2c7b8a3cc194f5dd270615ec11dd277f",
+  "salary": 7946553,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ec7"
+  },
+  "name": "Ana Ximena Vásquez González",
+  "email": "jcordoba@example.net",
+  "password": "c999af9cb20261491852a1a83ca92ee60100929bdfdbba17f9b9cfa979be8ccf",
+  "salary": 5876889,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ec8"
+  },
+  "name": "Valentina Gómez Moreno",
+  "email": "csolano@example.net",
+  "password": "df9b21f305b0d1d0b63ae065090f3f4f6b9ec5618364ce821a141a901a7e7764",
+  "salary": 7073117,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ec9"
+  },
+  "name": "Gilberto Francisco Ávila Arboleda",
+  "email": "alvaro56@example.net",
+  "password": "1b3a4c3243a4e4ba6fa0cdb3e4fba8be802e3555867f8421ba6c06f6f31e2f55",
+  "salary": 8214368,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eca"
+  },
+  "name": "Andrés León",
+  "email": "rafaelquiroga@example.net",
+  "password": "714cdc7e63564d8a3081b67586272e310f4d18b8f875440d4f53caae6b91b8f0",
+  "salary": 5512093,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ecb"
+  },
+  "name": "María Rueda",
+  "email": "becerranestor@example.net",
+  "password": "09ef2f9d047023535d50bd55d8778625ecda139b4c59f13c37be3c03ec9bfb0b",
+  "salary": 9543312,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ecc"
+  },
+  "name": "Marco Jefferson Roa",
+  "email": "hocampo@example.com",
+  "password": "c70cc6d32efffd8283a943de30cca8199758628cf44498d8dda30c83ababe302",
+  "salary": 5237256,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ecd"
+  },
+  "name": "Ana Agudelo",
+  "email": "lmora@example.org",
+  "password": "d6a542402729c20b417a0cc78203260f52eaac980d9eac815405a68982d7bc54",
+  "salary": 9086083,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ece"
+  },
+  "name": "Martha Liceth Morales",
+  "email": "racosta@example.org",
+  "password": "6bee1432218166a9d7e18c1666bc8ea37b5b12fa5ddc8c5c1cc37a1ada93e5fa",
+  "salary": 9404803,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ecf"
+  },
+  "name": "Edier Duarte",
+  "email": "vanegasalberto@example.org",
+  "password": "bfe73cfd478f08236835eb1e6c5e05db942c6f76da22b185bd8afd9a80626a6a",
+  "salary": 9285434,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ed0"
+  },
+  "name": "Camilo Pinzón",
+  "email": "milenagonzalez@example.com",
+  "password": "3525c6960cb7a855475f335f2b4d7ca23b4447e367471bb6a15d415ccd5e5979",
+  "salary": 8248113,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ed1"
+  },
+  "name": "Laura Triana Duarte",
+  "email": "josebarrera@example.org",
+  "password": "6ceec2da294ded48e87520d8b93918a4694f96b0c794c454a1c024c6e1831f74",
+  "salary": 8347555,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ed2"
+  },
+  "name": "Gilberto Fernando Oviedo",
+  "email": "ana21@example.com",
+  "password": "117686ec9a40a4dd550a0775d56ad3bdc9b7e5b6f63dd73e2902c8ce3ab4c0fb",
+  "salary": 5112304,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ed3"
+  },
+  "name": "Jesús Martín Gómez Bernal",
+  "email": "mariaavila@example.com",
+  "password": "9f59f8ccd8902c9a1e6325c45228b3ec5550634c86886455c267bb22ef9c27e7",
+  "salary": 7198859,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ed4"
+  },
+  "name": "Raúl Humberto Durán",
+  "email": "ortizluis@example.org",
+  "password": "5c0649774ae39f04b1fd24ac198fad7d2565f0c11e89b42c09604eb3985f573d",
+  "salary": 8696018,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ed5"
+  },
+  "name": "Elcy Liliana Flórez",
+  "email": "gonzalezestefania@example.net",
+  "password": "632fb345ca6e1f709cef0a4c8bc4f570115d8d003cce19d32006a3335908b2bb",
+  "salary": 8126983,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ed6"
+  },
+  "name": "José Flórez Montoya",
+  "email": "anguloliliana@example.net",
+  "password": "5d61970311af056d40fc5b87a02cc19bb2152155fc7f513443692034c2e3dbb9",
+  "salary": 5236058,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ed7"
+  },
+  "name": "Antonio Cardona Jiménez",
+  "email": "mhenao@example.org",
+  "password": "2c957319b8eba68461f99d0810b3dd70ce66cae9a716923426d553e894548a76",
+  "salary": 6110965,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ed8"
+  },
+  "name": "Nubia Mejía",
+  "email": "jhonatan77@example.org",
+  "password": "372e2ad11b1366566d9b8c2aafa25040bfecc3959c776cdb77d3024a0d122a8f",
+  "salary": 6143266,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ed9"
+  },
+  "name": "Cristian Restrepo",
+  "email": "luciaguerrero@example.net",
+  "password": "cc50d6f349d31dbd810d6f9651b534e82a3cc814e972c8f0e89ed404dfbe6e72",
+  "salary": 5082517,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eda"
+  },
+  "name": "Jenny Rosa Álvarez Pérez",
+  "email": "leonardo32@example.net",
+  "password": "e608654faadd1e80ddc0c4d58a95a21b54568c26c718398b25b94f7175089add",
+  "salary": 8584731,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01edb"
+  },
+  "name": "Sara Karen Villamizar",
+  "email": "juan43@example.net",
+  "password": "76e4f396b4c7e1fcdc3624ed145a2471a48c60410227308d6bf63d876a281113",
+  "salary": 6745589,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01edc"
+  },
+  "name": "José Raúl Flórez Bermúdez",
+  "email": "elenagarces@example.com",
+  "password": "64390e2cccd8c753f41a2810b6b82b04e4716175941ec926059c086e4c895ccf",
+  "salary": 7399007,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01edd"
+  },
+  "name": "Andrés Eduardo Caballero",
+  "email": "torresalcides@example.org",
+  "password": "bfe58b7fedf25f2146fdb706d836c87ff8db45ec5cee39f18bd8ff3fd454e5dd",
+  "salary": 9294003,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ede"
+  },
+  "name": "Andrés Solano",
+  "email": "jsantos@example.com",
+  "password": "7049c0319132941aedaf1785074f93dd01407d07b7d98cc78486384bdaa05af5",
+  "salary": 7234785,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01edf"
+  },
+  "name": "Carlos Alberto Cruz",
+  "email": "silvanorma@example.net",
+  "password": "28a178f776227bb4aef4f553efa34230cacc5c81ae93b26fbac55703a437eaf5",
+  "salary": 9608059,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ee0"
+  },
+  "name": "Vicente López",
+  "email": "vrodriguez@example.net",
+  "password": "ff25d7d93a9b92a99e7a7740861a37849687adc298155e010682fbd6f3d3457b",
+  "salary": 5454625,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ee1"
+  },
+  "name": "Rosa Melissa Rodríguez Mosquera",
+  "email": "guzmanluz@example.org",
+  "password": "801ef9a730bcb17c11bf909e86e4260f8df12db1ca85704c7a51bb778e80038c",
+  "salary": 5096458,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ee2"
+  },
+  "name": "Álvaro Delgado Pulido",
+  "email": "jgonzalez@example.org",
+  "password": "58930abf6ed6fe1b2068cf0e3ac840ea8365f8e10b76cfcf0c33dd677e0f4606",
+  "salary": 6019459,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ee3"
+  },
+  "name": "Liliana Yurani García Alvarado",
+  "email": "edgar97@example.org",
+  "password": "6b1859794cb328ee541ff004b85f74cc50244315fa323592f03c8ff87290cae8",
+  "salary": 9667468,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ee4"
+  },
+  "name": "William Alarcón",
+  "email": "linahernandez@example.com",
+  "password": "ba5105569cf2ed66cb3ad2b7b7b1519f34630a4a4fa2dfb20bb29e2c38be5f2a",
+  "salary": 5197849,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ee5"
+  },
+  "name": "Esther Tatiana Contreras Ortega",
+  "email": "vrincon@example.org",
+  "password": "654de31c3ad79dacb4230f813e2402d4c52120b38c508d9e125a09a349b72eb1",
+  "salary": 5915972,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ee6"
+  },
+  "name": "Valentina Arenas",
+  "email": "paola96@example.org",
+  "password": "efb554552552c97599aad14b79acc19f1f28bba18a0e0f25b6c9a993343240fa",
+  "salary": 5817826,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ee7"
+  },
+  "name": "Carlos Mena Flórez",
+  "email": "yina37@example.com",
+  "password": "aa4c9ef79cb3e0138cfc81eea20515d202fbe04e818bfe9e5f068edfe335635a",
+  "salary": 7603495,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ee8"
+  },
+  "name": "Yenny Díaz",
+  "email": "luz81@example.com",
+  "password": "a7060277f77999123ece45815dcd27e60f863afed172ca0cf4911cedf697c77a",
+  "salary": 9503185,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ee9"
+  },
+  "name": "Juan Fonseca",
+  "email": "mcastillo@example.org",
+  "password": "2e953c9a5b963c3b293dce675c8ccab6b947a26a49f213ee62967d95f1cd6a76",
+  "salary": 7104248,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eea"
+  },
+  "name": "Blanca María Angulo Pardo",
+  "email": "amaldonado@example.net",
+  "password": "11f37fa3dc981662aa98e49f40df2cdec23d98020bdb5ab3d7909cbbf5ae731a",
+  "salary": 5770638,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eeb"
+  },
+  "name": "Roberto Giraldo Sánchez",
+  "email": "jazmin76@example.net",
+  "password": "2c8bef757bfeeb92f8c0239d969f4721713808cc3cd72393e56e146277904c4e",
+  "salary": 9877663,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eec"
+  },
+  "name": "Anderson Diego Villa Velasco",
+  "email": "xcardona@example.org",
+  "password": "52dcec7b2c753598323307ecc8504defbad709abd719e15935c8dde53f05cdb1",
+  "salary": 9211259,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eed"
+  },
+  "name": "Jaime Ballesteros Cano",
+  "email": "torresfernanda@example.com",
+  "password": "fd49bdffe3546b637841b75be78778ad290a51f72409fe3d5c6d6bbdef8e78e2",
+  "salary": 8158159,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eee"
+  },
+  "name": "Carlos Montoya",
+  "email": "jgarcia@example.org",
+  "password": "289f1caf9d06d529db079703294a8382155419da41bed4f5ce761cf3ce30a6cb",
+  "salary": 8350511,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eef"
+  },
+  "name": "David Estrada",
+  "email": "ortegamiller@example.com",
+  "password": "92b7cbf9daa586fca86d2a55b4b3652e8265e81298b74bbc918ca990caa5ef7c",
+  "salary": 6529310,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ef0"
+  },
+  "name": "Gabriel James Palacios Núñez",
+  "email": "ubermudez@example.net",
+  "password": "7cbc42c13eb1115c8479045634b5a4b4600677a0189df3a1d99cdff7ff02e742",
+  "salary": 5538900,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ef1"
+  },
+  "name": "Santiago Sánchez Padilla",
+  "email": "morasilvia@example.net",
+  "password": "6752b3e1bef13d4c785794e5a06c1a61aee9311063c620a35a2594428d977b32",
+  "salary": 9960194,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ef2"
+  },
+  "name": "Andrés Contreras",
+  "email": "vgonzalez@example.com",
+  "password": "5bb4d16a1cf697368b61c9ff0cd251267ef76ab8fa6f3f7082a872d5df0bd914",
+  "salary": 5955584,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ef3"
+  },
+  "name": "William Guerrero Ramos",
+  "email": "stivenmonsalve@example.org",
+  "password": "765bd8228fe43a8ef991e9491320dc71e425946fbb878cbd0a1f5122d22717e9",
+  "salary": 6975340,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ef4"
+  },
+  "name": "Graciela Vargas",
+  "email": "alejandrasalazar@example.org",
+  "password": "600faf08384d734285577384ee891d5d4c944c8e8ff2d93296e3466a53f76203",
+  "salary": 9307361,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ef5"
+  },
+  "name": "Carlos Daniel García Barrios",
+  "email": "wreyes@example.net",
+  "password": "e608b64d3d03c15e6d8190a430abc3f502306fb8237e0e0739fa4da2239ac8e6",
+  "salary": 8068925,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ef6"
+  },
+  "name": "Elías Jaramillo Muñoz",
+  "email": "danieltorres@example.org",
+  "password": "77c778d7cd18db8d01d973c5216cee9a4eabe6896d09a0848f58153b532a62e3",
+  "salary": 7781729,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ef7"
+  },
+  "name": "Alexander Delgado Saavedra",
+  "email": "nidiagarcia@example.com",
+  "password": "d9d59dfe895096e61cbfb8878583609deb7121a70e57f4d947a73135ed2779fa",
+  "salary": 6100938,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ef8"
+  },
+  "name": "Martha Olga Sánchez",
+  "email": "alejandrosanchez@example.org",
+  "password": "3109497dfdae3d7d7d807bdc56e5994881b35a06bc9f2cd6367e231bdc140e4b",
+  "salary": 5889430,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01ef9"
+  },
+  "name": "Francisco Villegas",
+  "email": "riveraedgar@example.com",
+  "password": "979de7f0eae6037c6de39c475ea557009e9d40fcdc2494921e6fb275272b2ed4",
+  "salary": 6226588,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01efa"
+  },
+  "name": "María Acosta",
+  "email": "bhurtado@example.com",
+  "password": "c4c878c8812e267083b007e4f677653645953d8289245661ad2d4629d1909040",
+  "salary": 9728370,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01efb"
+  },
+  "name": "Sandra Carrillo Durán",
+  "email": "aalfonso@example.com",
+  "password": "c361133ff82ff957fc572aa6f0f726af4396309bef24c157fda6286faf5e6207",
+  "salary": 6551421,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01efc"
+  },
+  "name": "Karen Villamizar",
+  "email": "marcelagomez@example.com",
+  "password": "134398e5e7a3de477be15a48ea102b6214734c81c703f25818bf178a28d3f327",
+  "salary": 6782240,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01efd"
+  },
+  "name": "Juan Gamboa",
+  "email": "nancycano@example.com",
+  "password": "4dd7e658ab4fef7fab53aef2a7666bf58e617d0f753c6be73ce123816bb59971",
+  "salary": 7857022,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01efe"
+  },
+  "name": "Diego Silva",
+  "email": "frojas@example.org",
+  "password": "7c33a1ef23fab86e16fe4f7a53ef67c144ba5906e994b05a86f36937123ddee0",
+  "salary": 6179647,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01eff"
+  },
+  "name": "María Liliana Blanco Moreno",
+  "email": "martinezjuan@example.net",
+  "password": "e42dbba2063269c5a476208029af14d8a835c8872ba4f3163c0a9f4edfeb7dad",
+  "salary": 7530199,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f00"
+  },
+  "name": "Mario Rafael López",
+  "email": "ramirezfernando@example.org",
+  "password": "61d39083a3c10ade60e0824e1948f666f57a28d8c4be9e2673248443bd22a72c",
+  "salary": 7292755,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f01"
+  },
+  "name": "Alexandra Candelaria Parra Montoya",
+  "email": "liliana05@example.net",
+  "password": "a4dd710a0659fe6fd7a732be55e47419e76c0049d128ae96b1d9f196bcb4eb88",
+  "salary": 6575271,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f02"
+  },
+  "name": "Andrés Suárez López",
+  "email": "yromero@example.net",
+  "password": "da9a2065de511c7e2f53246ccd0f19c67f94fd0a41a6814634d08f5c158ab211",
+  "salary": 7804868,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f03"
+  },
+  "name": "Amparo Domínguez",
+  "email": "leonedilma@example.net",
+  "password": "1e00bbfb232ea9bb07bb97cb874a55f26464396855059697e4bfa4963809bc7b",
+  "salary": 9494908,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f04"
+  },
+  "name": "José Fernando Sanabria",
+  "email": "naranjorocio@example.com",
+  "password": "48b792e7b5c645f07da6e1bcf394530000ec52926c5dd6b7a5c5983b4d0c207f",
+  "salary": 9122482,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f05"
+  },
+  "name": "Delia Yuliana Arteaga",
+  "email": "benjaminpalacios@example.com",
+  "password": "d4f6d58df2a20552f98bb61b067237273ad7dd76bc95e9879129333a5f931eb2",
+  "salary": 7631511,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f06"
+  },
+  "name": "Fabio Villamil Ardila",
+  "email": "arturohoyos@example.com",
+  "password": "57e995cbb25302f16d8b10c3fc594c07d85feff83d8cde6f11aa3bb9ed0a4e26",
+  "salary": 6237048,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f07"
+  },
+  "name": "Nelson Muñoz Tovar",
+  "email": "tvargas@example.org",
+  "password": "663e7f67a67b4b874237e7b8a5a0f843254cc532e7637842f810eb7baa5e350e",
+  "salary": 8572913,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f08"
+  },
+  "name": "Fredy Germán Guerrero",
+  "email": "sanchezmargarita@example.com",
+  "password": "02f7c9c50042bc98e2d0284dd5b5381d079dd300e8096e2cbe81de7109087d49",
+  "salary": 8265176,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f09"
+  },
+  "name": "Daniel Jorge Restrepo",
+  "email": "hbetancur@example.net",
+  "password": "f49c20bc7262367d1f711b1e4c928085d0c05f5a4e50d354cf624ee27f4e1296",
+  "salary": 5504993,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f0a"
+  },
+  "name": "Patricia Patricia García",
+  "email": "marina90@example.com",
+  "password": "9b5976c8dbf692c93e78cdabda621b3fca9f9f7f9521dfe6056b2fd9d4bc242f",
+  "salary": 6685614,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f0b"
+  },
+  "name": "Víctor Daniel Hernández García",
+  "email": "jorge84@example.org",
+  "password": "52d7e80fede8d897c98c6e92c849e4919db61b4047fd71618636e8e68ae623fc",
+  "salary": 5710321,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f0c"
+  },
+  "name": "Alex Ignacio Gómez",
+  "email": "patricia31@example.com",
+  "password": "fc5b203fcc6590d37ad4dbeeeff5c6149552dc48b5083ce5a8b2d7dd05a99f59",
+  "salary": 7487180,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f0d"
+  },
+  "name": "Jhan García",
+  "email": "contrerasrosa@example.net",
+  "password": "ff27f1f2393afc7f7422a8d96120ece065cff2c1131e41395c390d5fea826642",
+  "salary": 9889577,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f0e"
+  },
+  "name": "Yasmín Rivera Espitia",
+  "email": "cortesandres@example.org",
+  "password": "68fc0dff48e1f5f15679fcc0a8bed9c357f851d5f9ce2d944230cf5fb087ea40",
+  "salary": 6928168,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f0f"
+  },
+  "name": "Carlos Martínez Cantillo",
+  "email": "beatriz59@example.org",
+  "password": "fe850e26578fbd07e7c4298276ff48342d27b3d921701ba975a5bba77d830ad1",
+  "salary": 5308707,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f10"
+  },
+  "name": "Sebastián Miguel Arango García",
+  "email": "janeth62@example.net",
+  "password": "f3efc82f4577197f7e1fecc018c8e0a83b86f3039d57b8ac17805aab50ac4012",
+  "salary": 8916240,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f11"
+  },
+  "name": "Luisa Liliana Sandoval",
+  "email": "ltorres@example.org",
+  "password": "938c1d0482cdc4b87c44b91c071f58ca02ed4f5b57e6d41d876260e65f8150c0",
+  "salary": 5843936,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f12"
+  },
+  "name": "Gloria Romero Forero",
+  "email": "jorge71@example.com",
+  "password": "0973fabac8165c6d73e6e212475ab26adfd252250f0b027b53412f235e2068a4",
+  "salary": 6609961,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f13"
+  },
+  "name": "Alexander Ignacio Valencia",
+  "email": "blancoandres@example.org",
+  "password": "2befcd5b0a6b9989b99cfdd5fd8cb8b918696a8b1f7d56269d589f958f4690db",
+  "salary": 8414253,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f14"
+  },
+  "name": "Daniela María Sánchez",
+  "email": "rubielacontreras@example.com",
+  "password": "3b3a8a60b545c483a426b85b4667d8c09911779aa72375bed395b4570ab168f5",
+  "salary": 6353251,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f15"
+  },
+  "name": "José Vargas Páez",
+  "email": "ovalencia@example.net",
+  "password": "9966b27a97dcc90cd9300b4296b4521909b7f9319f700010750384c7ecee8596",
+  "salary": 5450117,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f16"
+  },
+  "name": "Fabián Villa González",
+  "email": "cristina94@example.com",
+  "password": "bacb038615ccb8f8da1bd62edc3e6fe80ee3f704da95c791eb381eeb3d957efc",
+  "salary": 9400589,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f17"
+  },
+  "name": "Fanny Esther Anaya",
+  "email": "carlos48@example.net",
+  "password": "429904660c06de236025e08acb3c1e3132dd5b47987ae19893caa3f3bdd5c295",
+  "salary": 7055569,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f18"
+  },
+  "name": "Edwin Cristian Ríos Gómez",
+  "email": "bernalviviana@example.com",
+  "password": "a6145cdddde969e2844dbe063a66f2c08e02f9b908ae28e016bd8c2bd141d947",
+  "salary": 7984892,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f19"
+  },
+  "name": "María Calderón",
+  "email": "maldonadoalberto@example.com",
+  "password": "fe0561b124c3e95be0e7e34925be04ea5c3952bc508e5ce140fd3e283f46c95c",
+  "salary": 6914120,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f1a"
+  },
+  "name": "Fernanda Martínez",
+  "email": "carmencaballero@example.net",
+  "password": "0b41038906865d6b93271c81ba6a343a67e6797fe03a486d97ee9d04d366f379",
+  "salary": 5341021,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f1b"
+  },
+  "name": "Cindy Calderón",
+  "email": "dhernandez@example.net",
+  "password": "8feb0c31d7c534eef1569128957f399d5cc0dc3a2773c5e128bb148ddf79ffe7",
+  "salary": 7477568,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f1c"
+  },
+  "name": "Luis Javier Gómez Pulido",
+  "email": "angela53@example.net",
+  "password": "b7214ed0f319d7debe376b6dc627fdf3ffcc99e5904d436ee08b5f0c1365f5e0",
+  "salary": 9009575,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f1d"
+  },
+  "name": "Felipe Peña",
+  "email": "marcela03@example.net",
+  "password": "68cb2b422b8c438f216f81ef63aa94afa2609fa204ba77bb11834d4dd981a6d8",
+  "salary": 5677513,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f1e"
+  },
+  "name": "José Osorio",
+  "email": "felipebetancur@example.org",
+  "password": "2c6d5076d68c87ec1ddda822c5696a6f8cba7879b6650147ed1ef73a69318d65",
+  "salary": 5805907,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f1f"
+  },
+  "name": "María Yolanda Vargas",
+  "email": "salazarmanuela@example.org",
+  "password": "0c0f9b3f65b2f23db26dca730ddeee5fdaf8529edd5e571d51bf8dba2b33d69a",
+  "salary": 9917578,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f20"
+  },
+  "name": "Julieth Catalina Pérez",
+  "email": "mlopez@example.org",
+  "password": "bded276621382e3d0153b894845d6202473149ccf4150be866de18bcd8540669",
+  "salary": 8508599,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f21"
+  },
+  "name": "William Andrés González Escobar",
+  "email": "anamedina@example.org",
+  "password": "8f01acb659bbe6e5fea5894f6a86b514830d8b4e42cd347601d830ae361c3e37",
+  "salary": 9219545,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f22"
+  },
+  "name": "Luis Romero",
+  "email": "maria67@example.com",
+  "password": "cba7812a54d7726b101c1b2fab4c80e5de88268ac4090ee95f28bf7d577be469",
+  "salary": 6144212,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f23"
+  },
+  "name": "Laura Adriana Buitrago Serrano",
+  "email": "cifuentesmaria@example.com",
+  "password": "5bd275879323c459179cc2638c8dfd88e026bd1f18cd3d0801700e5818ef44f1",
+  "salary": 8297955,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f24"
+  },
+  "name": "Eliecer Juan Acosta",
+  "email": "yrojas@example.net",
+  "password": "d777a034be6b483631fbd3151d933fd9d723a6ca9a911bd7a35fe7bc81f43837",
+  "salary": 9539412,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f25"
+  },
+  "name": "Laura Clara Vera",
+  "email": "qarteaga@example.org",
+  "password": "a31de721840eb4b3ad4b615b5479e1581f1af1f8385447a3c2a9b697c6039856",
+  "salary": 7934043,
+  "faculty": "Ciencias"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f26"
+  },
+  "name": "Andrés López López",
+  "email": "eugenia55@example.org",
+  "password": "bcd4a764b6f0ac56805f7fa33b6e8b4fb7c0db8c2f9858e440b7125dceb644b9",
+  "salary": 5618629,
+  "faculty": "Artes"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f27"
+  },
+  "name": "Julia Rendón Vélez",
+  "email": "kevinquiroz@example.com",
+  "password": "2f35f6a95451a0d987c031adeb5d65cc2a40ec631dabaa1c6da802d808932f8d",
+  "salary": 7750861,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f28"
+  },
+  "name": "Tatiana González",
+  "email": "jennifer94@example.org",
+  "password": "692a6a8608952ac281316455f03b58c197209881eae3e7b40229e8fc24416635",
+  "salary": 5315092,
+  "faculty": "Ingeniería"
+},{
+  "_id": {
+    "$oid": "6473a37c35ee398eb5f01f29"
+  },
+  "name": "Patricia Vásquez",
+  "email": "carloslopez@example.net",
+  "password": "5c0ac87a4ef5ab075f70f5676eaf5b7258c9159058c5d846b30be90991bdf1b6",
+  "salary": 5662275,
+  "faculty": "Ciencias"
+}]

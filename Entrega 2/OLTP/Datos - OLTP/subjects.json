@@ -1,0 +1,8793 @@
+[{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f018fe"
+  },
+  "name": "Análisis de la televisión I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f018ff"
+  },
+  "name": "Apreciación del Video Arte",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01900"
+  },
+  "name": "Arte sonoro",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01901"
+  },
+  "name": "Cinefotografía I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01902"
+  },
+  "name": "Cinefotografía II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01903"
+  },
+  "name": "Dirección de actores I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01904"
+  },
+  "name": "Dirección de actores II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01905"
+  },
+  "name": "Dirección de arte",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01906"
+  },
+  "name": "Dirección I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01907"
+  },
+  "name": "Dirección II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01908"
+  },
+  "name": "Diseño de promoción",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01909"
+  },
+  "name": "Diseño de proyecto documental",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0190a"
+  },
+  "name": "Documental de ensayo",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0190b"
+  },
+  "name": "Dramaturgia I",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0190c"
+  },
+  "name": "Escritura para televisión I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0190d"
+  },
+  "name": "Estética y teoría de la imagenEstética y teoría de la imagen",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0190e"
+  },
+  "name": "Etica y cultura",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0190f"
+  },
+  "name": "Exhibición y distribución",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01910"
+  },
+  "name": "Fotografía I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01911"
+  },
+  "name": "Géneros y estilos cinematográficos I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01912"
+  },
+  "name": "Géneros Y Estilos Cinematográficos II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01913"
+  },
+  "name": "Gestión cultural y empresarial en las artes",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01914"
+  },
+  "name": "Guión audiovisual",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01915"
+  },
+  "name": "Guión avanzado I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01916"
+  },
+  "name": "Guión de ficción",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01917"
+  },
+  "name": "Herencias - Una mirada a la historia de las artes",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01918"
+  },
+  "name": "Hipermedia",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01919"
+  },
+  "name": "Historia del arte I",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0191a"
+  },
+  "name": "Historia del arte II",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0191b"
+  },
+  "name": "Inglés I- Semestral",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0191c"
+  },
+  "name": "Inglés II - Semestral",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0191d"
+  },
+  "name": "Inglés II - Virtual",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0191e"
+  },
+  "name": "Inglés III - Semestral",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0191f"
+  },
+  "name": "Inglés III- Virtual",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01920"
+  },
+  "name": "Inglés Intensivo I y II",
+  "credits": "6",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01921"
+  },
+  "name": "Inglés Intensivo III y IV",
+  "credits": "6",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01922"
+  },
+  "name": "Inglés IV- Semestral",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01923"
+  },
+  "name": "Inglés IV- Virtual",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01924"
+  },
+  "name": "Investigación para documental",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01925"
+  },
+  "name": "Lecto-Escritura",
+  "credits": "4",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01926"
+  },
+  "name": "Métodos de investigación",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01927"
+  },
+  "name": "Multimedia",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01928"
+  },
+  "name": "Narrativa I",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01929"
+  },
+  "name": "Práctica empresarial I (Diseño de proyecto)",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0192a"
+  },
+  "name": "Práctica empresarial II (Realización)",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0192b"
+  },
+  "name": "Problemas contemporáneos de las artes",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0192c"
+  },
+  "name": "Producción ejecutiva para audiovisual",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0192d"
+  },
+  "name": "Programación para arte",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0192e"
+  },
+  "name": "Proyecto de grado",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0192f"
+  },
+  "name": "Realización de proyecto documental",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01930"
+  },
+  "name": "Responsabilidad socio-ambiental de las artes",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01931"
+  },
+  "name": "Seminario de proyectos de Grado",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01932"
+  },
+  "name": "Sonido I (Sonido directo)",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01933"
+  },
+  "name": "Sonido II (Postproducción sonora)",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01934"
+  },
+  "name": "Taller de producción y realización I",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01935"
+  },
+  "name": "Taller de producción y realización II",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01936"
+  },
+  "name": "Taller de producción y realización III",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01937"
+  },
+  "name": "Taller de producción y realización IV",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01938"
+  },
+  "name": "Taller de producción y Realización V",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01939"
+  },
+  "name": "Taller De Video Arte",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0193a"
+  },
+  "name": "Tecnología de la televisión",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0193b"
+  },
+  "name": "Tecnología del audiovisual",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0193c"
+  },
+  "name": "Teoría e historia medios audiovisuales I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0193d"
+  },
+  "name": "Teoría e Historia medios audiovisuales II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0193e"
+  },
+  "name": "Teoría e historia medios audiovisuales III",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0193f"
+  },
+  "name": "Teoría e historia medios audiovisuales IV",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01940"
+  },
+  "name": "Teoría e Historia medios audiovisuales V",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01941"
+  },
+  "name": "Teoría y práctica del montaje I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01942"
+  },
+  "name": "Teoría y práctica del montaje II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01943"
+  },
+  "name": "Trabajo de Grado",
+  "credits": "6",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01944"
+  },
+  "name": "Trabajo de Grado - Asignaturas de Posgrado",
+  "credits": "6",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01945"
+  },
+  "name": "Acompañamiento I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01946"
+  },
+  "name": "Acompañamiento II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01947"
+  },
+  "name": "Acompañamiento III",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01948"
+  },
+  "name": "Acompañamiento IV",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01949"
+  },
+  "name": "Acompañamiento V",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0194a"
+  },
+  "name": "Acompañamiento VI",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0194b"
+  },
+  "name": "Arpa I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0194c"
+  },
+  "name": "Arpa II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0194d"
+  },
+  "name": "Arpa III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0194e"
+  },
+  "name": "Arpa IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0194f"
+  },
+  "name": "Arpa V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01950"
+  },
+  "name": "Arpa VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01951"
+  },
+  "name": "Arpa VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01952"
+  },
+  "name": "Arpa VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01953"
+  },
+  "name": "Arte escénico I",
+  "credits": "1",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01954"
+  },
+  "name": "Arte escénico II",
+  "credits": "1",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01955"
+  },
+  "name": "Canto complementario I",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01956"
+  },
+  "name": "Canto complementario II",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01957"
+  },
+  "name": "Canto complementario III",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01958"
+  },
+  "name": "Canto complementario IV",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01959"
+  },
+  "name": "Canto I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0195a"
+  },
+  "name": "Canto II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0195b"
+  },
+  "name": "Canto III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0195c"
+  },
+  "name": "Canto IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0195d"
+  },
+  "name": "Canto V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0195e"
+  },
+  "name": "Canto VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0195f"
+  },
+  "name": "Canto VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01960"
+  },
+  "name": "Canto VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01961"
+  },
+  "name": "Clarinete I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01962"
+  },
+  "name": "Clarinete II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01963"
+  },
+  "name": "Clarinete III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01964"
+  },
+  "name": "Clarinete IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01965"
+  },
+  "name": "Clarinete V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01966"
+  },
+  "name": "Clarinete VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01967"
+  },
+  "name": "Clarinete VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01968"
+  },
+  "name": "Clarinete VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f01969"
+  },
+  "name": "Composición experimental I",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0196a"
+  },
+  "name": "Composición experimental II",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33435ee398eb5f0196b"
+  },
+  "name": "Contrabajo I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0196c"
+  },
+  "name": "Contrabajo II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0196d"
+  },
+  "name": "Contrabajo III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0196e"
+  },
+  "name": "Contrabajo IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0196f"
+  },
+  "name": "Contrabajo V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01970"
+  },
+  "name": "Contrabajo VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01971"
+  },
+  "name": "Contrabajo VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01972"
+  },
+  "name": "Contrabajo VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01973"
+  },
+  "name": "Contrapunto III",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01974"
+  },
+  "name": "Contrapunto IV",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01975"
+  },
+  "name": "Corno I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01976"
+  },
+  "name": "Corno II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01977"
+  },
+  "name": "Corno III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01978"
+  },
+  "name": "Corno IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01979"
+  },
+  "name": "Corno V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0197a"
+  },
+  "name": "Corno VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0197b"
+  },
+  "name": "Corno VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0197c"
+  },
+  "name": "Corno VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0197d"
+  },
+  "name": "Coro universitario I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0197e"
+  },
+  "name": "Coro universitario II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0197f"
+  },
+  "name": "Coro universitario III",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01980"
+  },
+  "name": "Coro universitario IV",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01981"
+  },
+  "name": "Coro Universitario V",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01982"
+  },
+  "name": "Coro Universitario VI",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01983"
+  },
+  "name": "Dicción de lengua extranjera",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01984"
+  },
+  "name": "Ensamble de Cobres I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01985"
+  },
+  "name": "Ensamble de Cobres II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01986"
+  },
+  "name": "Ensamble de Cobres III",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01987"
+  },
+  "name": "Ensamble de Jazz I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01988"
+  },
+  "name": "Ensamble de Jazz II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01989"
+  },
+  "name": "Ensamble de Jazz III",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0198a"
+  },
+  "name": "Ensamble de Jazz IV",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0198b"
+  },
+  "name": "Ensamble de jazz V",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0198c"
+  },
+  "name": "Ensamble de Música Colombiana I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0198d"
+  },
+  "name": "Ensamble de Música Colombiana II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0198e"
+  },
+  "name": "Ensamble de Música Colombiana III",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0198f"
+  },
+  "name": "Ensamble de Música Contemporánea I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01990"
+  },
+  "name": "Ensamble de Música Contemporánea II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01991"
+  },
+  "name": "Ensamble de Música Contemporánea III",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01992"
+  },
+  "name": "Ensamble música antigua I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01993"
+  },
+  "name": "Ensamble música antigua II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01994"
+  },
+  "name": "Ensamble música antigua III",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01995"
+  },
+  "name": "Ensamble música antigua IV",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01996"
+  },
+  "name": "Ensamble Vocal de Cámara I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01997"
+  },
+  "name": "Ensamble Vocal de Cámara II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01998"
+  },
+  "name": "Ensamble Vocal de Cámara III",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f01999"
+  },
+  "name": "Eufonio I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0199a"
+  },
+  "name": "Eufonio II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0199b"
+  },
+  "name": "Eufonio III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0199c"
+  },
+  "name": "Eufonio IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0199d"
+  },
+  "name": "Eufonio V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0199e"
+  },
+  "name": "Eufonio VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f0199f"
+  },
+  "name": "Eufonio VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019a0"
+  },
+  "name": "Eufonio VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019a1"
+  },
+  "name": "Fagot I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019a2"
+  },
+  "name": "Fagot II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019a3"
+  },
+  "name": "Fagot III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019a4"
+  },
+  "name": "Fagot IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019a5"
+  },
+  "name": "Fagot V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019a6"
+  },
+  "name": "Fagot VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019a7"
+  },
+  "name": "Fagot VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019a8"
+  },
+  "name": "Fagot VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019a9"
+  },
+  "name": "Flauta I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019aa"
+  },
+  "name": "Flauta II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019ab"
+  },
+  "name": "Flauta III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019ac"
+  },
+  "name": "Flauta IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019ad"
+  },
+  "name": "Flauta V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019ae"
+  },
+  "name": "Flauta VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019af"
+  },
+  "name": "Flauta VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019b0"
+  },
+  "name": "Flauta VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019b1"
+  },
+  "name": "Fonética de lengua extranjera",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019b2"
+  },
+  "name": "Fundamentación en dirección I",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019b3"
+  },
+  "name": "Fundamentación en dirección II",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019b4"
+  },
+  "name": "Fundamentación en Jazz",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019b5"
+  },
+  "name": "Gimnasia consciente I",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019b6"
+  },
+  "name": "Gimnasia consciente II",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019b7"
+  },
+  "name": "Gramática avanzada I",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019b8"
+  },
+  "name": "Gramática avanzada II",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019b9"
+  },
+  "name": "Gramática avanzada: siglo XX",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019ba"
+  },
+  "name": "Guitarra I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019bb"
+  },
+  "name": "Guitarra II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019bc"
+  },
+  "name": "Guitarra III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019bd"
+  },
+  "name": "Guitarra IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019be"
+  },
+  "name": "Guitarra V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019bf"
+  },
+  "name": "Guitarra VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019c0"
+  },
+  "name": "Guitarra VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019c1"
+  },
+  "name": "Guitarra VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019c2"
+  },
+  "name": "Historia de la música I",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019c3"
+  },
+  "name": "Historia de la música II",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019c4"
+  },
+  "name": "Historia de la música III",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019c5"
+  },
+  "name": "Historia de la música IV",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019c6"
+  },
+  "name": "Investigación en educación",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019c7"
+  },
+  "name": "Investigación en educación musical",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019c8"
+  },
+  "name": "Música de cámara I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019c9"
+  },
+  "name": "Música de cámara II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019ca"
+  },
+  "name": "Música de cámara III",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019cb"
+  },
+  "name": "Música de cámara IV",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019cc"
+  },
+  "name": "Música de cámara V",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019cd"
+  },
+  "name": "Música de Cámara VI",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019ce"
+  },
+  "name": "Musica tradicional colombiana",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019cf"
+  },
+  "name": "Música tradicional colombiana",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019d0"
+  },
+  "name": "Música y bienestar ocupacional",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019d1"
+  },
+  "name": "Música y mito clásico",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019d2"
+  },
+  "name": "Oboe I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019d3"
+  },
+  "name": "Oboe II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019d4"
+  },
+  "name": "Oboe III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019d5"
+  },
+  "name": "Oboe IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019d6"
+  },
+  "name": "Oboe V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019d7"
+  },
+  "name": "Oboe VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019d8"
+  },
+  "name": "Oboe VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33535ee398eb5f019d9"
+  },
+  "name": "Oboe VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019da"
+  },
+  "name": "Organo I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019db"
+  },
+  "name": "Organo II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019dc"
+  },
+  "name": "Organo III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019dd"
+  },
+  "name": "Organo IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019de"
+  },
+  "name": "Orquesta - Banda I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019df"
+  },
+  "name": "Orquesta - Banda II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019e0"
+  },
+  "name": "Orquesta - Banda III",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019e1"
+  },
+  "name": "Orquesta - Banda IV",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019e2"
+  },
+  "name": "Orquesta - Banda V",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019e3"
+  },
+  "name": "Orquesta - Banda VI",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019e4"
+  },
+  "name": "Orquesta - Banda VII",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019e5"
+  },
+  "name": "Orquesta - Banda VIII",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019e6"
+  },
+  "name": "Orquesta de Guitarras I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019e7"
+  },
+  "name": "Orquesta de Guitarras II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019e8"
+  },
+  "name": "Orquesta de Guitarras III",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019e9"
+  },
+  "name": "Orquesta de Guitarras IV",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019ea"
+  },
+  "name": "Orquesta de Guitarras V",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019eb"
+  },
+  "name": "Orquesta de Guitarras VI",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019ec"
+  },
+  "name": "Orquesta de guitarras VII",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019ed"
+  },
+  "name": "Orquesta de guitarras VIII",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019ee"
+  },
+  "name": "Percusión I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019ef"
+  },
+  "name": "Percusión II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019f0"
+  },
+  "name": "Percusión III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019f1"
+  },
+  "name": "Percusión IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019f2"
+  },
+  "name": "Percusión V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019f3"
+  },
+  "name": "Percusión VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019f4"
+  },
+  "name": "Percusión VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019f5"
+  },
+  "name": "Percusión VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019f6"
+  },
+  "name": "Piano I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019f7"
+  },
+  "name": "Piano II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019f8"
+  },
+  "name": "Piano III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019f9"
+  },
+  "name": "Piano IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019fa"
+  },
+  "name": "Piano V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019fb"
+  },
+  "name": "Piano VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019fc"
+  },
+  "name": "Piano VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019fd"
+  },
+  "name": "Piano VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019fe"
+  },
+  "name": "Práctica en conjuntos I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f019ff"
+  },
+  "name": "Práctica en conjuntos II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a00"
+  },
+  "name": "Práctica en conjuntos III",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a01"
+  },
+  "name": "Práctica en conjuntos IV",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a02"
+  },
+  "name": "Práctica en conjuntos V",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a03"
+  },
+  "name": "Práctica en conjuntos VI",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a04"
+  },
+  "name": "Practica pedagogica",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a05"
+  },
+  "name": "Preparación Recital de Grado",
+  "credits": "8",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a06"
+  },
+  "name": "Principios de pedagogía",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a07"
+  },
+  "name": "Proyecto libre I",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a08"
+  },
+  "name": "Proyecto libre II",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a09"
+  },
+  "name": "Saxofón I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a0a"
+  },
+  "name": "Saxofón II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a0b"
+  },
+  "name": "Saxofón III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a0c"
+  },
+  "name": "Saxofón IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a0d"
+  },
+  "name": "Saxofón V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a0e"
+  },
+  "name": "Saxofón VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a0f"
+  },
+  "name": "Saxofón VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a10"
+  },
+  "name": "Saxofón VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a11"
+  },
+  "name": "Seminario historia de la música I",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a12"
+  },
+  "name": "Seminario historia de la música II",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a13"
+  },
+  "name": "Taller de composición I",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a14"
+  },
+  "name": "Taller de composición II",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a15"
+  },
+  "name": "Taller de Jazz II",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a16"
+  },
+  "name": "Taller de Ópera I",
+  "credits": "1",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a17"
+  },
+  "name": "Taller de Ópera II",
+  "credits": "1",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a18"
+  },
+  "name": "Teoría musical I",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a19"
+  },
+  "name": "Teoría musical II",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a1a"
+  },
+  "name": "Teoría musical III",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a1b"
+  },
+  "name": "Teoría musical IV",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a1c"
+  },
+  "name": "Teoría musical V",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a1d"
+  },
+  "name": "Trabajo de grado: Recital",
+  "credits": "10",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a1e"
+  },
+  "name": "Trombón I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a1f"
+  },
+  "name": "Trombón II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a20"
+  },
+  "name": "Trombón III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a21"
+  },
+  "name": "Trombón IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a22"
+  },
+  "name": "Trombón V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a23"
+  },
+  "name": "Trombón VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a24"
+  },
+  "name": "Trombón VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a25"
+  },
+  "name": "Trombón VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a26"
+  },
+  "name": "Trompeta I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a27"
+  },
+  "name": "Trompeta II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a28"
+  },
+  "name": "Trompeta III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a29"
+  },
+  "name": "Trompeta IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a2a"
+  },
+  "name": "Trompeta V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a2b"
+  },
+  "name": "Trompeta VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a2c"
+  },
+  "name": "Trompeta VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a2d"
+  },
+  "name": "Trompeta VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a2e"
+  },
+  "name": "Tuba I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a2f"
+  },
+  "name": "Tuba II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a30"
+  },
+  "name": "Tuba III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a31"
+  },
+  "name": "Tuba IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a32"
+  },
+  "name": "Tuba V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a33"
+  },
+  "name": "Tuba VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a34"
+  },
+  "name": "Tuba VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a35"
+  },
+  "name": "Tuba VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a36"
+  },
+  "name": "Viola I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a37"
+  },
+  "name": "Viola II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a38"
+  },
+  "name": "Viola III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a39"
+  },
+  "name": "Viola IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a3a"
+  },
+  "name": "Viola V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a3b"
+  },
+  "name": "Viola VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a3c"
+  },
+  "name": "Viola VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a3d"
+  },
+  "name": "Viola VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a3e"
+  },
+  "name": "Violín I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a3f"
+  },
+  "name": "Violín II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a40"
+  },
+  "name": "Violín III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a41"
+  },
+  "name": "Violín IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a42"
+  },
+  "name": "Violín V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a43"
+  },
+  "name": "Violín VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a44"
+  },
+  "name": "Violín VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a45"
+  },
+  "name": "Violín VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a46"
+  },
+  "name": "Violonchelo I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a47"
+  },
+  "name": "Violonchelo II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a48"
+  },
+  "name": "Violonchelo III",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a49"
+  },
+  "name": "Violonchelo IV",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33635ee398eb5f01a4a"
+  },
+  "name": "Violonchelo V",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a4b"
+  },
+  "name": "Violonchelo VI",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a4c"
+  },
+  "name": "Violonchelo VII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a4d"
+  },
+  "name": "Violonchelo VIII",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a4e"
+  },
+  "name": "Arte mediático",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a4f"
+  },
+  "name": "Cuerpo",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a50"
+  },
+  "name": "Cuerpo y Espacio",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a51"
+  },
+  "name": "Curaduria",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a52"
+  },
+  "name": "Dibujo en Gran Formato",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a53"
+  },
+  "name": "Dibujo I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a54"
+  },
+  "name": "Dibujo II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a55"
+  },
+  "name": "Dibujo III",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a56"
+  },
+  "name": "El dibujo y el gesto",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a57"
+  },
+  "name": "El objeto y su disposición",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a58"
+  },
+  "name": "Escritura para Artistas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a59"
+  },
+  "name": "Estructuras",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a5a"
+  },
+  "name": "Estructuras narrativas de la imagen",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a5b"
+  },
+  "name": "Fotograbado y técnicas mixtas en metal",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a5c"
+  },
+  "name": "Fotografía a color",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a5d"
+  },
+  "name": "Fotografía II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a5e"
+  },
+  "name": "Instalación",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a5f"
+  },
+  "name": "Introducción a la curaduría",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a60"
+  },
+  "name": "Introducción a la gráfica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a61"
+  },
+  "name": "Introducción a la historia del arte",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a62"
+  },
+  "name": "Introducción a la Performancia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a63"
+  },
+  "name": "Introducción a la pintura",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a64"
+  },
+  "name": "Introducción a la teoria del arte",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a65"
+  },
+  "name": "Libro Arte",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a66"
+  },
+  "name": "Marca y aleatoriedad",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a67"
+  },
+  "name": "Materia y procedimientos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a68"
+  },
+  "name": "Objeto",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a69"
+  },
+  "name": "Pintura avanzada",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a6a"
+  },
+  "name": "Pintura intermedia",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a6b"
+  },
+  "name": "Pintura y gesto",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a6c"
+  },
+  "name": "Pintura y representación",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a6d"
+  },
+  "name": "Pintura-instalación",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a6e"
+  },
+  "name": "Prácticas contemporáneas del dibujo",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a6f"
+  },
+  "name": "Prácticas Orientadas al Lugar",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a70"
+  },
+  "name": "Procesos del fuego",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a71"
+  },
+  "name": "Procesos del lenguaje gráfico",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a72"
+  },
+  "name": "Proyecto de trabajo de grado I",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a73"
+  },
+  "name": "Proyecto trabajo de grado II",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a74"
+  },
+  "name": "Reacción",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a75"
+  },
+  "name": "Representaciones del Cuerpo",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a76"
+  },
+  "name": "Seminario Arte y Educación",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a77"
+  },
+  "name": "Seminario de Arte Colombiano",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a78"
+  },
+  "name": "Seminario de Arte Latinoamericano",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a79"
+  },
+  "name": "Seminario de Arte Moderno y Contemporáneo",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a7a"
+  },
+  "name": "Serigrafía-fotoserigrafía",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a7b"
+  },
+  "name": "Sonido",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a7c"
+  },
+  "name": "Taller Espacio",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a7d"
+  },
+  "name": "Taller gramática del arte",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a7e"
+  },
+  "name": "Taller Imagen",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a7f"
+  },
+  "name": "Taller introductorio",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a80"
+  },
+  "name": "Taller Pedagógico",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a81"
+  },
+  "name": "Taller Tiempo",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a82"
+  },
+  "name": "Técnicas Fotográficas Experimentales",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a83"
+  },
+  "name": "Teoría del arte I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a84"
+  },
+  "name": "Teoría del arte II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a85"
+  },
+  "name": "Transmedia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a86"
+  },
+  "name": "Video",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a87"
+  },
+  "name": "Acústica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a88"
+  },
+  "name": "Administración y gestión",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a89"
+  },
+  "name": "Análisis de ciudades",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a8a"
+  },
+  "name": "Arquitectura bioclimática",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a8b"
+  },
+  "name": "Arquitectura del paisaje",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a8c"
+  },
+  "name": "Arquitectura gótica",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a8d"
+  },
+  "name": "Arquitectura moderna en Bogotá",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a8e"
+  },
+  "name": "Arquitectura y metal",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a8f"
+  },
+  "name": "Arquitectura y textos",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a90"
+  },
+  "name": "Arte y paisaje",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a91"
+  },
+  "name": "Asoleación y arquitectura",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a92"
+  },
+  "name": "Aspectos arquitectónicos en el diseño sismoresistente",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a93"
+  },
+  "name": "Ciudad y movimiento moderno",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a94"
+  },
+  "name": "Clima y arquitectura",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a95"
+  },
+  "name": "Comprensión de textos en idioma extranjero",
+  "credits": "12",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a96"
+  },
+  "name": "Consolidación estructural",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a97"
+  },
+  "name": "Construcción de baja complejidad",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a98"
+  },
+  "name": "Construcción en madera y bambú",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a99"
+  },
+  "name": "Construcciones complejas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a9a"
+  },
+  "name": "Construcciones de mediana complejidad",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a9b"
+  },
+  "name": "Costos y programación",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a9c"
+  },
+  "name": "Crítica de la arquitectura",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a9d"
+  },
+  "name": "Documentación gráfica del patrimonio",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a9e"
+  },
+  "name": "Énfasis en investigación y proyecto arquitectónico I",
+  "credits": "5",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01a9f"
+  },
+  "name": "Énfasis en investigación y proyecto arquitectónico II",
+  "credits": "5",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aa0"
+  },
+  "name": "Énfasis en investigación y proyecto de vivienda I",
+  "credits": "5",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aa1"
+  },
+  "name": "Énfasis en investigación y proyecto de vivienda II",
+  "credits": "5",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aa2"
+  },
+  "name": "Énfasis en investigación y proyecto patrimonial I",
+  "credits": "5",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aa3"
+  },
+  "name": "Énfasis en investigación y proyecto patrimonial II",
+  "credits": "5",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aa4"
+  },
+  "name": "Énfasis en investigación y proyecto tecnológico I",
+  "credits": "5",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aa5"
+  },
+  "name": "Énfasis en investigación y proyecto tecnológico II",
+  "credits": "5",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aa6"
+  },
+  "name": "Énfasis en investigación y proyecto urbano I",
+  "credits": "5",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aa7"
+  },
+  "name": "Énfasis en investigación y proyecto urbano II",
+  "credits": "5",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aa8"
+  },
+  "name": "Especificaciones y cantidades",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aa9"
+  },
+  "name": "Estructuras de alta complejidad",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aaa"
+  },
+  "name": "Estructuras de baja complejidad",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aab"
+  },
+  "name": "Estructuras de mediana complejidad",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aac"
+  },
+  "name": "Fundamentos tecnologicos en arquitectura",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33735ee398eb5f01aad"
+  },
+  "name": "Grandes maestros de la arquitectura",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01aae"
+  },
+  "name": "Historia de la arquitectura I",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01aaf"
+  },
+  "name": "Historia de la arquitectura II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ab0"
+  },
+  "name": "Historia de la arquitectura III",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ab1"
+  },
+  "name": "Historia de la arquitectura IV",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ab2"
+  },
+  "name": "Interventoría",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ab3"
+  },
+  "name": "La ciudad y el espacio urbano",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ab4"
+  },
+  "name": "Medios artísticos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ab5"
+  },
+  "name": "Medios digitales en construcción",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ab6"
+  },
+  "name": "Medios informáticos I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ab7"
+  },
+  "name": "Medios informáticos II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ab8"
+  },
+  "name": "Modelos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ab9"
+  },
+  "name": "Morfología estructural",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01aba"
+  },
+  "name": "Origenes del urbanismo",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01abb"
+  },
+  "name": "Patologia de la edificacion",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01abc"
+  },
+  "name": "Planeación ordenamiento territorial",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01abd"
+  },
+  "name": "Procesos urbanos",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01abe"
+  },
+  "name": "Protocolo de trabajo de grado",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01abf"
+  },
+  "name": "Proyecto I",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ac0"
+  },
+  "name": "Proyecto II",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ac1"
+  },
+  "name": "Proyecto III",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ac2"
+  },
+  "name": "Proyecto urbano",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ac3"
+  },
+  "name": "Proyecto vertical de actividad",
+  "credits": "6",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ac4"
+  },
+  "name": "Proyecto vertical de forma",
+  "credits": "6",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ac5"
+  },
+  "name": "Proyecto vertical de lugar",
+  "credits": "6",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ac6"
+  },
+  "name": "Proyecto vertical de técnica",
+  "credits": "6",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ac7"
+  },
+  "name": "Proyecto vertical lugar urbano",
+  "credits": "6",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ac8"
+  },
+  "name": "Representacion I",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ac9"
+  },
+  "name": "Representacion II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01aca"
+  },
+  "name": "Representacion III",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01acb"
+  },
+  "name": "Representacion IV",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01acc"
+  },
+  "name": "Residencia de obra",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01acd"
+  },
+  "name": "Seminario de investigación y proyecto arquitectónico I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ace"
+  },
+  "name": "Seminario de investigación y proyecto arquitectónico II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01acf"
+  },
+  "name": "Seminario de investigación y proyecto de vivienda I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ad0"
+  },
+  "name": "Seminario de investigación y proyecto de vivienda II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ad1"
+  },
+  "name": "Seminario de investigación y proyecto patrimonial I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ad2"
+  },
+  "name": "Seminario de investigación y proyecto patrimonial II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ad3"
+  },
+  "name": "Seminario de investigación y proyecto tecnológico I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ad4"
+  },
+  "name": "Seminario de investigación y proyecto tecnológico II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ad5"
+  },
+  "name": "Seminario de investigación y proyecto urbano I",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ad6"
+  },
+  "name": "Seminario de investigación y proyecto urbano II",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ad7"
+  },
+  "name": "Seminario trabajo de grado",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ad8"
+  },
+  "name": "Sistemas portantes arquitectonicos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ad9"
+  },
+  "name": "Suelos y cimientos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ada"
+  },
+  "name": "Tecnología del concreto",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01adb"
+  },
+  "name": "Teoria de la arquitectura I",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01adc"
+  },
+  "name": "Teoria de la arquitectura II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01add"
+  },
+  "name": "Teoria de la arquitectura III",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ade"
+  },
+  "name": "Teoria de la arquitectura IV",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01adf"
+  },
+  "name": "Teoría de la arquitectura latinoamericana",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ae0"
+  },
+  "name": "Tratados de arquitectura",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33835ee398eb5f01ae1"
+  },
+  "name": "Urbanismo contemporáneo",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01ae2"
+  },
+  "name": "Urbanismo en Latinoamérica",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01ae3"
+  },
+  "name": "Análisis de métodos proyectuales",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01ae4"
+  },
+  "name": "Comunicación I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01ae5"
+  },
+  "name": "Comunicación II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01ae6"
+  },
+  "name": "Comunicación III",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01ae7"
+  },
+  "name": "Comunicación IV",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01ae8"
+  },
+  "name": "Comunicación V",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01ae9"
+  },
+  "name": "Comunicación VI",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01aea"
+  },
+  "name": "Cultura Material y del Arte en América Latina",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01aeb"
+  },
+  "name": "Dirección Organizacional",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01aec"
+  },
+  "name": "Diseño, cultura y sociedad",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01aed"
+  },
+  "name": "Diseño de exposiciones",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01aee"
+  },
+  "name": "Diseño para la Sostenibilidad",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01aef"
+  },
+  "name": "Diseño y Mercados",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01af0"
+  },
+  "name": "Economía e Industria",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01af1"
+  },
+  "name": "Ergonomía Cognitiva",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01af2"
+  },
+  "name": "Ergonomía Física",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01af3"
+  },
+  "name": "Ergonomía Organizacional",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01af4"
+  },
+  "name": "Fundamentos en tecnología",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01af5"
+  },
+  "name": "Gerencia de proyectos de diseño",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01af6"
+  },
+  "name": "Historia y Teoría I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01af7"
+  },
+  "name": "Historia y Teoría II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01af8"
+  },
+  "name": "Historia y Teoría III",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01af9"
+  },
+  "name": "Historia y Teoría IV",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01afa"
+  },
+  "name": "Industrialización de Producto",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01afb"
+  },
+  "name": "Introducción a la historia y teoría del diseño",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01afc"
+  },
+  "name": "Laboratorio de diseño I",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01afd"
+  },
+  "name": "Laboratorio de diseño II",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01afe"
+  },
+  "name": "Laboratorio de diseño III",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01aff"
+  },
+  "name": "Laboratorio de Ergonomía",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b00"
+  },
+  "name": "Macro Ergonomía",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b01"
+  },
+  "name": "Materiales compuestos",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b02"
+  },
+  "name": "Modelación Avanzada",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b03"
+  },
+  "name": "Multimedia - Medios Interactivos Digitales",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b04"
+  },
+  "name": "Observatorio de diseño I",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b05"
+  },
+  "name": "Observatorio de diseño II",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b06"
+  },
+  "name": "Observatorio de diseño III",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b07"
+  },
+  "name": "Observatorio de diseño IV",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b08"
+  },
+  "name": "Observatorio de Diseño V",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b09"
+  },
+  "name": "Observatorio de diseño VI",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b0a"
+  },
+  "name": "Observatorio de Diseño VII",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b0b"
+  },
+  "name": "Observatorio de diseño VIIIObservatorio de diseño VIII",
+  "credits": "8",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b0c"
+  },
+  "name": "Pensamiento sistémico",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b0d"
+  },
+  "name": "Perfil Ambiental",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b0e"
+  },
+  "name": "Práctica proyectual I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b0f"
+  },
+  "name": "Práctica proyectual II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33935ee398eb5f01b10"
+  },
+  "name": "Práctica proyectual III",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b11"
+  },
+  "name": "Práctica proyectual IV",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b12"
+  },
+  "name": "Práctica proyectual V",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b13"
+  },
+  "name": "Práctica proyectual VI",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b14"
+  },
+  "name": "Práctica Proyectual VII",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b15"
+  },
+  "name": "Práctica proyectual VIII",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b16"
+  },
+  "name": "Procesos avanzados de manufactura",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b17"
+  },
+  "name": "Producción más Limpia",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b18"
+  },
+  "name": "Seminario de trabajo de grado",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b19"
+  },
+  "name": "Sistemas de Gestión Ambiental",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b1a"
+  },
+  "name": "Taller de Crítica Experimental",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b1b"
+  },
+  "name": "Tecnología Avanzada",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b1c"
+  },
+  "name": "Tecnología de materiales",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b1d"
+  },
+  "name": "Tecnología de procesos de manufactura",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b1e"
+  },
+  "name": "Teoría Morfológica",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b1f"
+  },
+  "name": "Complementaria historia de la música I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b20"
+  },
+  "name": "Composición I",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b21"
+  },
+  "name": "Composición II",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b22"
+  },
+  "name": "Composición III",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b23"
+  },
+  "name": "Composición IV",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b24"
+  },
+  "name": "Conjunto acompanamiento i",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b25"
+  },
+  "name": "Conjunto banda i",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b26"
+  },
+  "name": "Conjunto cobres ii",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b27"
+  },
+  "name": "Conjunto coro",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b28"
+  },
+  "name": "Conjunto i - coro",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b29"
+  },
+  "name": "Conjunto musica andina ii",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b2a"
+  },
+  "name": "Conjunto musica andina iv",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b2b"
+  },
+  "name": "Conjunto musica andina v",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b2c"
+  },
+  "name": "Conjunto musica de camara ii",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b2d"
+  },
+  "name": "Conjunto musica de camara iv",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b2e"
+  },
+  "name": "Conjunto orquesta viii",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b2f"
+  },
+  "name": "Conjunto percusion i",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b30"
+  },
+  "name": "Conjunto trio s.manolov",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b31"
+  },
+  "name": "Conjunto vocal de camara i",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b32"
+  },
+  "name": "Contrapunto I",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b33"
+  },
+  "name": "Contrapunto II",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b34"
+  },
+  "name": "Dirección III",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b35"
+  },
+  "name": "Dirección IV",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b36"
+  },
+  "name": "Formación musical en el contexto nacional",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b37"
+  },
+  "name": "Fundamentación psicosocial",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b38"
+  },
+  "name": "Gramática aplicada al instrumento",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b39"
+  },
+  "name": "Instrumento complementario I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b3a"
+  },
+  "name": "Instrumento complementario II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b3b"
+  },
+  "name": "Instrumento complementario III",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b3c"
+  },
+  "name": "Instrumento complementario IV",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b3d"
+  },
+  "name": "Instrumento complementario V",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b3e"
+  },
+  "name": "Instrumento complementario VI",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b3f"
+  },
+  "name": "Instrumento para pedagogía I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b40"
+  },
+  "name": "Instrumento para pedagogía II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b41"
+  },
+  "name": "Instrumento para pedagogía III",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b42"
+  },
+  "name": "Instrumento para pedagogía IV",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b43"
+  },
+  "name": "Instrumento para pedagogía V",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33a35ee398eb5f01b44"
+  },
+  "name": "Instrumento para pedagogía VI",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b45"
+  },
+  "name": "Kinesiología y eutonía",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b46"
+  },
+  "name": "Laboratorio I: Pedagogía instrumental",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b47"
+  },
+  "name": "Laboratorio II: Pedagogía instrumental",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b48"
+  },
+  "name": "Laboratorio III: Pedagogía instrumental",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b49"
+  },
+  "name": "Laboratorio IV: Teórico práctico",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b4a"
+  },
+  "name": "Música y sociedad en Colombia",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b4b"
+  },
+  "name": "Orquestación I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b4c"
+  },
+  "name": "Orquestación II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b4d"
+  },
+  "name": "Orquestación III",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b4e"
+  },
+  "name": "Orquestación IV",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b4f"
+  },
+  "name": "Piano complementario I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b50"
+  },
+  "name": "Piano complementario II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b51"
+  },
+  "name": "Piano complementario III",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b52"
+  },
+  "name": "Piano complementario IV",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b53"
+  },
+  "name": "Piano complementario V",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b54"
+  },
+  "name": "Piano complementario VI",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b55"
+  },
+  "name": "Práctica Musical I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b56"
+  },
+  "name": "Práctica Musical II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b57"
+  },
+  "name": "Práctica musical III",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b58"
+  },
+  "name": "Práctica musical IV",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b59"
+  },
+  "name": "Seminario de musica antigua iii",
+  "credits": "8",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b5a"
+  },
+  "name": "Seminario de Trabajo de Grado",
+  "credits": "7",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b5b"
+  },
+  "name": "Seminario Jazz I",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b5c"
+  },
+  "name": "Seminario Jazz II",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b5d"
+  },
+  "name": "Seminario Jazz III",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b5e"
+  },
+  "name": "Seminario Jazz IV",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b5f"
+  },
+  "name": "Tecnicas digitales",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b60"
+  },
+  "name": "Aplicaciones gráficas tridimensionales",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b61"
+  },
+  "name": "Bocetación e Ilustración",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b62"
+  },
+  "name": "Esquemática básica",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b63"
+  },
+  "name": "Expresión visual",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b64"
+  },
+  "name": "Figura humana y representación",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b65"
+  },
+  "name": "Fotografía III",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b66"
+  },
+  "name": "Fundamentos tecnológicos: Color y producción",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b67"
+  },
+  "name": "Fundamentos tecnológicos: Formatos y medidas",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b68"
+  },
+  "name": "Fundamentos Tecnológicos: Tipometría",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b69"
+  },
+  "name": "Historia del diseño gráfico: Contextos del diseño en Colombia",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b6a"
+  },
+  "name": "Historia del diseño gráfico: De la imagen a la palabra",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b6b"
+  },
+  "name": "Historia del diseño gráfico: De las artes al diseño",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b6c"
+  },
+  "name": "Historia del diseño gráfico: De los ismos a los medios",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b6d"
+  },
+  "name": "Historia del diseño gráfico: Sociedad, cultura y diseño en Latinoamérica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b6e"
+  },
+  "name": "Imagen dinámica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b6f"
+  },
+  "name": "Palabra e imagen",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b70"
+  },
+  "name": "Producción en medios digitales",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b71"
+  },
+  "name": "Producción en medios impresos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b72"
+  },
+  "name": "Seminario de investigación y proyecto de diseño",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b73"
+  },
+  "name": "Taller de énfasis en animación y narrativas audiovisuales I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b74"
+  },
+  "name": "Taller de énfasis en animación y narrativas audiovisuales II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b75"
+  },
+  "name": "Taller de énfasis en ilustración I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b76"
+  },
+  "name": "Taller de énfasis en ilustración II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33b35ee398eb5f01b77"
+  },
+  "name": "Taller de énfasis en imagen fotográfica I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b78"
+  },
+  "name": "Taller de énfasis en imagen fotográfica II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b79"
+  },
+  "name": "Taller de énfasis en multimedia e imagen digital I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b7a"
+  },
+  "name": "Taller de énfasis en multimedia e imagen digital II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b7b"
+  },
+  "name": "Taller de énfasis en teoría, historia y estética I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b7c"
+  },
+  "name": "Taller de énfasis en teoría, historia y estética II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b7d"
+  },
+  "name": "Taller de énfasis en tipografía y diagramación I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b7e"
+  },
+  "name": "Taller de énfasis en tipografía y diagramación II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b7f"
+  },
+  "name": "Taller forma y estructura",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b80"
+  },
+  "name": "Taller identidad e imagen coordinada",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b81"
+  },
+  "name": "Taller orientación y diseño de información",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b82"
+  },
+  "name": "Taller signo y letra",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b83"
+  },
+  "name": "Taller tipografía, composición y diagramación",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b84"
+  },
+  "name": "Teoría de la mirada",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b85"
+  },
+  "name": "Teorías de la comunicación visual I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b86"
+  },
+  "name": "Teorías de la comunicación visual II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b87"
+  },
+  "name": "Álgebra lineal básica",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b88"
+  },
+  "name": "Algebra multilineal y formas canónicas",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b89"
+  },
+  "name": "Análisis numérico I",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b8a"
+  },
+  "name": "Análisis vectorial",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b8b"
+  },
+  "name": "Cálculo de ecuaciones diferenciales ordinarias",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b8c"
+  },
+  "name": "Cálculo diferencial en una variable",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b8d"
+  },
+  "name": "Cálculo integral en una variable",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b8e"
+  },
+  "name": "Calculo vectorial",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b8f"
+  },
+  "name": "Ecuaciones diferenciales parciales I",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b90"
+  },
+  "name": "Epistemología e historia de las matemáticas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b91"
+  },
+  "name": "Fundamentos de electricidad y magnetismo",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b92"
+  },
+  "name": "Fundamentos de matemáticas",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b93"
+  },
+  "name": "Geometría diferencial I",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b94"
+  },
+  "name": "Geometría elemental",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b95"
+  },
+  "name": "Geometria vectorial y analítica",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b96"
+  },
+  "name": "Grupos y anillos",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b97"
+  },
+  "name": "Integración y series",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b98"
+  },
+  "name": "Introducción a la optimización",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b99"
+  },
+  "name": "Introducción a la teoría de conjuntos",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b9a"
+  },
+  "name": "Introducción a la teoría de la computación",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b9b"
+  },
+  "name": "Introducción al análisis combinatorio",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b9c"
+  },
+  "name": "Introducción al análisis real",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b9d"
+  },
+  "name": "Lógica matemática",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b9e"
+  },
+  "name": "Matemáticas Básicas",
+  "credits": "4",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01b9f"
+  },
+  "name": "Mecánica Analítica I",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01ba0"
+  },
+  "name": "Mecánica Analítica II",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01ba1"
+  },
+  "name": "Mecanica newtoniana",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01ba2"
+  },
+  "name": "Modelos matemáticos I",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01ba3"
+  },
+  "name": "Probabilidad",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01ba4"
+  },
+  "name": "Programación y métodos numéricos",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01ba5"
+  },
+  "name": "Sistemas numéricos",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01ba6"
+  },
+  "name": "Suficiencia en lengua extranjera",
+  "credits": "12",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01ba7"
+  },
+  "name": "Teoría de Conjuntos I",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01ba8"
+  },
+  "name": "Teoría de cuerpos",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01ba9"
+  },
+  "name": "Teoría de grafos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01baa"
+  },
+  "name": "Teoría de modelos I",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bab"
+  },
+  "name": "Topología general",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bac"
+  },
+  "name": "Variable compleja",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bad"
+  },
+  "name": "Álgebra Lineal",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bae"
+  },
+  "name": "Bioestadística fundamental",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01baf"
+  },
+  "name": "Biología general",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bb0"
+  },
+  "name": "Cálculo diferencial",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bb1"
+  },
+  "name": "Cálculo en varias variables",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bb2"
+  },
+  "name": "Cálculo Integral",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bb3"
+  },
+  "name": "Campo i: practicas de geologia fisica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bb4"
+  },
+  "name": "Campo ii: practicas de geologia estructural",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bb5"
+  },
+  "name": "Campo III: Prácticas rocas ígneas y metamórficas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bb6"
+  },
+  "name": "Campo IV: practicas sedimentologia - paleontologia - estratigrafia",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bb7"
+  },
+  "name": "Campo V: practicas geologia de Colombia y yacimientos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bb8"
+  },
+  "name": "Campo VI: Cartografía Geológica",
+  "credits": "6",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bb9"
+  },
+  "name": "Cefalópodos fósiles",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bba"
+  },
+  "name": "Climatología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bbb"
+  },
+  "name": "Cristaloquímica y cristalografía",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bbc"
+  },
+  "name": "Economía de proyectos mineros y petroleros",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bbd"
+  },
+  "name": "Ecuaciones Diferenciales",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bbe"
+  },
+  "name": "Estratigrafía",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bbf"
+  },
+  "name": "Fotogeología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bc0"
+  },
+  "name": "Fundamentación Geofísica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bc1"
+  },
+  "name": "Fundamentos de ecología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bc2"
+  },
+  "name": "Fundamentos de mecánica",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bc3"
+  },
+  "name": "Fundamentos de Mecánica de Fluidos",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bc4"
+  },
+  "name": "Fundamentos de oscilaciones, ondas y óptica",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bc5"
+  },
+  "name": "Fundamentos químicos de geología",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33c35ee398eb5f01bc6"
+  },
+  "name": "Geodinámica externa",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bc7"
+  },
+  "name": "Geodinamica interna",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bc8"
+  },
+  "name": "Geoeléctrica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bc9"
+  },
+  "name": "Geologia ambiental",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bca"
+  },
+  "name": "Geologia de colombia",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bcb"
+  },
+  "name": "Geologia del petroleo",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bcc"
+  },
+  "name": "Geología Estructural",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bcd"
+  },
+  "name": "Geología histórica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bce"
+  },
+  "name": "Geometría Descriptiva",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bcf"
+  },
+  "name": "Geomorfologia y fotos aereas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bd0"
+  },
+  "name": "Hidrogeología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bd1"
+  },
+  "name": "Inglés I- Virtual",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bd2"
+  },
+  "name": "Introducción a la sismología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bd3"
+  },
+  "name": "Investigación dirigida",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bd4"
+  },
+  "name": "Laboratorio principios de análisis químico",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bd5"
+  },
+  "name": "Laboratorio tecnicas básicas en química",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bd6"
+  },
+  "name": "Métodos Geofísicos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bd7"
+  },
+  "name": "Mineralogia",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bd8"
+  },
+  "name": "Mineralogia de menas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bd9"
+  },
+  "name": "Mineralogía óptica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bda"
+  },
+  "name": "Paleontología",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bdb"
+  },
+  "name": "Petrografia ignea",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bdc"
+  },
+  "name": "Petrografia metamorfica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bdd"
+  },
+  "name": "Práctica empresarial en Geología",
+  "credits": "6",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bde"
+  },
+  "name": "Principios de análisis químico",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bdf"
+  },
+  "name": "Principios de química",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01be0"
+  },
+  "name": "Principios de química inorgánica",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01be1"
+  },
+  "name": "Probabilidad y estadística fundamental",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01be2"
+  },
+  "name": "Sedimentologia",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01be3"
+  },
+  "name": "Sistemas de información geográfica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01be4"
+  },
+  "name": "Tectónica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01be5"
+  },
+  "name": "Volcanología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01be6"
+  },
+  "name": "Yacimientos minerales",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01be7"
+  },
+  "name": "Análisis multivariante",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01be8"
+  },
+  "name": "Análisis y modelación de sistemas biológicos",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01be9"
+  },
+  "name": "Artrópodos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bea"
+  },
+  "name": "Biodiversidad y servicios ecosistémicos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01beb"
+  },
+  "name": "Biogeografía",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bec"
+  },
+  "name": "Biología animal",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bed"
+  },
+  "name": "Biología celular",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bee"
+  },
+  "name": "Biología de hongos y líquenes",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bef"
+  },
+  "name": "Biología de macroalgas marinas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bf0"
+  },
+  "name": "Biología de microorganismos",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bf1"
+  },
+  "name": "Biología de plantas",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bf2"
+  },
+  "name": "Biología de protistos y algas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bf3"
+  },
+  "name": "Biología de reptiles escamados",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bf4"
+  },
+  "name": "Biología del Desarrollo",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bf5"
+  },
+  "name": "Biología evolutiva",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bf6"
+  },
+  "name": "Biología Molecular",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bf7"
+  },
+  "name": "Biologia molecular de la célula",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bf8"
+  },
+  "name": "Ciencias de la tierra",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bf9"
+  },
+  "name": "Conservación genética",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bfa"
+  },
+  "name": "Derecho Ambiental",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bfb"
+  },
+  "name": "Diseño Experimental",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bfc"
+  },
+  "name": "Ecología",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bfd"
+  },
+  "name": "Ecología regional continental",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bfe"
+  },
+  "name": "Embriófitos basales",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01bff"
+  },
+  "name": "Español funcional",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c00"
+  },
+  "name": "Espermatófitos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c01"
+  },
+  "name": "Estadística descriptiva multivariada",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c02"
+  },
+  "name": "Etología",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c03"
+  },
+  "name": "Evolución",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c04"
+  },
+  "name": "Fisicoquímica I",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c05"
+  },
+  "name": "Fisiología animal",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c06"
+  },
+  "name": "Fisiología animal de sistemas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c07"
+  },
+  "name": "Fisiología del crecimiento y desarrollo vegetal",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c08"
+  },
+  "name": "Fisiología vegetal",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c09"
+  },
+  "name": "Floristica y fitogeografía",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c0a"
+  },
+  "name": "Fluidos y electromagnetismo para biociencias",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c0b"
+  },
+  "name": "Formulación y gerencia de proyectos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c0c"
+  },
+  "name": "Fotointerpretación",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c0d"
+  },
+  "name": "Fundamentos de biología y ecología marina",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33d35ee398eb5f01c0e"
+  },
+  "name": "Fundamentos de ecologia de comunidades",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c0f"
+  },
+  "name": "Fundamentos de ecologia de ecosistemas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c10"
+  },
+  "name": "Fundamentos de ecologia de poblaciones",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c11"
+  },
+  "name": "Fundamentos de ecologia del paisaje",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c12"
+  },
+  "name": "Fundamentos de investigación",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c13"
+  },
+  "name": "Genética",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c14"
+  },
+  "name": "Genética de poblaciones",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c15"
+  },
+  "name": "Genética molecular",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c16"
+  },
+  "name": "Geografía física",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c17"
+  },
+  "name": "Geología general",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c18"
+  },
+  "name": "Gestión de proyectos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c19"
+  },
+  "name": "Histología animal",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c1a"
+  },
+  "name": "Historia del pensamiento biológico",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c1b"
+  },
+  "name": "Ictiologia: la biología de los peces",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c1c"
+  },
+  "name": "Inmunología celular y molecular",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c1d"
+  },
+  "name": "Introducción a la biología computacional",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c1e"
+  },
+  "name": "Introducción a la biología de la conservación",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c1f"
+  },
+  "name": "Introducción a la economía",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c20"
+  },
+  "name": "Introducción a la vegetación de Colombia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c21"
+  },
+  "name": "Introducción al trabajo científico",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c22"
+  },
+  "name": "Laboratorio principios de bioquímica",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c23"
+  },
+  "name": "Laboratorio principios de química orgánica",
+  "credits": "2",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c24"
+  },
+  "name": "Limnología",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c25"
+  },
+  "name": "Mastozoología general",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c26"
+  },
+  "name": "Mecánica y ondas para biociencias",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c27"
+  },
+  "name": "Metodología de la investigación científica",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c28"
+  },
+  "name": "Métodos en conservación y manejo de vida silvestre",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c29"
+  },
+  "name": "Microbiología",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c2a"
+  },
+  "name": "Ornitología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c2b"
+  },
+  "name": "Principios de bioquímica",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c2c"
+  },
+  "name": "Principios de química orgánica",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c2d"
+  },
+  "name": "Relaciones ecofisiológicas planta suelo agua",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c2e"
+  },
+  "name": "Sistemática Biológica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c2f"
+  },
+  "name": "Taxonomía animal",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c30"
+  },
+  "name": "Taxonomía de angiospermas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c31"
+  },
+  "name": "Tecnicas en biologia molecular",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c32"
+  },
+  "name": "Vertebrados",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c33"
+  },
+  "name": "Algebra abstracta y computacional",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c34"
+  },
+  "name": "Algoritmos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c35"
+  },
+  "name": "Análisis numérico",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c36"
+  },
+  "name": "Análisis numérico II",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c37"
+  },
+  "name": "Arquitectura de computadores",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c38"
+  },
+  "name": "Bases de datos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c39"
+  },
+  "name": "Biología molecular y celular",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c3a"
+  },
+  "name": "Computación visual",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c3b"
+  },
+  "name": "Ecuaciones en diferencias finitas y sistemas dinámicos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c3c"
+  },
+  "name": "Elementos de computadores",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c3d"
+  },
+  "name": "Estructuras de datos",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c3e"
+  },
+  "name": "Fundamentos de fisica",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c3f"
+  },
+  "name": "Fundamentos de Física Teórica",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c40"
+  },
+  "name": "Informática aplicada",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c41"
+  },
+  "name": "Ingeniería de software I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c42"
+  },
+  "name": "Introducción a las ciencias de la computación y a la programación",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c43"
+  },
+  "name": "Lógica computacional",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c44"
+  },
+  "name": "Matemáticas del aprendizaje de máquinas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c45"
+  },
+  "name": "Mundos Virtuales",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c46"
+  },
+  "name": "Optimización",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c47"
+  },
+  "name": "Programación orientada a objetos",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c48"
+  },
+  "name": "Química básica",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c49"
+  },
+  "name": "Sistemas operativos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c4a"
+  },
+  "name": "Teoría de Codificación",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c4b"
+  },
+  "name": "Trabajo de Grado - Pasantías",
+  "credits": "8",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c4c"
+  },
+  "name": "Trabajo de Grado - Trabajos investigativos",
+  "credits": "8",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c4d"
+  },
+  "name": "Análisis Químico Instrumental",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c4e"
+  },
+  "name": "Atomos y Moléculas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c4f"
+  },
+  "name": "Bioinorgánica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c50"
+  },
+  "name": "Bioquimica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c51"
+  },
+  "name": "Bioquimica analitica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c52"
+  },
+  "name": "Calidad y Quimiometría",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c53"
+  },
+  "name": "Comunicación oral y escrita",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c54"
+  },
+  "name": "Energía y combustible",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c55"
+  },
+  "name": "Espectroscopía aplicada",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c56"
+  },
+  "name": "Fisicoquímica II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c57"
+  },
+  "name": "Fundamentos de biología molecular",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c58"
+  },
+  "name": "Fundamentos de espectroscopía",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c59"
+  },
+  "name": "Fundamentos de Física Experimental",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c5a"
+  },
+  "name": "Ingeniería económica",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c5b"
+  },
+  "name": "Interfaces",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c5c"
+  },
+  "name": "Introducción a la ciencia de materiales",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c5d"
+  },
+  "name": "Introducción a la farmacia",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c5e"
+  },
+  "name": "Introducción a la química de alimentos",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c5f"
+  },
+  "name": "Laboratorio avanzado de analítica",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c60"
+  },
+  "name": "Laboratorio avanzado de bioquímica",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c61"
+  },
+  "name": "Laboratorio avanzado de industrial",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c62"
+  },
+  "name": "Laboratorio avanzado de inorgánica",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c63"
+  },
+  "name": "Laboratorio avanzado de orgánica",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c64"
+  },
+  "name": "Laboratorio de Análisis Químico Instrumental",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c65"
+  },
+  "name": "Laboratorio de bioquímica",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c66"
+  },
+  "name": "Laboratorio de fisicoquímica I",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c67"
+  },
+  "name": "Laboratorio de fisicoquímica II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c68"
+  },
+  "name": "Laboratorio de química agrícola",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33e35ee398eb5f01c69"
+  },
+  "name": "Laboratorio de química de alimentos",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c6a"
+  },
+  "name": "Laboratorio de Química Inorgánica",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c6b"
+  },
+  "name": "Laboratorio de química orgánica I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c6c"
+  },
+  "name": "Laboratorio de Química Orgánica II",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c6d"
+  },
+  "name": "Métodos Cromatográficos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c6e"
+  },
+  "name": "Métodos Electroquímicos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c6f"
+  },
+  "name": "Métodos ópticos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c70"
+  },
+  "name": "Microbiologia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c71"
+  },
+  "name": "Modelamiento en química",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c72"
+  },
+  "name": "Nanomateriales y nanotecnología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c73"
+  },
+  "name": "Principios de química industrial",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c74"
+  },
+  "name": "Programación de computadores",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c75"
+  },
+  "name": "Química agrícola",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c76"
+  },
+  "name": "Química de aromas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c77"
+  },
+  "name": "Química de biomateriales dentales",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c78"
+  },
+  "name": "Química de Carbaniones",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c79"
+  },
+  "name": "Química de Heterociclos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c7a"
+  },
+  "name": "Química de hongos",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c7b"
+  },
+  "name": "Química de polimeros",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c7c"
+  },
+  "name": "Química de Sólidos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c7d"
+  },
+  "name": "Química estructural",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c7e"
+  },
+  "name": "Química fundamental",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c7f"
+  },
+  "name": "Química inorgánica farmacéutica",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c80"
+  },
+  "name": "Química Metalorgánica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c81"
+  },
+  "name": "Química orgánica I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c82"
+  },
+  "name": "Química orgánica II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c83"
+  },
+  "name": "Seguridad industrial",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c84"
+  },
+  "name": "Taller de comprensión y producción de textos I",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c85"
+  },
+  "name": "Trabajo de grado - Asignaturas de Posgrado",
+  "credits": "8",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c86"
+  },
+  "name": "Administración de farmacias ambulatorias",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c87"
+  },
+  "name": "Administración farmacéutica",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c88"
+  },
+  "name": "Análisis instrumental farmacéutico",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c89"
+  },
+  "name": "Aplicaciones de la biotecnología en terapéutica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c8a"
+  },
+  "name": "Aplicaciones farmacéuticas en veterinaria",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c8b"
+  },
+  "name": "Aseguramiento de calidad",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c8c"
+  },
+  "name": "Bioanalítica farmacéutica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c8d"
+  },
+  "name": "Biofarmacia y farmacocinética",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c8e"
+  },
+  "name": "Buenas prácticas de manufactura",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c8f"
+  },
+  "name": "Calidad y legislación de fitofarmacéuticos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c90"
+  },
+  "name": "Control de calidad farmacéutico",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c91"
+  },
+  "name": "Diseño y Desarrollo de Productos Farmacéuticos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c92"
+  },
+  "name": "Diseño y evaluación de productos cosméticos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c93"
+  },
+  "name": "Estabilidad de medicamentos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c94"
+  },
+  "name": "Estadística social fundamental",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c95"
+  },
+  "name": "Farmacia hospitalaria I",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c96"
+  },
+  "name": "Farmacia hospitalaria II",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c97"
+  },
+  "name": "Farmacia industrial",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c98"
+  },
+  "name": "Farmacia química i",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c99"
+  },
+  "name": "Farmacia química II",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c9a"
+  },
+  "name": "Farmacocinética clínica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c9b"
+  },
+  "name": "Farmacognosia y fitoquímica",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c9c"
+  },
+  "name": "Farmacología especial",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c9d"
+  },
+  "name": "Farmacología general",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c9e"
+  },
+  "name": "Farmacotecnia I",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01c9f"
+  },
+  "name": "Farmacotecnia II",
+  "credits": "5",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ca0"
+  },
+  "name": "Farmacoterapia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ca1"
+  },
+  "name": "Fisioanatomía",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ca2"
+  },
+  "name": "Fisiopatología",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ca3"
+  },
+  "name": "Fundamentos de bromatología",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ca4"
+  },
+  "name": "Gestión en servicios farmacéuticos",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ca5"
+  },
+  "name": "Historia universal de la farmacia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ca6"
+  },
+  "name": "Introducción a la atención farmacéutica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ca7"
+  },
+  "name": "Introducción a la farmacia clínica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ca8"
+  },
+  "name": "Introducción a la farmacoepidemiología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ca9"
+  },
+  "name": "Introducción a la fitoterapia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01caa"
+  },
+  "name": "Legislación farmacéutica",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cab"
+  },
+  "name": "Mecanismos de patogenicidad",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cac"
+  },
+  "name": "Microbiología farmacéutica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cad"
+  },
+  "name": "Microbiología general",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cae"
+  },
+  "name": "Modelos de farmacología experimental",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01caf"
+  },
+  "name": "Nutrición clínica en patologías especiales",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cb0"
+  },
+  "name": "Operaciones unitarias farmacéuticas",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cb1"
+  },
+  "name": "Parasitología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cb2"
+  },
+  "name": "Péptidos y proteínas de uso farmaceutico",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cb3"
+  },
+  "name": "Procesos industriales de transformación farmacéutica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cb4"
+  },
+  "name": "Propiedad industrial farmacéutica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cb5"
+  },
+  "name": "Salud pública y farmacia",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cb6"
+  },
+  "name": "Tópicos selectos en toxicología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cb7"
+  },
+  "name": "Toxicología",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cb8"
+  },
+  "name": "Validación de metodologías analíticas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cb9"
+  },
+  "name": "Validación de procesos farmacéuticos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cba"
+  },
+  "name": "Álgebra matricial",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cbb"
+  },
+  "name": "Análisis de correspondencias",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cbc"
+  },
+  "name": "Análisis de datos categóricos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cbd"
+  },
+  "name": "Análisis de datos longitudinales",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cbe"
+  },
+  "name": "Análisis de regresión",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cbf"
+  },
+  "name": "Análisis estocástico",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cc0"
+  },
+  "name": "Análisis multivariado",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cc1"
+  },
+  "name": "Cálculo actuarial",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cc2"
+  },
+  "name": "Computación estadística",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cc3"
+  },
+  "name": "Consultoría estadística",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cc4"
+  },
+  "name": "Control estadístico de calidad",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cc5"
+  },
+  "name": "Demografía",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cc6"
+  },
+  "name": "Demografia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cc7"
+  },
+  "name": "Diseño de experimentos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cc8"
+  },
+  "name": "Diseño, gestión y evaluación de proyectos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cc9"
+  },
+  "name": "Diseño y desarrollo de encuestas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01cca"
+  },
+  "name": "Epidemiología",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ccb"
+  },
+  "name": "Estadística bayesiana",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a33f35ee398eb5f01ccc"
+  },
+  "name": "Estadística descriptiva y exploratoria",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ccd"
+  },
+  "name": "Estadística espacial",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cce"
+  },
+  "name": "Estadística y sociedad",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ccf"
+  },
+  "name": "Estrategia de mercados",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cd0"
+  },
+  "name": "Examen de clasificación en inglés",
+  "credits": "0",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cd1"
+  },
+  "name": "Finanzas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cd2"
+  },
+  "name": "Finanzas y modelos de inversión",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cd3"
+  },
+  "name": "Fundamentos de física moderna",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cd4"
+  },
+  "name": "Geometría Elemental",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cd5"
+  },
+  "name": "Indicadores sociales",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cd6"
+  },
+  "name": "Inferencia estadística",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cd7"
+  },
+  "name": "Inglés II- Intensivo",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cd8"
+  },
+  "name": "Inglés III-Intensivo",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cd9"
+  },
+  "name": "Inglés intensivo I",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cda"
+  },
+  "name": "Inglés IV- intensivo",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cdb"
+  },
+  "name": "Inteligencia Artificial",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cdc"
+  },
+  "name": "Investigación de operaciones I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cdd"
+  },
+  "name": "Matemáticas Discretas",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cde"
+  },
+  "name": "Métodos de clasificación",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cdf"
+  },
+  "name": "Métodos no paramétricos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ce0"
+  },
+  "name": "Métodos numéricos",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ce1"
+  },
+  "name": "Minería de datos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ce2"
+  },
+  "name": "Modelamiento y simulación",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ce3"
+  },
+  "name": "Modelos de sobrevivencia multivariados",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ce4"
+  },
+  "name": "Modelos de sobrevivencia univariados",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ce5"
+  },
+  "name": "Modelos lineales generalizados",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ce6"
+  },
+  "name": "Modelos matemáticos",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ce7"
+  },
+  "name": "Muestreo en poblaciones biológicas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ce8"
+  },
+  "name": "Muestreo estadístico",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ce9"
+  },
+  "name": "Procesos estocásticos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cea"
+  },
+  "name": "Programación en lenguajes estadísticos",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ceb"
+  },
+  "name": "Seminario de estadística",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cec"
+  },
+  "name": "Series de tiempo multivariadas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01ced"
+  },
+  "name": "Series de tiempo univariadas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cee"
+  },
+  "name": "Teoria de diseño de experimentos",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cef"
+  },
+  "name": "Teoria de estadistica no parametrica",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cf0"
+  },
+  "name": "Teoria de muestreo",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cf1"
+  },
+  "name": "Teoría de respuesta al ítem",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cf2"
+  },
+  "name": "Teoría de series de tiempo univariadas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cf3"
+  },
+  "name": "Teoría estadística del riesgo",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cf4"
+  },
+  "name": "Topicos avanzados de diseño experimental",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cf5"
+  },
+  "name": "Tópicos de econometría I",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cf6"
+  },
+  "name": "Tópicos de econometría II",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cf7"
+  },
+  "name": "Trabajo de grado",
+  "credits": "8",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cf8"
+  },
+  "name": "Análisis del discurso I",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cf9"
+  },
+  "name": "Apreciación musical",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cfa"
+  },
+  "name": "Catedra de creacion - facultad de artes",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cfb"
+  },
+  "name": "Ciencia e ingeniería de materiales",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cfc"
+  },
+  "name": "Colombia Contemporánea",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cfd"
+  },
+  "name": "Elasticidad y fluidos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cfe"
+  },
+  "name": "Electricidad y Magnetismo",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01cff"
+  },
+  "name": "Electrodinámica I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d00"
+  },
+  "name": "Electrodinámica II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d01"
+  },
+  "name": "Electrónica analógica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d02"
+  },
+  "name": "Electrónica básica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d03"
+  },
+  "name": "Electrónica Digital",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d04"
+  },
+  "name": "Estructura de la sociedad moderna I",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d05"
+  },
+  "name": "Experimentos en Física Moderna",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d06"
+  },
+  "name": "Fundamentos de administración",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d07"
+  },
+  "name": "Fundamentos de contabilidad financiera",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d08"
+  },
+  "name": "Fundamentos de economía",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d09"
+  },
+  "name": "Fundamentos de Óptica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d0a"
+  },
+  "name": "Fundamentos de psicología",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d0b"
+  },
+  "name": "Herramientas computacionales",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d0c"
+  },
+  "name": "Historia económica general",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d0d"
+  },
+  "name": "Introducción a ingeniería eléctrica",
+  "credits": "5",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d0e"
+  },
+  "name": "Introducción a ingeniería electrónica",
+  "credits": "5",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d0f"
+  },
+  "name": "Introducción a la física subátomica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d10"
+  },
+  "name": "Introducción a la ingeniería agrícola",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d11"
+  },
+  "name": "Introducción a la Ingeniería Civil",
+  "credits": "2",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d12"
+  },
+  "name": "Introducción a la Ingeniería Industrial",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d13"
+  },
+  "name": "Introducción a la investigación experimental",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d14"
+  },
+  "name": "Introducción a la investigación teórica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d15"
+  },
+  "name": "Introducción a la Literatura",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d16"
+  },
+  "name": "Introducción a la Sociología",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d17"
+  },
+  "name": "Introducción a los espacios de Hilbert",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d18"
+  },
+  "name": "Introducción al estado sólido",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d19"
+  },
+  "name": "Lógica I",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d1a"
+  },
+  "name": "Matemáticas especiales I para física",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d1b"
+  },
+  "name": "Matemáticas especiales II para física",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d1c"
+  },
+  "name": "Mecánica Cuántica I",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d1d"
+  },
+  "name": "Mecánica cuántica II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d1e"
+  },
+  "name": "Mecánica Estadística",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d1f"
+  },
+  "name": "Mediciones de óptica y acústica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d20"
+  },
+  "name": "Mediciones Electromagnéticas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d21"
+  },
+  "name": "Mediciones Mecánicas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d22"
+  },
+  "name": "Oscilaciones y ondas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d23"
+  },
+  "name": "Programacion de computadores",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34035ee398eb5f01d24"
+  },
+  "name": "Programación e introducción a los métodos numéricos",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d25"
+  },
+  "name": "Relatividad",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d26"
+  },
+  "name": "Taller de Matemáticas y Ciencias",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d27"
+  },
+  "name": "Técnicas de caracterización A",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d28"
+  },
+  "name": "Técnicas de caracterización B",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d29"
+  },
+  "name": "Temas de Física Contemporánea",
+  "credits": "1",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d2a"
+  },
+  "name": "Termodinámica - Modulo Experimental",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d2b"
+  },
+  "name": "Termodinámica-módulo de teoría",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d2c"
+  },
+  "name": "Arquitectura de infraestructura y gobierno de tics",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d2d"
+  },
+  "name": "Arquitectura de Software",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d2e"
+  },
+  "name": "Complemento a teoría de la computación",
+  "credits": "1",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d2f"
+  },
+  "name": "Computación paralela y distribuida",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d30"
+  },
+  "name": "Comunicaciones",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d31"
+  },
+  "name": "Gerencia y gestión de proyectos",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d32"
+  },
+  "name": "Ingeniería de software II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d33"
+  },
+  "name": "Ingeniería económica y análisis de riesgo",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d34"
+  },
+  "name": "Inglés intensivo II",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d35"
+  },
+  "name": "Inglés Intensivo II y III",
+  "credits": "6",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d36"
+  },
+  "name": "Inglés Intensivo IV",
+  "credits": "3",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d37"
+  },
+  "name": "Introducción a la criptografía y a la seguridad de la Información",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d38"
+  },
+  "name": "Introducción a la ingeniería de sistemas y computación",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d39"
+  },
+  "name": "Introducción a los sistemas inteligentes",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d3a"
+  },
+  "name": "Lenguajes de programación",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d3b"
+  },
+  "name": "Matemáticas discretas I",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d3c"
+  },
+  "name": "Matemáticas discretas II",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d3d"
+  },
+  "name": "Modelos estocásticos y simulación en computación y comunicaciones",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d3e"
+  },
+  "name": "Modelos y simulación",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d3f"
+  },
+  "name": "Redes de computadores",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d40"
+  },
+  "name": "Sistemas de información",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d41"
+  },
+  "name": "Sistemas de Información Gerencial",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d42"
+  },
+  "name": "Taller de proyectos interdisciplinarios",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d43"
+  },
+  "name": "Teoría de la computación",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d44"
+  },
+  "name": "Teoría de la información y sistemas de comunicacion",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d45"
+  },
+  "name": "Trabajo de grado - asignaturas de posgrado",
+  "credits": "6",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d46"
+  },
+  "name": "Trabajo de grado - modalidad practica de extensión",
+  "credits": "6",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d47"
+  },
+  "name": "Trabajo de grado - modalidad trabajos investigativos",
+  "credits": "6",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d48"
+  },
+  "name": "Análisis estructural básico",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d49"
+  },
+  "name": "Aplicaciones de elementos finitos",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d4a"
+  },
+  "name": "Competitividad, productividad y benchmarking",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d4b"
+  },
+  "name": "Construcciones rurales: Materiales y administración de obra",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d4c"
+  },
+  "name": "Control en biosistemas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d4d"
+  },
+  "name": "Dibujo básico",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d4e"
+  },
+  "name": "Diseño de estructuras de concreto",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d4f"
+  },
+  "name": "Diseño de sistemas de riego",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d50"
+  },
+  "name": "Drenaje de tierras agricolas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d51"
+  },
+  "name": "Economía general",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d52"
+  },
+  "name": "Electrotecnia",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d53"
+  },
+  "name": "Elementos de máquinas agrícolas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d54"
+  },
+  "name": "Estática",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d55"
+  },
+  "name": "Fuentes de potencia en la agricultura",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d56"
+  },
+  "name": "Geomática básica",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d57"
+  },
+  "name": "Gerencia de recursos humanos",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d58"
+  },
+  "name": "Gerencia y planeación estratégica",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d59"
+  },
+  "name": "Hidráulica básica",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d5a"
+  },
+  "name": "Hidrología",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d5b"
+  },
+  "name": "Ingeniería de riegos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d5c"
+  },
+  "name": "Investigación de mercados",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d5d"
+  },
+  "name": "Máquinas agrícolas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d5e"
+  },
+  "name": "Mecánica de fluidos",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d5f"
+  },
+  "name": "Mecánica de sólidos",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d60"
+  },
+  "name": "Mecánica de suelos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d61"
+  },
+  "name": "Mercados I",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d62"
+  },
+  "name": "Modelación matemática",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d63"
+  },
+  "name": "Poscosecha de frutas y hortalizas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d64"
+  },
+  "name": "Poscosecha de granos y semillas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d65"
+  },
+  "name": "Sistemas de costos",
+  "credits": "4",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d66"
+  },
+  "name": "Suelos agrícolas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d67"
+  },
+  "name": "Suficiencia por Acogimiento al Acuerdo 032",
+  "credits": "12",
+  "type": "E"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d68"
+  },
+  "name": "Termodinámica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d69"
+  },
+  "name": "Transferencia de calor y masa",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d6a"
+  },
+  "name": "Administración de empresas",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d6b"
+  },
+  "name": "Campos electromagnéticos",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34135ee398eb5f01d6c"
+  },
+  "name": "Circuitos de RF",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d6d"
+  },
+  "name": "Circuitos Eléctricos I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d6e"
+  },
+  "name": "Circuitos Eléctricos II",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d6f"
+  },
+  "name": "Comunicaciones Ópticas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d70"
+  },
+  "name": "Control",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d71"
+  },
+  "name": "Diseño de sistemas electrónicos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d72"
+  },
+  "name": "Electrónica análoga I",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d73"
+  },
+  "name": "Electrónica análoga II",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d74"
+  },
+  "name": "Electrónica de potencia",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d75"
+  },
+  "name": "Electrónica digital I",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d76"
+  },
+  "name": "Electrónica digital II",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d77"
+  },
+  "name": "Física de Semiconductores",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d78"
+  },
+  "name": "Instrumentación y medidas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d79"
+  },
+  "name": "Líneas y antenas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d7a"
+  },
+  "name": "Probabilidad fundamental",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d7b"
+  },
+  "name": "Redes de telecomunicaciones",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d7c"
+  },
+  "name": "Señales y sistemas I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d7d"
+  },
+  "name": "Señales y Sistemas II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d7e"
+  },
+  "name": "Sistemas embebidos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d7f"
+  },
+  "name": "Taller de ingeniería electrónica",
+  "credits": "2",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d80"
+  },
+  "name": "Verificación de sistemas digitales",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d81"
+  },
+  "name": "Acueductos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d82"
+  },
+  "name": "Alcantarillados",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d83"
+  },
+  "name": "Análisis de incertidumbre en ingeniería civil",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d84"
+  },
+  "name": "Análisis estructural aplicado",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d85"
+  },
+  "name": "Construcción de edificaciones",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d86"
+  },
+  "name": "Construcción de Infraestructura Vial",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d87"
+  },
+  "name": "Construcción de Obras Fluviales y Litorales",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d88"
+  },
+  "name": "Dinámica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d89"
+  },
+  "name": "Diseño estructural",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34235ee398eb5f01d8a"
+  },
+  "name": "Diseño geométrico de Vías",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d8b"
+  },
+  "name": "Estructuras hidráulicas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d8c"
+  },
+  "name": "Fundamentos de construcción",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d8d"
+  },
+  "name": "Geología",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d8e"
+  },
+  "name": "Geomática Aplicada",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d8f"
+  },
+  "name": "Geotecnia",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d90"
+  },
+  "name": "Gestión en construcción",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d91"
+  },
+  "name": "Ingeniería civil sostenible",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d92"
+  },
+  "name": "Ingeniería de Tránsito",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d93"
+  },
+  "name": "Ingenieria de transporte",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d94"
+  },
+  "name": "Introducción a la ingeniería civil",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d95"
+  },
+  "name": "Materiales para construcción",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d96"
+  },
+  "name": "Mecánica de Rocas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d97"
+  },
+  "name": "Métodos numéricos para ingeniería civil",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d98"
+  },
+  "name": "Pavimentos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d99"
+  },
+  "name": "Preparación y evaluación de proyectos de infraestructura",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d9a"
+  },
+  "name": "Saneamiento ambiental",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d9b"
+  },
+  "name": "SIG para Ingeniería Civil",
+  "credits": "3",
+  "type": "O"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d9c"
+  },
+  "name": "Taller de Experimentación y Modelación",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d9d"
+  },
+  "name": "Transporte Sostenible",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d9e"
+  },
+  "name": "Análisis de sistemas dinámicos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01d9f"
+  },
+  "name": "Dibujo de Máquinas",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01da0"
+  },
+  "name": "Diseño de elementos de máquinas I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01da1"
+  },
+  "name": "Diseño de elementos de máquinas II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01da2"
+  },
+  "name": "Fundamentos de control",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01da3"
+  },
+  "name": "Fundamentos de transferencia de calor",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01da4"
+  },
+  "name": "Fundamentos de turbomaquinaria",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01da5"
+  },
+  "name": "Ingeniería de Manufactura",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01da6"
+  },
+  "name": "Ingeniería y Desarrollo Sostenible",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01da7"
+  },
+  "name": "Instalaciones y máquinas eléctricas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01da8"
+  },
+  "name": "Materiales de Ingeniería",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01da9"
+  },
+  "name": "Mecanismos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01daa"
+  },
+  "name": "Motores de Combustión Interna",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01dab"
+  },
+  "name": "Plantas Térmicas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01dac"
+  },
+  "name": "Principios de dinámica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01dad"
+  },
+  "name": "Principios de Estática",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01dae"
+  },
+  "name": "Principios de mecánica de fluidos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01daf"
+  },
+  "name": "Procesos de Manufactura I",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01db0"
+  },
+  "name": "Procesos de Manufactura II",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34335ee398eb5f01db1"
+  },
+  "name": "Proyecto aplicado de ingeniería",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01db2"
+  },
+  "name": "Resistencia de Materiales",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01db3"
+  },
+  "name": "Tecnología mecánica básica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01db4"
+  },
+  "name": "Termodinámica de sistemas energéticos",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01db5"
+  },
+  "name": "Termodinámica técnica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01db6"
+  },
+  "name": "Tecnología Digital",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01db7"
+  },
+  "name": "Aislamiento eléctrico",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01db8"
+  },
+  "name": "Análisis de Sistemas de Potencia",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01db9"
+  },
+  "name": "Estabilidad de sistemas de potencia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01dba"
+  },
+  "name": "Instalaciones eléctricas",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01dbb"
+  },
+  "name": "Laboratorio de conversión electromagnética",
+  "credits": "2",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01dbc"
+  },
+  "name": "Matematicas iv",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01dbd"
+  },
+  "name": "Mecánica para Ingeniería",
+  "credits": "3",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01dbe"
+  },
+  "name": "Protección de sistemas de potencia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01dbf"
+  },
+  "name": "Subestaciones eléctricas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34435ee398eb5f01dc0"
+  },
+  "name": "Taller de ingeniería",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dc1"
+  },
+  "name": "Tópicos de sistemas de potencia",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dc2"
+  },
+  "name": "Transmisión y Distribución",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dc3"
+  },
+  "name": "Administración de personal I",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dc4"
+  },
+  "name": "Complemento probabilidad fundamental",
+  "credits": "1",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dc5"
+  },
+  "name": "Contabilidad de Gestión Avanzada",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dc6"
+  },
+  "name": "Control y gestión de calidad",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dc7"
+  },
+  "name": "Creación y gestión de empresas",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dc8"
+  },
+  "name": "Finanzas avanzadas",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dc9"
+  },
+  "name": "Gestión tecnológica",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dca"
+  },
+  "name": "Inferencia estadística fundamental",
+  "credits": "4",
+  "type": "B"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dcb"
+  },
+  "name": "Introducción a la ingeniería industrial",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dcc"
+  },
+  "name": "Logística",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dcd"
+  },
+  "name": "Microeconomía I",
+  "credits": "4",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dce"
+  },
+  "name": "Modelos estocásticos para procesos de manufactura y sistemas de servicios",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dcf"
+  },
+  "name": "Planeación estratégica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dd0"
+  },
+  "name": "Sociología especial: Industrial y del trabajo",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dd1"
+  },
+  "name": "Taller de ciencia y tecnología de materiales",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dd2"
+  },
+  "name": "Taller de diseño de plantas",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dd3"
+  },
+  "name": "Taller de ergonomía e ingeniería de métodos",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dd4"
+  },
+  "name": "Taller de herramientas y problemas en ingeniería industrial",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dd5"
+  },
+  "name": "Taller de ingeniería de la producción",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dd6"
+  },
+  "name": "Taller de invención y creatividad",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dd7"
+  },
+  "name": "Taller de metodología de la investigación",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dd8"
+  },
+  "name": "Taller de Procesos Metalmecánicos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dd9"
+  },
+  "name": "Taller de Procesos Químicos y Biotecnológicos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dda"
+  },
+  "name": "Taller de simulación procesos de manufactura y sistemas de servicios",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01ddb"
+  },
+  "name": "Teoría Contemporánea de la Organización",
+  "credits": "4",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01ddc"
+  },
+  "name": "Trabajo de grado - Modalidad practica de extension",
+  "credits": "6",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01ddd"
+  },
+  "name": "Trabajo de grado - Modalidad trabajos investigativos",
+  "credits": "6",
+  "type": "P"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01dde"
+  },
+  "name": "Automatización de Procesos de Manufactura",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34535ee398eb5f01ddf"
+  },
+  "name": "Diseño Mecatrónico",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34635ee398eb5f01de0"
+  },
+  "name": "Microcontroladores",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34635ee398eb5f01de1"
+  },
+  "name": "Robótica",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34635ee398eb5f01de2"
+  },
+  "name": "Sensores y actuadores",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34635ee398eb5f01de3"
+  },
+  "name": "Servomecanismos",
+  "credits": "3",
+  "type": "C"
+},{
+  "_id": {
+    "$oid": "6473a34635ee398eb5f01de4"
+  },
+  "name": "Técnicas de control",
+  "credits": "3",
+  "type": "T"
+},{
+  "_id": {
+    "$oid": "6473a34635ee398eb5f01de5"
+  },
+  "name": "Técnicas de Inteligencia Artificial",
+  "credits": "3",
+  "type": "T"
+}]
